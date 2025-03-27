@@ -1,139 +1,119 @@
-# Dr. Lucas Maldonado
+# 👨‍🔬 Dr. Lucas Maldonado
 
-## Researcher and Bioinformatics Scientist | NGS & Multi-Omics Specialist
+## 💼 Researcher & Bioinformatics Scientist | NGS & Multi-Omics Specialist
 
-Specialized in bioinformatics strategies, NGS, and data-driven research. Scientific innovation for organizational growth.
-
-📧 **Email:** lucas.l.maldonado@gmail.com  
-🔗 **LinkedIn:** [Lucas Maldonado](https://www.linkedin.com/in/lucas-maldonado-phd-2aab0247)  
+📧 **Email:** [lucas.l.maldonado@gmail.com](mailto:lucas.l.maldonado@gmail.com)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lucas-maldonado-phd-2aab0247)  
+🌐 **GitHub:** [GitHub Profile](https://github.com/lucasmaldonado)
 
 ---
 
 ## 🧬 Summary
-I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analysing complex transcriptomic datasets. I specialize in single-cell and bulk RNA-seq analysis, genomics, and multi-omics approaches, including the integration of transcriptomics, genomics, epigenomics, and proteomics. 
-My ability combines both, leadership with deep technical expertise. I thrive under pressure, seamlessly integrating responsibility, enthusiasm, strategic thinking, and meticulous attention to detail while leveraging agile methodologies to drive impactful results. This approach, combined with my extensive experience in both wet lab and in silico research, as well as strong leadership skills, allows me to deliver high-value contributions in any professional setting.
-My expertise includes:
-- **Single-Cell Transcriptomics** (scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics)
-- **Bulk RNA-seq** and differential expression analysis
-- **Multi-Omics Data Integration** (genomics, proteomics, and epigenomics)
-- **Variant Analysis & Functional Genomics**
-- **Development of Scalable Pipelines & HPC for Omics Data Processing**
 
-## 💼 Experience
+I am a bioinformatics scientist with **15+ years** of experience specializing in **Next-Generation Sequencing (NGS)**, **single-cell transcriptomics**, and **multi-omics integration**. I have led high-impact projects in **single-cell genomics**, **functional transcriptomics**, and **precision medicine** while developing **computational algorithms** and **bioinformatics pipelines** for scalable, reproducible data analysis.
+
+**Core expertise:**
+- **Single-Cell Transcriptomics**: scRNA-seq, CITE-seq, ATAC-seq, Spatial Transcriptomics
+- **Multi-Omics Integration**: Genomics, Proteomics, Epigenomics
+- **NGS Data Processing & Analysis**
+- **Computational Biology Algorithms**
+
+My passion lies in transforming complex data into actionable insights and leveraging cutting-edge technologies to drive scientific discoveries. I excel in **strategic thinking**, **problem-solving**, and fostering innovation in bioinformatics research.
+
+---
+
+## 🏆 Experience
+
 ### **Bioinformatics Manager**  
-📍 *Stamm Vegh Corporation* (Aug 2021 - Present)  
-- Lead the design and implementation of bioinformatics pipelines and algorithms.
-- Oversee sequencing facility operations and manage a specialized team.
-- Develop strategic bioinformatics plans and workflows for NGS data.
+📍 *Stamm Vegh Corporation* (Aug 2021 - Present)
+- Spearheading bioinformatics pipeline design and implementation.
+- Managing sequencing operations and leading a dedicated team.
+- Overseeing the development of strategic bioinformatics workflows.
 
 ### **Leader of Bioinformatics Department**  
-📍 *Stamm Vegh Corporation* (Aug 2021 - Present)  
-- Direct a specialized division integrating bioinformatics techniques into research operations.
-- Implement workflow strategies and ensure efficient delivery of NGS data analysis.
-- Develop and implement novel computational methods for biological data interpretation.
+📍 *Stamm Vegh Corporation* (Aug 2021 - Present)
+- Leading the integration of bioinformatics into research operations.
+- Driving the development of computational methods for biological data.
 
 ### **University Professor**  
-📍 *UADE University* (Jul 2020 - Present)  
-- Organize postgraduate courses and workshops in bioinformatics.
-- Design training programs focusing on Linux-based bioinformatics analysis.
-- Mentor students and professionals in advanced bioinformatics techniques.
+📍 *UADE University* (Jul 2020 - Present)
+- Designing and teaching postgraduate courses in bioinformatics.
+- Mentoring students in advanced techniques for data analysis and bioinformatics.
 
-### **Scientific R&D Advisor | Bioinformatics & NGS Specialist**  
-📍 *Independent Consultant* (Jul 2015 - Present)  
-- Advise institutions on optimizing NGS protocols, QC, and data analysis.
-- Provide interpretation of complex omics datasets for biomedical applications.
-- Develop bioinformatics solutions for translational medicine and clinical applications.
+### **Scientific R&D Advisor**  
+📍 *Independent Consultant* (Jul 2015 - Present)
+- Consulting on optimizing NGS protocols and data analysis.
+- Delivering insights from complex multi-omics datasets for biomedical applications.
 
 ### **Postdoctoral Researcher (Bioinformatics & Genomics)**  
 📍 *University of Edinburgh, UK* (2017 - 2019)  
-📍 *CONICET – University of Buenos Aires, Argentina* (2019 - 2021)  
-- Led bioinformatics research on infectious diseases, genomics, and transcriptomics.
-- Conducted sequencing and data analysis to uncover disease mechanisms.
-- Published high-impact research articles in peer-reviewed journals.
+📍 *CONICET, Argentina* (2019 - 2021)  
+- Leading genomic and transcriptomic research on infectious diseases.
+- Conducted data analysis to uncover disease mechanisms and published impactful research.
 
 ---
 
 ## 🎓 Education
+
 - **Ph.D. in Biological Sciences (Bioinformatics)**  
   *University of Buenos Aires, CONICET, Argentina*  
-  *Major: Bioinformatics, Genomics, and Infectious Diseases*
-- **M.Sc. in Biotechnology and Molecular Biology**  
-  *National University of La Plata, Argentina*  
-  *Major: Biotechnology*
+  *Focus*: Bioinformatics, Genomics, Infectious Diseases
+
+- **M.Sc. in Biotechnology & Molecular Biology**  
+  *National University of La Plata, Argentina*
 
 ---
 
 ## 🌍 Languages
-- **Spanish** (Native)  
-- **English** (Proficient)  
-- **Portuguese** (Advanced)  
+- **Spanish** (Native)
+- **English** (Proficient)
+- **Portuguese** (Advanced)
 
 ---
 
-## 🏆 Achievements
-- **Pioneering Leadership at STAMM Corporation:** Created and led the Bioinformatics Division, driving cutting-edge pipeline implementation and team growth.
-- **Sequencing Facility Design:** Spearheaded sequencing facility development to enhance genomic analysis capabilities.
-- **Trusted Scientific Advisor & R&D Expert:** Provided expertise in shaping NGS experiments, bioinformatics pipelines, and increasing wet lab response times.
-- **Bioinformatics Node Establishment:** Created bioinformatics nodes optimizing computational analysis and scientific advancement.
-- **Internationally Acclaimed Author:** Published 19+ groundbreaking scientific articles in genomics and biomedicine.
-- **Successful Project Leadership:** Led bioinformatics software development projects integrating research and technological solutions.
+## 🌟 Achievements
+
+- **Pioneering Leadership at STAMM Corporation**: Founded the Bioinformatics Division, expanding capabilities for cutting-edge data analysis.
+- **Sequencing Facility Development**: Led the design of a state-of-the-art sequencing facility.
+- **Global Impact**: Published 19+ peer-reviewed articles on genomics and precision medicine.
 
 ---
 
 ## 🔬 Skills
-### **Management & Interpersonal Abilities**
-- Leadership and Project Management  
-- Strategic Thinking, Innovation, and R&D Criteria  
-- Interdisciplinary Expertise  
-- Resilient Under Pressure  
-- Responsibility, Precision, and Accuracy  
-- Effective Team Communicator  
-- Trusted and Empathetic Leader  
-- Team Building & Mentoring  
-- Agile Methodologies & Problem Solving  
-- Adaptability & Creativity in Research  
 
-### **Computing & Bioinformatics**
-- Linux Systems, Docker, HPC  
-- Cloud Computing & Cluster Design  
-- System Administration & SQL  
-- Nextflow, Snakemake, and Workflow Management  
-- Comparative Genomics & Metagenomics  
-- De novo Assembly & Genetic Variant Analysis  
-- Structural Bioinformatics & Phylogenetics  
-- Data Visualization & Statistical Data Analysis  
-- Machine Learning for Omics Data  
+### Management & Leadership
+- **Project Management** | **Team Building** | **Agile Methodologies**  
+- **Strategic Thinking** | **Innovation** | **R&D Leadership**  
+- **Mentoring & Coaching** | **Collaboration**
+
+### Bioinformatics & Computational Skills
+- **Linux** | **Docker** | **HPC** | **Nextflow** | **Snakemake**  
+- **Genomics & Metagenomics** | **Variant Analysis** | **RNA-seq**  
+- **Machine Learning for Omics Data** | **Data Visualization**  
+- **Cloud Computing** | **SQL** | **Workflow Automation**
 
 ---
 
-## 💻 Technical & Computational Skills
-- **Programming:** R, Python, Bash, Snakemake, Nextflow, SQL
-- **Data Analysis Tools:** Seurat, Scanpy, DESeq2, EdgeR, limma
-- **Cloud & HPC:** High-performance computing (HPC), cloud-based analysis
-- **Databases & Atlases:** GEO, Single Cell Portal, PanglaoDB, Azimuth, Human Cell Atlas (HCA)
-- **Workflow Automation & Machine Learning** for single-cell analysis
+## 💻 Technical Skills
+
+- **Programming**: R, Python, Bash, SQL, Nextflow, Snakemake
+- **Data Analysis**: DESeq2, EdgeR, Seurat, Scanpy
+- **Bioinformatics Tools**: GEO, Single Cell Portal, Human Cell Atlas
+- **High-Performance Computing (HPC)**: Cloud-based, Cluster Design
 
 ---
 
-### **Wet Lab & Experimental Design**
-- NGS Technologies (Illumina, Nanopore, PacBio, Sanger)  
-- Genetic Engineering & CRISPR-Cas Systems  
-- Transcriptomics, Single-Cell, and Multiomics  
-- Proteomics & Metabolic Engineering  
-- PCR, Electrophoresis, and Protein Purification  
+## 📝 Publications & Patents
 
----
-
-## 📜 Publications & Patents
 - **PubMed:** [NCBI Profile](https://www.ncbi.nlm.nih.gov/pubmed/?term=lucas+maldonado)  
-- **Patent:** *WO2024059658*  
+- **Patent:** *WO2024059658*
 
 ---
 
-## 🔍 Find Me Online
+## 🔗 Find Me Online
 - **GitHub:** [GitHub Profile](https://github.com/lucasmaldonado)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lucas-maldonado-phd-2aab0247)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lucas-maldonado-phd-2aab0247)
 
 ---
 
-This README serves as a brief introduction to my professional experience and technical expertise in bioinformatics and computational biology. 🚀
+This README introduces my professional journey and expertise in bioinformatics and computational biology. 🚀
