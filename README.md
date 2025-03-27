@@ -19,77 +19,6 @@ My expertise includes:
 - **Variant Analysis & Functional Genomics**
 - **Development of Scalable Pipelines & HPC for Omics Data Processing**
 
----
-
-## 🏆 Achievements
-- **Pioneering Leadership at STAMM Corporation:** Created and led the Bioinformatics Division, driving cutting-edge pipeline implementation and team growth.
-- **Sequencing Facility Design:** Spearheaded sequencing facility development to enhance genomic analysis capabilities.
-- **Trusted Scientific Advisor & R&D Expert:** Provided expertise in shaping NGS experiments, bioinformatics pipelines, and increasing wet lab response times.
-- **Bioinformatics Node Establishment:** Created bioinformatics nodes optimizing computational analysis and scientific advancement.
-- **Internationally Acclaimed Author:** Published 19+ groundbreaking scientific articles in genomics and biomedicine.
-- **Successful Project Leadership:** Led bioinformatics software development projects integrating research and technological solutions.
-
----
-
-## 💻 Technical & Computational Skills
-- **Programming:** R, Python, Bash, Snakemake, Nextflow, SQL
-- **Data Analysis Tools:** Seurat, Scanpy, DESeq2, EdgeR, limma
-- **Cloud & HPC:** High-performance computing (HPC), cloud-based analysis
-- **Databases & Atlases:** GEO, Single Cell Portal, PanglaoDB, Azimuth, Human Cell Atlas (HCA)
-- **Workflow Automation & Machine Learning** for single-cell analysis
-
----
-
-## 🔬 Skills
-### **Management & Interpersonal Abilities**
-- Leadership and Project Management  
-- Strategic Thinking, Innovation, and R&D Criteria  
-- Interdisciplinary Expertise  
-- Resilient Under Pressure  
-- Responsibility, Precision, and Accuracy  
-- Effective Team Communicator  
-- Trusted and Empathetic Leader  
-- Team Building & Mentoring  
-- Agile Methodologies & Problem Solving  
-- Adaptability & Creativity in Research  
-
-### **Computing & Bioinformatics**
-- Linux Systems, Docker, HPC  
-- Cloud Computing & Cluster Design  
-- System Administration & SQL  
-- Nextflow, Snakemake, and Workflow Management  
-- Comparative Genomics & Metagenomics  
-- De novo Assembly & Genetic Variant Analysis  
-- Structural Bioinformatics & Phylogenetics  
-- Data Visualization & Statistical Data Analysis  
-- Machine Learning for Omics Data  
-
-### **Wet Lab & Experimental Design**
-- NGS Technologies (Illumina, Nanopore, PacBio, Sanger)  
-- Genetic Engineering & CRISPR-Cas Systems  
-- Transcriptomics, Single-Cell, and Multiomics  
-- Proteomics & Metabolic Engineering  
-- PCR, Electrophoresis, and Protein Purification  
-
----
-
-## 🎓 Education
-- **Ph.D. in Biological Sciences (Bioinformatics)**  
-  *University of Buenos Aires, CONICET, Argentina*  
-  *Major: Bioinformatics, Genomics, and Infectious Diseases*
-- **M.Sc. in Biotechnology and Molecular Biology**  
-  *National University of La Plata, Argentina*  
-  *Major: Biotechnology*
-
----
-
-## 🌍 Languages
-- **Spanish** (Native)  
-- **English** (Proficient)  
-- **Portuguese** (Advanced)  
-
----
-
 ## 💼 Experience
 ### **Bioinformatics Manager**  
 📍 *Stamm Vegh Corporation* (Aug 2021 - Present)  
@@ -121,6 +50,77 @@ My expertise includes:
 - Led bioinformatics research on infectious diseases, genomics, and transcriptomics.
 - Conducted sequencing and data analysis to uncover disease mechanisms.
 - Published high-impact research articles in peer-reviewed journals.
+
+---
+
+## 🎓 Education
+- **Ph.D. in Biological Sciences (Bioinformatics)**  
+  *University of Buenos Aires, CONICET, Argentina*  
+  *Major: Bioinformatics, Genomics, and Infectious Diseases*
+- **M.Sc. in Biotechnology and Molecular Biology**  
+  *National University of La Plata, Argentina*  
+  *Major: Biotechnology*
+
+---
+
+## 🌍 Languages
+- **Spanish** (Native)  
+- **English** (Proficient)  
+- **Portuguese** (Advanced)  
+
+---
+
+## 🏆 Achievements
+- **Pioneering Leadership at STAMM Corporation:** Created and led the Bioinformatics Division, driving cutting-edge pipeline implementation and team growth.
+- **Sequencing Facility Design:** Spearheaded sequencing facility development to enhance genomic analysis capabilities.
+- **Trusted Scientific Advisor & R&D Expert:** Provided expertise in shaping NGS experiments, bioinformatics pipelines, and increasing wet lab response times.
+- **Bioinformatics Node Establishment:** Created bioinformatics nodes optimizing computational analysis and scientific advancement.
+- **Internationally Acclaimed Author:** Published 19+ groundbreaking scientific articles in genomics and biomedicine.
+- **Successful Project Leadership:** Led bioinformatics software development projects integrating research and technological solutions.
+
+---
+
+## 🔬 Skills
+### **Management & Interpersonal Abilities**
+- Leadership and Project Management  
+- Strategic Thinking, Innovation, and R&D Criteria  
+- Interdisciplinary Expertise  
+- Resilient Under Pressure  
+- Responsibility, Precision, and Accuracy  
+- Effective Team Communicator  
+- Trusted and Empathetic Leader  
+- Team Building & Mentoring  
+- Agile Methodologies & Problem Solving  
+- Adaptability & Creativity in Research  
+
+### **Computing & Bioinformatics**
+- Linux Systems, Docker, HPC  
+- Cloud Computing & Cluster Design  
+- System Administration & SQL  
+- Nextflow, Snakemake, and Workflow Management  
+- Comparative Genomics & Metagenomics  
+- De novo Assembly & Genetic Variant Analysis  
+- Structural Bioinformatics & Phylogenetics  
+- Data Visualization & Statistical Data Analysis  
+- Machine Learning for Omics Data  
+
+---
+
+## 💻 Technical & Computational Skills
+- **Programming:** R, Python, Bash, Snakemake, Nextflow, SQL
+- **Data Analysis Tools:** Seurat, Scanpy, DESeq2, EdgeR, limma
+- **Cloud & HPC:** High-performance computing (HPC), cloud-based analysis
+- **Databases & Atlases:** GEO, Single Cell Portal, PanglaoDB, Azimuth, Human Cell Atlas (HCA)
+- **Workflow Automation & Machine Learning** for single-cell analysis
+
+---
+
+### **Wet Lab & Experimental Design**
+- NGS Technologies (Illumina, Nanopore, PacBio, Sanger)  
+- Genetic Engineering & CRISPR-Cas Systems  
+- Transcriptomics, Single-Cell, and Multiomics  
+- Proteomics & Metabolic Engineering  
+- PCR, Electrophoresis, and Protein Purification  
 
 ---
 
