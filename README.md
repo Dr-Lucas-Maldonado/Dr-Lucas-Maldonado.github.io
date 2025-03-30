@@ -1,7 +1,7 @@
 
 ## 🚀 Interactive Bioinformatics Graph  
 
-[![Live Graph](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://Dr-Lucas-Maldonado/LucasMaldonado.github.io/interactive_graph/)
+[![Live Graph](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://Dr-Lucas-Maldonado.github.io/interactive_graph/)
 
 > **🔬 Click the button to interact with the graph!**
 
