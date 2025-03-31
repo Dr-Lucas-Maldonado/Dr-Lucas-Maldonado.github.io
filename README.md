@@ -8,10 +8,48 @@
 
 # Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Researcher+and+Bioinformatics+Scientist;NGS+and+MultiOmics+Specialist...;Data+Science+Enthusiast...;Biologist+And+Biotechnologist..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. I specialize in:.</i></p>
 
+- **Single-Cell Transcriptomics** (scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics)  
+- **Bulk RNA-seq** and differential expression analysis  
+- **Multi-Omics Data Integration** (genomics, proteomics, and epigenomics)  
+- **Variant Analysis & Functional Genomics**  
+- **Development of Scalable Pipelines & HPC for Omics Data Processing**  
+---
+
+## 🚀 Leadership & Innovation  
+As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidisciplinary team in the development of advanced computational pipelines for genomic and transcriptomic analysis. My key contributions include:  
+
+- Establishing a **state-of-the-art bioinformatics infrastructure (HPC)** for high-throughput sequencing data analysis.  
+- Building **specialized bioinformatics teams** focused on transcriptomics and **NGS-based precision medicine**.  
+- Implementing **high-throughput sequencing strategies** for research and clinical applications.  
+
+---
+
+## 💻 Technical & Computational Skills  
+
+### **Programming & Data Analysis**  
+- **Languages:** R, Python, Bash  
+- **High-Performance Computing:** HPC, cloud-based analysis  
+- **NGS Analysis Tools:** Seurat, Scanpy, DESeq2, EdgeR, limma  
+
+### **Workflow Automation & Machine Learning**  
+- **Pipeline Development & Workflow Automation**  
+- **Machine Learning** for single-cell analysis  
+- **Advanced Data Visualization** for multi-omics datasets  
+
+### **Key Resources & Databases**  
+- **Single-Cell Atlases:** Human Cell Atlas (HCA), GEO, Single Cell Portal  
+- **Annotation Databases:** PanglaoDB, CellMarker, Azimuth  
+- **Real-World Data & Evidence (RWD-RWE)**  
+
+---
+
+My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results.  
+
+This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.  
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
@@ -48,11 +86,10 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white);
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
 
 
 #### Development
