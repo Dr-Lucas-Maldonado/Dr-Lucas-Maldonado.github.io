@@ -51,7 +51,7 @@ My ability combines **leadership with deep technical expertise**. I thrive under
 
 This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.  
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
@@ -62,7 +62,7 @@ This approach, combined with my **extensive experience** in both **wet lab and i
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 How to reach me ...lucas.l.maldonado@gmail.com.
 
 <hr>
 
