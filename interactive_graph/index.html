@@ -1,114 +1,62 @@
-import { useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie } from "recharts";
-import { motion } from "framer-motion";
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My profile</title>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+  </head>
+  <body>
 
-const skillsData = [
-  { name: "Single-Cell Transcriptomics", value: 90 },
-  { name: "Bulk RNA-seq", value: 85 },
-  { name: "Multi-Omics Integration", value: 80 },
-  { name: "NGS Data Processing", value: 95 },
-  { name: "Bioinformatics Pipelines", value: 90 }
-];
-
-const languageData = [
-  { name: "Spanish", value: 100 },
-  { name: "English", value: 90 },
-  { name: "Portuguese", value: 75 }
-];
-
-export default function InteractiveProfile() {
-  const [showDetails, setShowDetails] = useState(false);
-
-  return (
-    <div className="p-6 space-y-6">
-      <motion.h1 className="text-3xl font-bold" animate={{ opacity: 1 }} initial={{ opacity: 0 }}>
-        Dr. Lucas L. Maldonado
-      </motion.h1>
-      <h2 className="text-xl text-gray-500">Senior Bioinformatics Scientist | NGS & Genomics Specialist</h2>
-      
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="text-lg font-semibold">Summary</h3>
-          <p>
-            I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine.
-          </p>
-        </CardContent>
-      </Card>
-      
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="text-lg font-semibold">Key Skills</h3>
-          <ResponsiveContainer width="100%" height={250}>
-            <BarChart data={skillsData}>
-              <XAxis dataKey="name" hide />
-              <YAxis />
-              <Tooltip />
-              <Bar dataKey="value" fill="#8884d8" />
-            </BarChart>
-          </ResponsiveContainer>
-        </CardContent>
-      </Card>
-      
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="text-lg font-semibold">Languages</h3>
-          <ResponsiveContainer width="100%" height={250}>
-            <PieChart>
-              <Tooltip />
-              <Pie data={languageData} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={80} fill="#82ca9d" label />
-            </PieChart>
-          </ResponsiveContainer>
-        </CardContent>
-      </Card>
-      
-      <Button onClick={() => setShowDetails(!showDetails)}>
-        {showDetails ? "Hide Details" : "Show More Details"}
-      </Button>
-      
-      {showDetails && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <Card>
-            <CardContent className="p-4">
-              <h3 className="text-lg font-semibold">Experience</h3>
-              <ul className="list-disc pl-4">
-                <li><strong>Bioinformatics Manager</strong> - Stamm Vegh Corporation (2021 - Present)</li>
-                <li><strong>Leader of Bioinformatics Department</strong> - Stamm Vegh Corporation (2021 - Present)</li>
-                <li><strong>University Professor</strong> - UADE University (2020 - Present)</li>
-                <li><strong>Scientific R&D Advisor</strong> - Independent Consultant (2015 - Present)</li>
-                <li><strong>Post-Doctorate in Bioinformatics</strong> - CONICET (2019 - 2021)</li>
-                <li><strong>Post-Doctorate in Bioinformatics</strong> - University of Edinburgh (2017 - 2019)</li>
-                <li><strong>R&D Scientist</strong> - National Institute of Agricultural Technology (2011 - 2013)</li>
-                <li><strong>R&D Scientist</strong> - Barenbrug-Palaversich Company (2009 - 2011)</li>
-              </ul>
-            </CardContent>
-          </Card>
-          
-          <Card>
-            <CardContent className="p-4">
-              <h3 className="text-lg font-semibold">Education</h3>
-              <ul className="list-disc pl-4">
-                <li>Ph.D. in Biological Sciences (Bioinformatics) - University of Buenos Aires</li>
-                <li>Master in Biotechnology and Molecular Biology - National University of La Plata</li>
-              </ul>
-            </CardContent>
-          </Card>
-          
-          <Card>
-            <CardContent className="p-4">
-              <h3 className="text-lg font-semibold">Achievements</h3>
-              <ul className="list-disc pl-4">
-                <li>Created and led the Bioinformatics Division at Stamm Vegh Corporation.</li>
-                <li>Published 19 scientific articles advancing genomics and biomedicine.</li>
-                <li>Established bioinformatics nodes optimizing computational analysis.</li>
-                <li>Designed sequencing facilities ensuring advanced genomic analysis.</li>
-                <li>Led successful R&D projects integrating software development with bioinformatics.</li>
-              </ul>
-            </CardContent>
-          </Card>
-        </motion.div>
-      )}
+    <div class="container">
+      <div class="card-white" id="introduction">
+        <h1>Hello, I'm Boris 😎</h1>
+        <img src="images/profile.png" class="img-circle" width="100px" alt="Boris Paillard">
+        <p>
+          I love Github, UX/UI Design, web-development and motorbikes 🏍️. I launched Le Wagon to teach code to entrepreneurs and creative people around the world 🌍.
+        </p>
+        <a href="#" class="btn-blue">Discover Le Wagon</a>
+      </div>
+      <div class="card-white">
+        <h2>UX/UI Design 📐</h2>
+        <p>
+          I am passionate about <strong>UX/UI Design</strong>.
+        </p>
+      </div>
+      <div class="card-white">
+        <h2>Frontend Development 💻</h2>
+        <p>
+          I am passionate about <strong>Frontend Development</strong>.
+        </p>
+      </div>
+      <div class="card-white">
+        <h2>Motorbikes 🏍️</h2>
+        <p>
+          I am passionate about <strong>Motorbikes</strong>.
+        </p>
+      </div>
+      <div class="card-white">
+        <h2>Follow me</h2>
+        <ul class="list-inline">
+          <li>
+            <a href="https://github.com/papillard" target="_blank">
+              <i class="fab fa-github-square"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/bpapillard" target="_blank">
+              <i class="fab fa-twitter-square"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://medium.com/@papillard" target="_blank">
+              <i class="fab fa-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
-  );
-}
+
+  </body>
+</html>
