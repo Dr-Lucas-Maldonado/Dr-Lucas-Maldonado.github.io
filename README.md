@@ -15,8 +15,7 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 <img src="https://img.shields.io/badge/-Animated%20Gradient-FF4500?style=flat&logoColor=red&color=red&labelColor=blue">
 
-
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="50%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/small_tSNE2.gif" width="25%" align="right"/>
 
 ## Key specialization
 
@@ -86,7 +85,7 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/small_tSNE2.gif" width="25%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="50%" align="right"/>
 
 
 ## ⚡🙋‍♂️ About Me
