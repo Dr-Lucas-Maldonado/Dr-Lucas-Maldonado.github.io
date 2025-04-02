@@ -12,11 +12,17 @@
  
  <p>- <i>I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. I specialize in:.</i></p>
 
-- **Single-Cell Transcriptomics** (scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics)  
-- **Bulk RNA-seq** and differential expression analysis  
-- **Multi-Omics Data Integration** (genomics, proteomics, and epigenomics)  
-- **Variant Analysis & Functional Genomics**  
-- **Development of Scalable Pipelines & HPC for Omics Data Processing**  
+![Single-Cell Transcriptomics](https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat)&nbsp; scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics
+
+![Bulk RNA-seq](https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat)&nbsp; Expression profile and differential expression analysis
+
+![Multi-Omics Data Integration](https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat)&nbsp; Genomics, Transcriptomics, Proteomics, and Epigenomics
+
+![Variant Analysis & Functional Genomics](https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat)&nbsp; Precision medicine and variants prioritization
+
+![Scalable Pipelines & HPC](https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat)&nbsp; Pipelines automatization in BASH or NextFlow, Cluster administration
+
+
 ---
 
 ## 🚀 Leadership & Innovation  
@@ -27,6 +33,36 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 - Implementing **high-throughput sequencing strategies** for research and clinical applications.  
 
 ---
+### Resume of Technical & Computational Skills
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)&nbsp;
+![HPC](https://img.shields.io/badge/-HPC-05122A?style=flat&logo=supercomputing)&nbsp;
+![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-1572B6?style=flat&logo=cloudflare)&nbsp;
+
+![Seurat](https://img.shields.io/badge/-Seurat-276DC3?style=flat)&nbsp;
+![Scanpy](https://img.shields.io/badge/-Scanpy-3776AB?style=flat)&nbsp;
+![DESeq2](https://img.shields.io/badge/-DESeq2-4EAA25?style=flat)&nbsp;
+![EdgeR](https://img.shields.io/badge/-EdgeR-276DC3?style=flat)&nbsp;
+![limma](https://img.shields.io/badge/-limma-3776AB?style=flat)&nbsp;
+
+![Pipeline Development](https://img.shields.io/badge/-Pipeline_Development-05122A?style=flat&logo=git)&nbsp;
+![Workflow Automation](https://img.shields.io/badge/-Workflow_Automation-4EAA25?style=flat&logo=github-actions)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow)&nbsp;
+
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-276DC3?style=flat&logo=tableau)&nbsp;
+![Multi-Omics](https://img.shields.io/badge/-Multi_Omics-8A2BE2?style=flat&logo=dna-testing)&nbsp;
+
+#### Key Resources & Databases
+![Human Cell Atlas](https://img.shields.io/badge/-HCA-276DC3?style=flat)&nbsp;
+![CellxGene](https://img.shields.io/badge/-CellxGene-FF9900?style=flat&logo=cellxgene)&nbsp;
+![GEO](https://img.shields.io/badge/-GEO-3776AB?style=flat)&nbsp;
+![Single Cell Portal](https://img.shields.io/badge/-Single_Cell_Portal-4EAA25?style=flat)&nbsp;
+![PanglaoDB](https://img.shields.io/badge/-PanglaoDB-276DC3?style=flat)&nbsp;
+![CellMarker](https://img.shields.io/badge/-CellMarker-3776AB?style=flat)&nbsp;
+![Azimuth](https://img.shields.io/badge/-Azimuth-4EAA25?style=flat)&nbsp;
+![RWD-RWE](https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat)&nbsp;
 
 ## 💻 Technical & Computational Skills  
 
