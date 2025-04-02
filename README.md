@@ -10,7 +10,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Researcher+and+Bioinformatics+Scientist;NGS+and+MultiOmics+Specialist...;Data+Science+Enthusiast...;Biologist+And+Biotechnologist..."/>
  
- <p>- <i>I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. I specialize in:.</i></p>
+I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results. This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.
+
+I specialize in:
 
 ![Single-Cell Transcriptomics](https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat)&nbsp; scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics
 
@@ -83,9 +85,7 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 
 ---
 
-My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results.  
-
-This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.  
+  
 
 <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="50%" align="right" />
 
