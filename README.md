@@ -14,15 +14,22 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 I specialize in:
 
-![Single-Cell Transcriptomics](https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat)&nbsp; scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics
 
-![Bulk RNA-seq](https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat)&nbsp; Expression profile and differential expression analysis
+<img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26" center=true>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=scRNA-seq;CITE-seq;ATAC-seq;Spatial+Transcriptomics"/>
 
-![Multi-Omics Data Integration](https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat)&nbsp; Genomics, Transcriptomics, Proteomics, and Epigenomics
 
-![Variant Analysis & Functional Genomics](https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat)&nbsp; Precision medicine and variants prioritization
+<img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26" center=true>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"/>
 
-![Scalable Pipelines & HPC](https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat)&nbsp; Pipelines automatization in BASH or NextFlow, Cluster administration
+<img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26" center=true>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics;Transcriptomics;Proteomics;Epigenomics"/>
+
+<img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26" center=true>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine;variants+prioritization"/>
+
+<img src="https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat" height="26" center=true>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH;Pipelines+automatization+in+NextFlow;Cluster+administration"/>
 
 
 ---
