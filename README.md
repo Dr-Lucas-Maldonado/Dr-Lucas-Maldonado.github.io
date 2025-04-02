@@ -20,7 +20,8 @@ I specialize in:
 
 
 <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"/>
+
 
 <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26" center=true>
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics;Transcriptomics;Proteomics;Epigenomics"/>
