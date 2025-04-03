@@ -21,27 +21,29 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0078D4&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"><br><br>
   
   <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Differential+expression+analysis"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis"><br><br>
 
 
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Transcriptomics">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Proteomics">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Epigenomics"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Genomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Transcriptomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Proteomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Epigenomics"><br>
   
   <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="30%" align="right"/>
   
   <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Variants+Prioritization"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Precision+medicine"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Variants+Prioritization"><br>
 
   <img src="https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH;Pipelines+automatization+in+NextFlow;Cluster+administration"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF1493&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF1493&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+NextFlow"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF1493&size=18&center=false&vCenter=true&lines=Cluster+administration"><br>
 </div>
 
 
