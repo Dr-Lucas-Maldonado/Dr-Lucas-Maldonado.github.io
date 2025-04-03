@@ -26,15 +26,18 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"><br><br>
   
   <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile;Differential+expression+analysis"><br><br>
 
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics;Transcriptomics;Proteomics;Epigenomics"><br><br>
-
-  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="35%" align="right"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Transcriptomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Proteomics">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Epigenomics"><br>
+  
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="30%" align="right"/>
   
   <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine;variants+prioritization"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine;Variants+Prioritization"><br><br>
   
   <img src="https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH;Pipelines+automatization+in+NextFlow;Cluster+administration"><br>
