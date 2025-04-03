@@ -1,11 +1,11 @@
+<!-- RAINBOW LINE TOP -->
 
-## 🚀 Interactive Bioinformatics Graph  
+<!-- GIF HEADER -->
 
-[![Live Graph](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://Dr-Lucas-Maldonado.github.io/interactive_graph/)
-
-> **🔬 Click the button to interact with the graph!**
-
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/customDNA.gif?raw=true" style="width: 33.3%; margin: 0 -2px;">
+</div>
+  
 # Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Researcher+and+Bioinformatics+Scientist;NGS+and+MultiOmics+Specialist...;Data+Science+Enthusiast...;Biologist+And+Biotechnologist..."/>
@@ -15,7 +15,7 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 <img src="https://img.shields.io/badge/-Animated%20Gradient-FF4500?style=flat&logoColor=red&color=red&labelColor=blue">
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/small_tSNE2.gif" width="25%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="25%" align="right"/>
 
 ## Key specialization
 
@@ -72,6 +72,7 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 
 <img src="https://img.shields.io/badge/-Data_Visualization-276DC3?style=flat&logo=tableau" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Multi_Omics-8A2BE2?style=flat&logo=dna-testing" height="30">&nbsp;
+
 
 
 ## Key Resources & Databases
