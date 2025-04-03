@@ -27,7 +27,6 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis"><br><br>
 
-
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Genomics">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Transcriptomics"><br>
@@ -47,8 +46,6 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 </div>
 
 
----
-
 ## 🚀 Leadership & Innovation  
 As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidisciplinary team in the development of advanced computational pipelines for genomic and transcriptomic analysis. My key contributions include:  
 
@@ -58,9 +55,6 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 
 🧬 **Implementing _high-throughput sequencing strategies_** for research and clinical applications.  
  
-
----
-
 
 ## 💻 Resume of Technical & Computational Skills
 
@@ -83,7 +77,7 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 <img src="https://img.shields.io/badge/-Data_Visualization-276DC3?style=flat&logo=tableau" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Multi_Omics-8A2BE2?style=flat&logo=dna-testing" height="30">&nbsp;
 
-## Key Resources & Databases
+## 🗄️ Key Resources & Databases  
 <img src="https://img.shields.io/badge/-HCA-276DC3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-CellxGene-FF9900?style=flat&logo=cellxgene" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-GEO-3776AB?style=flat" height="30">&nbsp;
@@ -93,13 +87,41 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 <img src="https://img.shields.io/badge/-Azimuth-4EAA25?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
+___
 
 
+## 🎓 Education  
+<img src="https://insticc.org/images/wise/events/3422/cloud/original.png" width="22%" align="right"/>
+
+### 🧬 **Ph.D. in Biological Sciences (Bioinformatics)**  
+📍 *University of Buenos Aires, CONICET, Argentina*  
+🎯 **Major:** Bioinformatics, Genomics, and Infectious Diseases  
+
+### 🏆 **Master’s in Biotechnology and Molecular Biology**  
+📍 *National University of La Plata, Argentina*  
+🎯 **Major:** Biotechnology  
+
+---
+
+## 🌍 Languages  
+
+- 🇪🇸 **Spanish** – Native  
+- 🇬🇧 **English** – Proficiency  
+- 🇵🇹 **Portuguese** – Advanced  
+
+---
+
+## 📚 Publications  
+
+### **Scientific Articles* Published  in*   <img src="https://img.shields.io/badge/-PubMed-05122A?style=flat&logo=pubmed" height="30">&nbsp; 
+- [🔗 NCBI Profile](https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/)  
+- [🔗 Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56526515300)  
+
+### **Patents* in* <img src="https://img.shields.io/badge/-WIPO-05122A?style=flat&logo=wipo" height="30">&nbsp;  
+- [🔗 WO2024059658](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658)  
 
 
-
-
-
+___
 
      
 ## 🛠️ Skills
@@ -164,85 +186,8 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 -->
 
-
-
 ------------------
 
-
-
-# Dr. Lucas Maldonado
-
-## Researcher and Bioinformatics Scientist | NGS & Multi-Omics Specialist
-
-Specialized in bioinformatics strategies, NGS, and data-driven research. Scientific innovation for organizational growth.
-
-📧 **Email:** lucas.l.maldonado@gmail.com  
-🔗 **LinkedIn:** [Lucas Maldonado](https://www.linkedin.com/in/lucas-maldonado-phd-2aab0247)  
-
----
-
-## 🧬 Summary  
-I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine.  
-
-Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. I specialize in:  
-
-- **Single-Cell Transcriptomics** (scRNA-seq, CITE-seq, ATAC-seq, spatial transcriptomics)  
-- **Bulk RNA-seq** and differential expression analysis  
-- **Multi-Omics Data Integration** (genomics, proteomics, and epigenomics)  
-- **Variant Analysis & Functional Genomics**  
-- **Development of Scalable Pipelines & HPC for Omics Data Processing**  
-
----
-
-## 🚀 Leadership & Innovation  
-As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidisciplinary team in the development of advanced computational pipelines for genomic and transcriptomic analysis. My key contributions include:  
-
-- Establishing a **state-of-the-art bioinformatics infrastructure (HPC)** for high-throughput sequencing data analysis.  
-- Building **specialized bioinformatics teams** focused on transcriptomics and **NGS-based precision medicine**.  
-- Implementing **high-throughput sequencing strategies** for research and clinical applications.  
-
----
-
-## 💻 Technical & Computational Skills  
-
-### **Programming & Data Analysis**  
-- **Languages:** R, Python, Bash  
-- **High-Performance Computing:** HPC, cloud-based analysis  
-- **NGS Analysis Tools:** Seurat, Scanpy, DESeq2, EdgeR, limma  
-
-### **Workflow Automation & Machine Learning**  
-- **Pipeline Development & Workflow Automation**  
-- **Machine Learning** for single-cell analysis  
-- **Advanced Data Visualization** for multi-omics datasets  
-
-### **Key Resources & Databases**  
-- **Single-Cell Atlases:** Human Cell Atlas (HCA), GEO, Single Cell Portal  
-- **Annotation Databases:** PanglaoDB, CellMarker, Azimuth  
-- **Real-World Data & Evidence (RWD-RWE)**  
-
----
-
-My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results.  
-
-This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.  
-
-## 🎓 Education  
-
-- **Ph.D. in Biological Sciences (Bioinformatics) – Doctorate in Philosophy**  
-  **University of Buenos Aires, CONICET, Argentina**  
-  **Major:** Bioinformatics, Genomics, and Infectious Diseases  
-
-- **Master’s in Biotechnology and Molecular Biology**  
-  **National University of La Plata, Argentina**  
-  **Major:** Biotechnology  
-
----
-
-## 🌍 Languages  
-
-- **Spanish** – Native  
-- **English** – Proficiency  
-- **Portuguese** – Advanced  
 
 ## 💼 Experience  
 
