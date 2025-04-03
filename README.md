@@ -93,11 +93,11 @@ ___
 ## 🎓 Education  
 <img src="https://insticc.org/images/wise/events/3422/cloud/original.png" width="22%" align="right"/>
 
-### 🧬 **Ph.D. in Biological Sciences (Bioinformatics)**  
+> ### 🧬 **Ph.D. in Biological Sciences (Bioinformatics)**  
 📍 *University of Buenos Aires, CONICET, Argentina*  
 🎯 **Major:** Bioinformatics, Genomics, and Infectious Diseases  
 
-### 🏆 **Master’s in Biotechnology and Molecular Biology**  
+> ### 🏆 **Master’s in Biotechnology and Molecular Biology**  
 📍 *National University of La Plata, Argentina*  
 🎯 **Major:** Biotechnology  
 
@@ -113,7 +113,7 @@ ___
 
 ## 📚 Publications  
 
-### **Scientific Articles* Published  in*   <img src="https://img.shields.io/badge/-PubMed-05122A?style=flat&logo=pubmed" height="30">&nbsp; 
+### **Scientific Articles (19)* Published  in*   <img src="https://img.shields.io/badge/-PubMed-05122A?style=flat&logo=pubmed" height="30">&nbsp; 
 - [🔗 NCBI Profile](https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/)  
 - [🔗 Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56526515300)  
 
