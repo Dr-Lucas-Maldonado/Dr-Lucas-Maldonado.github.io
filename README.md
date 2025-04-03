@@ -105,9 +105,9 @@ ___
 
 ## 🌍 Languages  
 
-- 🇪🇸 **Spanish** – Native  
-- 🇬🇧 **English** – Proficiency  
-- 🇵🇹 **Portuguese** – Advanced  
+<img src="https://img.shields.io/badge/-Spanish-EA4335?style=flat&logo=google-translate&logoColor=white" height="25"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Spanish** 🇪🇸 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ ★ ★ ★ ★  
+<img src="https://img.shields.io/badge/-English-0052CC?style=flat&logo=google-translate&logoColor=white" height="25"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **English** 🇬🇧 &nbsp;&nbsp;&nbsp;&nbsp; ★ ★ ★ ★ ★  
+<img src="https://img.shields.io/badge/-Portuguese-00A859?style=flat&logo=google-translate&logoColor=white" height="25"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Portuguese** 🇵🇹 &nbsp;&nbsp; ★ ★ ★ ☆ ☆  
 
 ---
 
