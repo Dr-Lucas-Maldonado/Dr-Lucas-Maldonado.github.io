@@ -6,7 +6,45 @@
   <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/customDNA.gif?raw=true" style="width: 33.3%; margin: 0 -2px;">
 </div>
   
-# Welcome to my Github Profile
+
+___
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-🔬%20Dr.%20Lucas%20Maldonado-FAFAFA?style=for-the-badge&labelColor=FAFAFA&color=4a5f77&label" height="45">&nbsp;
+  
+  <img src="https://img.shields.io/badge/-📊%20Researcher%20%7C%20Bioinformatics%20Scientist-FAFAFA?style=for-the-badge&labelColor=FAFAFA&color=90EE90&label" height="40">&nbsp;
+  <img src="https://img.shields.io/badge/-🧬%20NGS%20&%20Multi--Omics%20Specialist-FAFAFA?style=for-the-badge&labelColor=FAFAFA&color=90EE90&label" height="40">&nbsp;
+  
+  <img src="https://img.shields.io/badge/-🚀%20Expert%20in%20Bioinformatics%20Strategies%20%7C%20NGS%20%7C%20Data--Driven%20Research-FAFAFA?style=for-the-badge&labelColor=FAFAFA&color=B0C4DE&label" height="35">&nbsp;
+
+  <img src="https://img.shields.io/badge/-💡%20Scientific%20Innovation%20%7C%20Organizational%20Growth-FAFAFA?style=for-the-badge&labelColor=FAFAFA&color=87CEFA&label" height="35">
+
+</div>
+
+
+
+
+
+
+
+
+
+---
+
+### **👨‍🔬 About Me**
+🔬 **Dr. Lucas Maldonado** | **NGS & Multi-Omics Specialist**  
+📊 Bioinformatics Scientist | Data Science Enthusiast  
+🌍 Passionate about Computational Biology & Innovation  
+
+
+
+# 👋 Hi, I'm Lucas Maldonado  
+
+🔬 **Bioinformatics Scientist & Researcher**  
+🧬 **NGS & Multi-Omics Specialist**  
+📊 **Data Science & Computational Biology Enthusiast**  
+🦠 **Biotechnologist & Biologist**  
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Researcher+and+Bioinformatics+Scientist;NGS+and+MultiOmics+Specialist...;Data+Science+Enthusiast...;Biologist+And+Biotechnologist..."/>
  
