@@ -15,26 +15,30 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 <img src="https://img.shields.io/badge/-Animated%20Gradient-FF4500?style=flat&logoColor=red&color=red&labelColor=blue">
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="25%" align="right"/>
+
 
 ## Key specialization
 
-<img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="35%" align="right"/>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"><br><br>
+  
+  <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"><br><br>
 
-<img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF4500&size=20&center=false&vCenter=true&lines=Expression+profile+and+differential+expression+analysis"/>
+  <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics;Transcriptomics;Proteomics;Epigenomics"><br><br>
 
-
-<img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Genomics;Transcriptomics;Proteomics;Epigenomics"/>
-
-<img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine;variants+prioritization"/>
-
-<img src="https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat" height="26" center=true>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH;Pipelines+automatization+in+NextFlow;Cluster+administration"/>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="35%" align="right"/>
+  
+  <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Precision+medicine;variants+prioritization"><br><br>
+  
+  <img src="https://img.shields.io/badge/-Scalable%20Pipelines%20&%20HPC-FF1493?style=flat" height="26"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=005f73&size=18&center=false&vCenter=true&lines=Pipelines+automatization+in+BASH;Pipelines+automatization+in+NextFlow;Cluster+administration"><br>
+</div>
 
 
 ---
@@ -86,7 +90,7 @@ As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidiscip
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/slidetags2.gif" width="50%" align="right"/>
+
 
 
 ## ⚡🙋‍♂️ About Me
