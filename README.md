@@ -61,11 +61,9 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 ##  <img src = "https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/innvaionLeaderhip.gif" width = 32px> Leadership & Innovation
 
-
-## 🚀 Leadership & Innovation  
 I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions.
 
-### 🔑 Key Contributions
+### Key Contributions
 
 - 🧠 Establishing a cutting-edge bioinformatics infrastructure (HPC) to support high-throughput sequencing data analysis, including large-scale datasets from single-cell RNA-seq, genomics, and proteomics.
 
