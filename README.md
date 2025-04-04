@@ -107,16 +107,21 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 ___
 
 
-## 🎓 Education  
+## <img src = "https://i.pinimg.com/originals/64/28/0b/64280bed4ef699066f8656f468092009.gif" width = 52px> Education  
+
 <img src="https://insticc.org/images/wise/events/3422/cloud/original.png" width="22%" align="right"/>
 
-> ### 🧬 **Ph.D. in Biological Sciences (Bioinformatics)**  
-📍 *University of Buenos Aires, CONICET, Argentina*  
-🎯 **Major:** Bioinformatics, Genomics, and Infectious Diseases  
+### 🎓 **Ph.D. in Biological Sciences (Bioinformatics)**  
+*University of Buenos Aires, CONICET, Argentina*  
+**Major:** Bioinformatics, Genomics, and Infectious Diseases  
 
-> ### 🏆 **Master’s in Biotechnology and Molecular Biology**  
-📍 *National University of La Plata, Argentina*  
-🎯 **Major:** Biotechnology  
+### 🎓 **Master’s in Biotechnology and Molecular Biology**  
+*National University of La Plata, Argentina*  
+**Major:** Biotechnology  
+
+### 🎓 **Bachelor in Biotechnology and Molecular Biology**
+*National University of La Plata, Argentina*
+*Major:* Biotechnology
 
 ---
 
@@ -207,6 +212,9 @@ ___
 
 
 ## 💼 Experience  
+
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/1681923205005.gif" width="30%" align="right"/>
+
 
 ### **Bioinformatics Manager**  
 **Stamm Vegh Corporation** | *Aug 2021 – Present*  
