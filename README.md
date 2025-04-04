@@ -27,27 +27,19 @@ ___
 
 # 👋 Hi, I'm Lucas Maldonado  
 
-🔬 **Bioinformatics Scientist & Researcher**  
-🧬 **NGS & Multi-Omics Specialist**  
-📊 **Data Science & Computational Biology Enthusiast**  
-🦠 **Biotechnologist & Biologist**  
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0FC387&size=25&center=false&lines=I+am+Lucas+Maldonado;Researcher+and+Bioinformatics+Scientist;NGS+and+MultiOmics+Specialist...;Data+Science+Enthusiast...;Biologist+And+Biotechnologist..."/>
- 
 I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results. This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.
 
 ## Key specialization
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="35%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="45%" align="right"/>
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0078D4&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics"><br><br>
   
   <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis"><br><br>
 
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Genomics">
@@ -55,7 +47,7 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Proteomics"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Epigenomics">
   
-  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="30%" align="right"/>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="45%" align="right"/>
   
   <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Precision+medicine"><br>
@@ -69,14 +61,17 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 
 ## 🚀 Leadership & Innovation  
-As the **Head of Bioinformatics** at **STAMM Corporation**, I lead a multidisciplinary team in the development of advanced computational pipelines for genomic and transcriptomic analysis. My key contributions include:  
+I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions.
 
-✅ **Establishing a _state-of-the-art_ bioinformatics infrastructure (HPC)** for high-throughput sequencing data analysis.  
+### 🔑 Key Contributions
 
-👨‍🔬 **Building _specialized bioinformatics teams_** focused on transcriptomics and **NGS-based precision medicine**.  
+- 🧠 Establishing a cutting-edge bioinformatics infrastructure (HPC) to support high-throughput sequencing data analysis, including large-scale datasets from single-cell RNA-seq, genomics, and proteomics.
 
-🧬 **Implementing _high-throughput sequencing strategies_** for research and clinical applications.  
+- 👥 Building and mentoring specialized bioinformatics teams across diverse domains such as transcriptomics, multi-omics, and NGS-based precision medicine.
+
+- 🧪 Designing and implementing scalable sequencing strategies for research, clinical, and biotechnological applications. 
  
+---
 
 ## 💻 Resume of Technical & Computational Skills
 
