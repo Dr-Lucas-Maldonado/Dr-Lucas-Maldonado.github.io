@@ -211,10 +211,14 @@ ___
 ------------------
 
 
-## 💼 Experience  
+
+
+## 💼 Experience
+
+<details>
+  <summary><strong>Click to expand experience</strong></summary>
 
 <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/1681923205005.gif" width="30%" align="right"/>
-
 
 ### **Bioinformatics Manager**  
 **Stamm Vegh Corporation** | *Aug 2021 – Present*  
@@ -290,6 +294,11 @@ ___
 
 ### **Successful Project Leadership**  
 - Led projects to success, integrating software development with bioinformatics for biological insights and technological solutions.  
+
+
+</details>
+
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/experienceBioinformatics.gif"  width="90%" align="center"/>
 
 ---
 
