@@ -275,6 +275,12 @@ ___
 - Conducted microbiology techniques applied to improving soybean inoculants.  
 - Utilized genetic engineering to modify organisms as a method for crop yield improvement.  
 
+</details>
+
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/experienceBioinformatics.gif"  width="90%" align="center"/>
+
+---
+
 ## 🏆 Achievements  
 
 ### **Pioneering Leadership at STAMM Corporation**  
@@ -295,13 +301,7 @@ ___
 ### **Successful Project Leadership**  
 - Led projects to success, integrating software development with bioinformatics for biological insights and technological solutions.  
 
-
-</details>
-
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/experienceBioinformatics.gif"  width="90%" align="center"/>
-
 ---
-
 ## 💡 Strengths  
 
 - **Leadership & Project Management**  
@@ -312,7 +312,7 @@ ___
 - **Responsibility, Precision & Accuracy**  
 - **Effective Team Communication**  
 - **Trusted & Empathetic Leadership**  
-
+---
 ## 📚 Publications  
 
 ### **PubMed (19)**  
@@ -322,7 +322,6 @@ ___
 ### **WIPO**  
 - [WO2024059658](#)  
 
-
-
+---
 
 This README serves as a brief introduction to my professional experience and technical expertise in bioinformatics and computational biology. 🚀
