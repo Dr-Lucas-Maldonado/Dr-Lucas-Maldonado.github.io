@@ -303,23 +303,46 @@ ___
 ---
 ## 💡 Strengths  
 
-- **Leadership & Project Management**  
-- **Strategic Thinking, Innovation, & R&D Criteria**  
-- **Expertise in Bioinformatics & Biology**  
-- **Interdisciplinary Expertise**  
-- **Resilient Under Pressure**  
-- **Responsibility, Precision & Accuracy**  
-- **Effective Team Communication**  
-- **Trusted & Empathetic Leadership**  
----
-## 📚 Publications  
+<img src="https://img.shields.io/badge/-Leadership_and_Project_Management-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Strategic_Thinking,_Innovation_&_R&D-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Bioinformatics_&_Biology_Expertise-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Interdisciplinary_Expertise-48D1CC?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Resilient_Under_Pressure-87CEFA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Precision,_Responsibility,_Accuracy-00CED1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Effective_Team_Communication-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Trusted_&_Empathetic_Leadership-4682B4?style=flat" height="30">&nbsp;
 
-### **PubMed (19)**  
-- [NCBI Profile](#)  
-- [Scopus Profile](#)  
 
-### **WIPO**  
-- [WO2024059658](#)  
+<details>
+  <summary><strong>Click to expand Strengths</strong></summary>
+
+
+<img src="https://img.shields.io/badge/-Leadership_and_Project_Management-4682B4?style=flat" height="30">&nbsp;
+Leadership & Project Management – Proven experience leading cross-functional teams and managing bioinformatics projects from conception to delivery.
+
+<img src="https://img.shields.io/badge/-Strategic_Thinking,_Innovation_&_R&D-5F9EA0?style=flat" height="30">&nbsp;
+Strategic Thinking, Innovation & R&D Focus – Skilled in aligning bioinformatics strategies with research goals and driving innovation through evidence-based approaches.
+
+<img src="https://img.shields.io/badge/-Bioinformatics_&_Biology_Expertise-20B2AA?style=flat" height="30">&nbsp;
+Expertise in Bioinformatics & Biology – Deep understanding of molecular biology combined with computational proficiency, enabling interdisciplinary solutions.
+
+<img src="https://img.shields.io/badge/-Interdisciplinary_Expertise-48D1CC?style=flat" height="30">&nbsp;
+Interdisciplinary Collaboration – Adept at working across scientific, technical, and clinical domains to deliver integrated insights.
+
+<img src="https://img.shields.io/badge/-Resilient_Under_Pressure-87CEFA?style=flat" height="30">&nbsp;
+Resilience Under Pressure – Maintains performance and decision-making in high-stakes or rapidly changing environments.
+
+<img src="https://img.shields.io/badge/-Precision,_Responsibility,_Accuracy-00CED1?style=flat" height="30">&nbsp;
+Precision & Accountability – Strong attention to detail with a commitment to quality, reproducibility, and scientific integrity.
+
+<img src="https://img.shields.io/badge/-Effective_Team_Communication-1E90FF?style=flat" height="30">&nbsp;
+Effective Communication – Builds trust through clear, empathetic, and collaborative communication with stakeholders at all levels.
+
+<img src="https://img.shields.io/badge/-Trusted_&_Empathetic_Leadership-4682B4?style=flat" height="30">&nbsp;
+Trusted Leadership Style – Recognized for leading with empathy, empowering teams, and fostering inclusive and productive environments.
+
+</details>
+
 
 ---
 
