@@ -282,22 +282,22 @@ ___
 
 ## 🏆 Achievements  
 
-### **Pioneering Leadership at STAMM Corporation**  
+### <img src = "https://cdn-icons-gif.flaticon.com/14164/14164947.gif" width = 40px> **Pioneering Leadership at STAMM Corporation** 
 - Created and led the Bioinformatics Division, driving cutting-edge pipeline implementation and team growth.  
 - Spearheaded sequencing facility design, ensuring advanced genomic analysis capabilities.  
 
-### **Trusted Scientific Advisor and Extensive R&D Portfolio**  
+### <img src = "https://cdn-icons-gif.flaticon.com/11784/11784674.gif" width = 40px> **Trusted Scientific Advisor and Extensive R&D Portfolio**  
 - Provided invaluable expertise to public and private institutions, shaping NGS experiments and bioinformatics pipelines, while significantly increasing time response in wet lab settings.  
 - Facilitated groundbreaking research on diverse genomic complexities, offering strategic guidance, particularly in translational medicine and biotechnology, resulting in increased yield and insights.  
 
-### **Establishment and Management of Bioinformatics Nodes**  
+### <img src = "https://cdn-icons-gif.flaticon.com/10968/10968724.gif" width = 40px>**Establishment and Management of Bioinformatics Nodes**  
 - Created bioinformatics nodes, optimizing computational analysis and providing solutions.  
 - Ensured seamless operations crucial for scientific advancement.  
 
-### **Internationally Acclaimed Author**  
+### <img src = "https://i.pinimg.com/originals/ed/e3/c5/ede3c552c60d4305ff106a8c4328aa6a.gif" width = 40px> **Internationally Acclaimed Author**  
 - Published 19 groundbreaking scientific articles, advancing understanding in genomics and biomedicine.  
 
-### **Successful Project Leadership**  
+### <img src = "https://app-studio.bioturing.com/static/idx/gifs/home/artificial-intelligence.gif" width = 40px> **Successful Project Leadership**  
 - Led projects to success, integrating software development with bioinformatics for biological insights and technological solutions.  
 
 ---
@@ -317,29 +317,29 @@ ___
   <summary><strong>Click to expand Strengths</strong></summary>
 
 
-<img src="https://img.shields.io/badge/-Leadership_and_Project_Management-4682B4?style=flat" height="30">&nbsp;
-Leadership & Project Management – Proven experience leading cross-functional teams and managing bioinformatics projects from conception to delivery.
+<img src="https://img.shields.io/badge/Leadership & Project Management-4682B4?style=flat" height="30">&nbsp;
+ – Proven experience leading cross-functional teams and managing bioinformatics projects from conception to delivery.
 
-<img src="https://img.shields.io/badge/-Strategic_Thinking,_Innovation_&_R&D-5F9EA0?style=flat" height="30">&nbsp;
-Strategic Thinking, Innovation & R&D Focus – Skilled in aligning bioinformatics strategies with research goals and driving innovation through evidence-based approaches.
+<img src="https://img.shields.io/badge/Strategic Thinking, Innovation & R&D Focus-5F9EA0?style=flat" height="30">&nbsp;
+– Skilled in aligning bioinformatics strategies with research goals and driving innovation through evidence-based approaches.
 
-<img src="https://img.shields.io/badge/-Bioinformatics_&_Biology_Expertise-20B2AA?style=flat" height="30">&nbsp;
-Expertise in Bioinformatics & Biology – Deep understanding of molecular biology combined with computational proficiency, enabling interdisciplinary solutions.
+<img src="https://img.shields.io/badge/Expertise in Bioinformatics & Biology-20B2AA?style=flat" height="30">&nbsp;
+– Deep understanding of molecular biology combined with computational proficiency, enabling interdisciplinary solutions.
 
-<img src="https://img.shields.io/badge/-Interdisciplinary_Expertise-48D1CC?style=flat" height="30">&nbsp;
-Interdisciplinary Collaboration – Adept at working across scientific, technical, and clinical domains to deliver integrated insights.
+<img src="https://img.shields.io/badge/Interdisciplinary Collaboration-48D1CC?style=flat" height="30">&nbsp;
+– Adept at working across scientific, technical, and clinical domains to deliver integrated insights.
 
-<img src="https://img.shields.io/badge/-Resilient_Under_Pressure-87CEFA?style=flat" height="30">&nbsp;
-Resilience Under Pressure – Maintains performance and decision-making in high-stakes or rapidly changing environments.
+<img src="https://img.shields.io/badge/Resilience Under Pressure-87CEFA?style=flat" height="30">&nbsp;
+– Maintains performance and decision-making in high-stakes or rapidly changing environments.
 
-<img src="https://img.shields.io/badge/-Precision,_Responsibility,_Accuracy-00CED1?style=flat" height="30">&nbsp;
-Precision & Accountability – Strong attention to detail with a commitment to quality, reproducibility, and scientific integrity.
+<img src="https://img.shields.io/badge/Precision & Accountability-00CED1?style=flat" height="30">&nbsp;
+– Strong attention to detail with a commitment to quality, reproducibility, and scientific integrity.
 
-<img src="https://img.shields.io/badge/-Effective_Team_Communication-1E90FF?style=flat" height="30">&nbsp;
-Effective Communication – Builds trust through clear, empathetic, and collaborative communication with stakeholders at all levels.
+<img src="https://img.shields.io/badge/Effective Communication-1E90FF?style=flat" height="30">&nbsp;
+– Builds trust through clear, empathetic, and collaborative communication with stakeholders at all levels.
 
-<img src="https://img.shields.io/badge/-Trusted_&_Empathetic_Leadership-4682B4?style=flat" height="30">&nbsp;
-Trusted Leadership Style – Recognized for leading with empathy, empowering teams, and fostering inclusive and productive environments.
+<img src="https://img.shields.io/badge/Trusted Leadership Style-4682B4?style=flat" height="30">&nbsp;
+– Recognized for leading with empathy, empowering teams, and fostering inclusive and productive environments.
 
 </details>
 
@@ -454,6 +454,3 @@ Trusted Leadership Style – Recognized for leading with empathy, empowering tea
 <img src="https://img.shields.io/badge/-SDS--PAGE-4B0082?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Microbiology-6A5ACD?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Quantitative methods-FF69B4?style=flat" height="30">&nbsp;
-
-
-This README serves as a brief introduction to my professional experience and technical expertise in bioinformatics and computational biology. 🚀
