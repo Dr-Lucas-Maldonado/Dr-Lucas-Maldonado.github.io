@@ -323,4 +323,114 @@ ___
 
 ---
 
+## 📚 SKILLS
+
+<!-- MANAGEMENT SKILLS -->
+### 👨‍💼 Management
+<img src="https://img.shields.io/badge/-Leadership-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Communication-66D1D1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Teamwork-33BDBD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Strategic_Thinking-A1E2E2?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Agile_Methodologies-2CBFBF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Mentoring-4FB6B6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Team_Building-9BDADA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Feedback_and_Coaching-7AD6E3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Interpersonal_Skills-32D6D6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Creativity_and_Innovation-3B9BB3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Adaptability-1FB1E6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Problem_Solving-2088D4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Project_Management-1E80D4?style=flat" height="30">&nbsp;
+
+
+<!-- PROGRAMMING SKILLS -->
+### 💻 Programming & Systems
+
+<img src="https://img.shields.io/badge/-BASH-333333?style=flat&logo=gnu-bash" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Linux_Systems-FCC624?style=flat&logo=linux" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Snakemake-4B8BBE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Nextflow-005571?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Software_Development-8FBC8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Environments_Managing-708090?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Scripting-2496ED?style=flat&logo=docker" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Perl-8B008B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Git_&_Version_Control-F05032?style=flat&logo=git" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-RMarkdown-276DC3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-API_Integration_(REST)-FF8C00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Regular_Expressions-2E8B57?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-708090?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-vim-019733?style=flat&logo=vim" height="30">&nbsp;
+
+
+<!-- COMPUTING SKILLS -->
+### 🖥️ Computing
+
+<img src="https://img.shields.io/badge/-HPC-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sys_Administration-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cloud_Computing-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cluster_and_Server_Design-48D1CC?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Hardware_Knowledge-87CEFA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Virtualization_(VirtualBox,_VMWare)-00CED1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Backup_and_Disaster_Recovery-40E0D0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Shell_Scripting_for_Maintenance-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Security_&_Permissions_Management-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CI/CD_(GitHub_Actions,_GitLab_CI)-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-6CA6CD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Data_Storage_and_Archiving-87CEEB?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Big_Data_Pipelines-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Load_Balancing_&_Parallel_Processing-1E90E8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Job_Scheduling_(SLURM,_PBS)-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pipeline_Profiling_&_Optimization-5F9EA0?style=flat" height="30">&nbsp;
+
+<!-- BIOINFORMATICS -->
+### 🧬 Bioinformatics
+<img src="https://img.shields.io/badge/-NGS-FF8C00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genomics-FFA500?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Transcriptomics-F4A460?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Single_Cell-FFB6C1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Proteomics-DA70D6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Multiomics_Analysis-D8BFD8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Precision_Medicine-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Variants-9932CC?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Statistical_Analysis-8A2BE2?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Data_Visualization-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Systems_Biology-9ACD32?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-3CB371?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolic_Engineering-66CDAA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CRISPR--Cas-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Database_Management-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Comparative_Genomics-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metagenomics-6495ED?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Phylogenetics-4169E1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Ancient_DNA-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-De_novo_Assembly-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Structural_Bioinformatics-00CED1?style=flat" height="30">&nbsp;
+
+<!-- WET LAB -->
+### 🧪 Wet Lab
+<img src="https://img.shields.io/badge/-NGS_Technologies-FF7F50?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Illumina-F08080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Nanopore-FF6347?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-PacBio-FF4500?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sanger-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Electrophoresis-C71585?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Engineering-DB7093?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Molecular_Biology-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Experiments_Design-FF1493?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Evolutionary_Biology-DA70D6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-DNA/RNA_Purification-EE82EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-PCR-FF00FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Proteins_Purification-8B008B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cell_Biology-800080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SDS--PAGE-4B0082?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Microbiology-6A5ACD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Quantitative methods-FF69B4?style=flat" height="30">&nbsp;
+
+
 This README serves as a brief introduction to my professional experience and technical expertise in bioinformatics and computational biology. 🚀
