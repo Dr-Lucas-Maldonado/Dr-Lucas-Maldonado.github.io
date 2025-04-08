@@ -86,6 +86,7 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 <img src="https://img.shields.io/badge/-DESeq2-4EAA25?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-EdgeR-276DC3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-limma-3776AB?style=flat" height="30">&nbsp;
+ <img src="https://img.shields.io/badge/-Scverse Ecosystem-3776AB?style=flat" height="30">&nbsp;
 
 <img src="https://img.shields.io/badge/-Pipeline_Development-05122A?style=flat&logo=git" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Workflow_Automation-4EAA25?style=flat&logo=github-actions" height="30">&nbsp;
@@ -120,8 +121,8 @@ ___
 **Major:** Biotechnology  
 
 ### 🎓 **Bachelor in Biotechnology and Molecular Biology**
-*National University of La Plata, Argentina*
-*Major:* Biotechnology
+*National University of La Plata, Argentina*  
+**Major:** Biotechnology
 
 ---
 
