@@ -108,7 +108,6 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 <img src="https://img.shields.io/badge/-Azimuth-4EAA25?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
-
 ---
 
 ## <img src = "https://i.pinimg.com/originals/64/28/0b/64280bed4ef699066f8656f468092009.gif" width = 52px> Education  
