@@ -25,9 +25,13 @@ ___
 ---
 
 
-# 👋 Hi, I'm Lucas Maldonado  
+# Hi, I'm Lucas Maldonado  
 
-I am a bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS), bulk and single-cell transcriptomics, and multi-omics integration. With 15+ years of experience in bioinformatics R&D across academic and private sectors, I have led high-impact projects in single-cell genomics, functional transcriptomics, and precision medicine. Beyond leadership, I am deeply involved in the development of computational algorithms and bioinformatics pipelines, ensuring scalable, reproducible, and high-performance solutions for analyzing complex transcriptomic datasets. My ability combines **leadership with deep technical expertise**. I thrive under pressure, seamlessly integrating **responsibility, enthusiasm, strategic thinking, and meticulous attention to detail** while leveraging **agile methodologies** to drive impactful results. This approach, combined with my **extensive experience** in both **wet lab and in silico research**, as well as **strong leadership skills**, allows me to deliver **high-value contributions** in any professional setting.
+I am a professor and bioinformatics scientist with extensive expertise in Next-Generation Sequencing (NGS) applied in different fields, such as medicine, biotechnology, pharma, breeding, and biodiversity. With 15+ years of experience in applied and R&D bioinformatics across both academic and private sectors, I have led high-impact projects in bulk and single-cell transcriptomics, functional transcriptomics, and precision medicine, often integrating multi-omic data. My expertise spans both fundamental research and delivering actionable biological insights through diverse scientific frameworks, including the development of tools and software designed to facilitate the analysis of single-cell transcriptomics and other omic data. Beyond my leadership in various initiatives, I am actively involved in the hands-on development of tools and software to support and streamline the analysis of single-cell transcriptomics and other omic data. These efforts are driven by a strong focus on building scalable, reproducible, and high-performance solutions for analysing complex transcriptomic datasets. 
+
+My strength lies in combining leadership with deep technical expertise. I thrive under pressure, integrating responsibility, enthusiasm, strategic thinking, and meticulous attention to detail. By leveraging agile methodologies, I consistently drive impactful results. This approach together with my experience in both wet-lab and in silico research enables me to deliver high-value contributions in any professional setting.
+
+The following is a summary of my core competencies:
 
 ## Key specialization
 
@@ -61,8 +65,7 @@ I am a bioinformatics scientist with extensive expertise in Next-Generation Sequ
 
 ##  <img src = "https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/innvaionLeaderhip.gif" width = 32px> Leadership & Innovation
 
-I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions.
-
+I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions. Key contributions include:
 ### Key Contributions
 
 - 🧠 Establishing a cutting-edge bioinformatics infrastructure (HPC) to support high-throughput sequencing data analysis, including large-scale datasets from single-cell RNA-seq, genomics, and proteomics.
@@ -70,7 +73,7 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 - 👥 Building and mentoring specialized bioinformatics teams across diverse domains such as transcriptomics, multi-omics, and NGS-based precision medicine.
 
 - 🧪 Designing and implementing scalable sequencing strategies for research, clinical, and biotechnological applications. 
- 
+
 ---
 
 ## 💻 Resume of Technical & Computational Skills
@@ -105,8 +108,8 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 <img src="https://img.shields.io/badge/-Azimuth-4EAA25?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
-___
 
+---
 
 ## <img src = "https://i.pinimg.com/originals/64/28/0b/64280bed4ef699066f8656f468092009.gif" width = 52px> Education  
 
