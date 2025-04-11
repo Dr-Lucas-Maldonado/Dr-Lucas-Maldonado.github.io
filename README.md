@@ -144,7 +144,7 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 - [🔗 Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56526515300)  
 
 <details>
-  <summary><strong>Click to expand Strengths</strong></summary>
+  <summary><strong>Click for further details</strong></summary>
 
 
 1. Arce LF, Facelli Fernández F, Giorello N, Butti M, **Maldonado LL**, Arrabal JP, Natalini MB, Kowalewski M, Pedrassani D, Mascarenhas CS, da Silva Rappeti JC, Zilli F, Beldomenico PM, Lia V, Franchini GR, Kamenetzky L. **Genetic diversity of Dioctophyme renale in Southern South America.** Parasitology. 2024 Oct 28;:1-38. doi: 10.1017/S0031182024001379. [Epub ahead of print] PubMed PMID: [39462818](https://www.ncbi.nlm.nih.gov/pubmed/39462818/)
