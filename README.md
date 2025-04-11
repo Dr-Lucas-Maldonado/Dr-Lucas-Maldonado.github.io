@@ -196,56 +196,57 @@ ___
      
 ## 🛠️ Skills
 
-#### Languages
+#### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white);
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
-
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
 
 #### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green" height="30">&nbsp;
 
 #### Tools and Technologies
 
+<img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="30">&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
 
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp;
 
 
 #### Data Analytics 
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white" height="30">&nbsp;
 
 
+ #### Environments
 
-#### Environments
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
+<img src="" height="30">&nbsp;
+
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
@@ -392,7 +393,7 @@ ___
 
 ---
 
-## 📚 SKILLS
+## 📚 MORE SKILLS
 
 <!-- MANAGEMENT SKILLS -->
 ### 👨‍💼 Management
