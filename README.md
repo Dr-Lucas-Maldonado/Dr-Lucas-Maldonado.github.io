@@ -224,9 +224,6 @@ ___
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
 
-
-
-
 #### Data Analytics 
 
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" height="30">&nbsp;
@@ -246,15 +243,6 @@ ___
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
 <img src="" height="30">&nbsp;
-
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ------------------
 
