@@ -143,9 +143,51 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 - [🔗 NCBI Profile](https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/)  
 - [🔗 Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56526515300)  
 
+<details>
+  <summary><strong>Click to expand Strengths</strong></summary>
+
+
+1. Arce LF, Facelli Fernández F, Giorello N, Butti M, **Maldonado LL**, Arrabal JP, Natalini MB, Kowalewski M, Pedrassani D, Mascarenhas CS, da Silva Rappeti JC, Zilli F, Beldomenico PM, Lia V, Franchini GR, Kamenetzky L. **Genetic diversity of Dioctophyme renale in Southern South America.** Parasitology. 2024 Oct 28;:1-38. doi: 10.1017/S0031182024001379. [Epub ahead of print] PubMed PMID: [39462818](https://www.ncbi.nlm.nih.gov/pubmed/39462818/)
+
+2. Ancarola ME, **Maldonado LL**, García LCA, Franchini GR, Mourglia-Ettlin G, Kamenetzky L, Cucher MA. **A Comparative Analysis of the Protein Cargo of Extracellular Vesicles from Helminth Parasites.** Life (Basel). 2023 Nov 30;13(12). doi: 10.3390/life13122286. PubMed PMID: 38137887; PubMed Central PMCID: [PMC10744797](https://www.ncbi.nlm.nih.gov/pubmed/38137887/)
+
+3. Russo MG, Arencibia V, Emery M, Bettera Marcat G, Seldes V, Mercolli P, Soria S, **Maldonado L**, Kamenetzky L, Avena S, Dejean C, Stone AC. **Ancient mitochondrial genome diversity in South America: Contributions from Quebrada del Toro, Northwestern Argentina.** Am J Biol Anthropol. 2023 Aug;181(4):597-610. doi: 10.1002/ajpa.24795. Epub 2023 Jun 16. PubMed PMID: [37323114](https://www.ncbi.nlm.nih.gov/pubmed/37323114/)
+
+4. Sanchez Granel ML, Siburu NG, Fricska A, **Maldonado LL**, Gargiulo LB, Nudel CB, Uttaro AD, Nusblat AD. **A novel Tetrahymena thermophila sterol C-22 desaturase belongs to the fatty acid hydroxylase/desaturase superfamily**. J Biol Chem. 2022 Oct;298(10):102397. doi: 10.1016/j.jbc.2022.102397. Epub 2022 Aug 18. PubMed PMID: 35988640; PubMed Central PMCID: [PMC9485055](https://www.ncbi.nlm.nih.gov/pubmed/35988640/)
+
+5. Kamenetzky L, **Maldonado LL**, Cucher MA. **Cestodes in the genomic era.** Parasitol Res. 2022 Apr;121(4):1077-1089. doi: 10.1007/s00436-021-07346-x. Epub 2021 Oct 19. Review. PubMed PMID: [34665308](https://www.ncbi.nlm.nih.gov/pubmed/34665308/)
+
+6. **Maldonado LL**, Bertelli AM, Kamenetzky L. **Molecular features similarities between SARS-CoV-2, SARS, MERS and key human genes could favour the viral infections and trigger collateral effects.** Sci Rep. 2021 Feb 18;11(1):4108. doi: 10.1038/s41598-021-83595-1. PubMed PMID: 33602998; PubMed Central PMCID: [PMC7893037](https://www.ncbi.nlm.nih.gov/pubmed/33602998/)
+
+7. Holgado MP, Raiden S, Sananez I, Seery V, De Lillo L, **Maldonado LL**, Kamenetzky L, Geffner J, Arruvito L. **Fcγ Receptor IIa (FCGR2A) Polymorphism Is Associated With Severe Respiratory Syncytial Virus Disease in Argentinian Infants.** Front Cell Infect Microbiol. 2020;10:607348. doi: 10.3389/fcimb.2020.607348. eCollection 2020. PubMed PMID: 33392111; PubMed Central PMCID: [PMC7775358](https://www.ncbi.nlm.nih.gov/pubmed/33392111/)
+
+8. Butti MJ, Gamboa MI, Terminiello JD, Franchini GR, Giorello AN, **Maldonado LL**, Kamenetzky L, Luna MF, Lopez Merlo M, Radman NE. **Dioctophyme renale in a domestic cat (Felis catus): Renal location and nephrectomy.** Vet Parasitol Reg Stud Reports. 2019 Dec;18:100339. doi: 10.1016/j.vprsr.2019.100339. Epub 2019 Nov 2. PubMed PMID: [31796187](https://www.ncbi.nlm.nih.gov/pubmed/31796187/)
+
+9. **Maldonado LL**, Arrabal JP, Rosenzvit MC, Oliveira GC, Kamenetzky L. **Revisiting the Phylogenetic History of Helminths Through Genomics, the Case of the New Echinococcus oligarthrus Genome.** Front Genet. 2019;10:708. doi: 10.3389/fgene.2019.00708. eCollection 2019. PubMed PMID: 31440275; PubMed Central PMCID: [PMC6692484](https://www.ncbi.nlm.nih.gov/pubmed/31440275/)
+
+10. Basika T, Paludo GP, Araujo FM, Salim AC, Pais F, **Maldonado L**, Macchiaroli N, Camargo de Lima J, Rosenzvit M, Oliveira GC, Kamenetzky L, Ferreira HB. **Transcriptomic profile of two developmental stages of the cestode parasite Mesocestoides corti.** Mol Biochem Parasitol. 2019 Apr;229:35-46. doi: 10.1016/j.molbiopara.2019.02.006. Epub 2019 Feb 21. PubMed PMID: [30797776](https://www.ncbi.nlm.nih.gov/pubmed/30797776/)
+
+11. **Maldonado LL**, Stegmayer G, Milone DH, Oliveira G, Rosenzvit M, Kamenetzky L. **Whole genome analysis of codon usage in Echinococcus.** Mol Biochem Parasitol. 2018 Oct;225:54-66. doi: 10.1016/j.molbiopara.2018.08.001. Epub 2018 Aug 3. PubMed PMID: [30081061](https://www.ncbi.nlm.nih.gov/pubmed/30081061/)
+
+12. Camicia F, Celentano AM, Johns ME, Chan JD, **Maldonado L**, Vaca H, Di Siervi N, Kamentezky L, Gamo AM, Ortega-Gutierrez S, Martin-Fontecha M, Davio C, Marchant JS, Rosenzvit MC. **Unique pharmacological properties of serotoninergic G-protein coupled receptors from cestodes.** PLoS Negl Trop Dis. 2018 Feb;12(2):e0006267. doi: 10.1371/journal.pntd.0006267. eCollection 2018 Feb. PubMed PMID: 29425245; PubMed Central PMCID: [PMC5823469](https://www.ncbi.nlm.nih.gov/pubmed/29425245/)
+
+13. Macchiaroli N, **Maldonado LL**, Zarowiecki M, Cucher M, Gismondi MI, Kamenetzky L, Rosenzvit MC. **Genome-wide identification of microRNA targets in the neglected disease pathogens of the genus Echinococcus.** Mol Biochem Parasitol. 2017 Jun;214:91-100. doi: 10.1016/j.molbiopara.2017.04.001. Epub 2017 Apr 3. PubMed PMID: [28385564](https://www.ncbi.nlm.nih.gov/pubmed/28385564/)
+
+14. **Maldonado LL**, Assis J, Araújo FM, Salim AC, Macchiaroli N, Cucher M, Camicia F, Fox A, Rosenzvit M, Oliveira G, Kamenetzky L. **The Echinococcus canadensis (G7) genome: a key knowledge of parasitic platyhelminth human diseases.** BMC Genomics. 2017 Feb 27;18(1):204. doi: 10.1186/s12864-017-3574-0. PubMed PMID: 28241794; PubMed Central PMCID: [PMC5327563](https://www.ncbi.nlm.nih.gov/pubmed/28241794/)
+
+15. Kamenetzky L, Stegmayer G, **Maldonado L**, Macchiaroli N, Yones C, Milone DH. **MicroRNA discovery in the human parasite Echinococcus multilocularis from genome-wide data.** Genomics. 2016 Jun;107(6):274-80. doi: 10.1016/j.ygeno.2016.04.002. Epub 2016 Apr 21. PubMed PMID: [27107656](https://www.ncbi.nlm.nih.gov/pubmed/27107656/)
+
+16. Cucher MA, Macchiaroli N, Baldi G, Camicia F, Prada L, **Maldonado L**, Avila HG, Fox A, Gutiérrez A, Negro P, López R, Jensen O, Rosenzvit M, Kamenetzky L. **Cystic echinococcosis in South America: systematic review of species and genotypes of Echinococcus granulosus sensu lato in humans and natural domestic hosts.** Trop Med Int Health. 2016 Feb;21(2):166-75. doi: 10.1111/tmi.12647. Epub 2015 Dec 28. Review. PubMed PMID: [26610060](https://www.ncbi.nlm.nih.gov/pubmed/26610060/)
+
+17. Cucher M, Macchiaroli N, Kamenetzky L, **Maldonado L**, Brehm K, Rosenzvit MC. **High-throughput characterization of Echinococcus spp. metacestode miRNomes.** Int J Parasitol. 2015 Mar;45(4):253-67. doi: 10.1016/j.ijpara.2014.12.003. Epub 2015 Feb 4. PubMed PMID: [25659494](https://www.ncbi.nlm.nih.gov/pubmed/25659494/)
+
+18. Macchiaroli N, Cucher M, Zarowiecki M, **Maldonado L**, Kamenetzky L, Rosenzvit MC. **microRNA profiling in the zoonotic parasite Echinococcus canadensis using a high-throughput approach**. Parasit Vectors. 2015 Feb 6;8:83. doi: 10.1186/s13071-015-0686-8. PubMed PMID: 25656283; PubMed Central PMCID: [PMC4326209](https://www.ncbi.nlm.nih.gov/pubmed/25656283/)
+
+</details>
+
+
 ### **Patents* in* <img src="https://img.shields.io/badge/-WIPO-05122A?style=flat&logo=wipo" height="30">&nbsp;  
 - [🔗 WO2024059658](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658)  
-
 
 ___
 
@@ -212,8 +254,6 @@ ___
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ------------------
-
-
 
 
 ## 💼 Experience
