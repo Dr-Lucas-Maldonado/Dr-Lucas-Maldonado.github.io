@@ -191,60 +191,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 ### **Patents* in* <img src="https://img.shields.io/badge/-WIPO-05122A?style=flat&logo=wipo" height="30">&nbsp;  
 - [🔗 WO2024059658](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658)  
 
-___
-
-     
-## 🛠️ Skills
-
-#### Programming Languages
-
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">&nbsp;
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
-
-#### Development
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
-
-#### Database
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height="30">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green" height="30">&nbsp;
-
-#### Tools and Technologies
-
-<img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="30">&nbsp;
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
-
-#### Data Analytics 
-
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white" height="30">&nbsp;
-
-
- #### Environments
-
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
-<img src="" height="30">&nbsp;
-
-------------------
+---
 
 
 ## 💼 Experience
@@ -400,51 +347,135 @@ ___
 <img src="https://img.shields.io/badge/-Project_Management-1E80D4?style=flat" height="30">&nbsp;
 
 
-<!-- PROGRAMMING SKILLS -->
-### 💻 Programming & Systems
+### 💻 PROGRAMMING SKILLS
 
+#### Programming Languages
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-BASH-333333?style=flat&logo=gnu-bash" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" height="30">&nbsp;
+
+#### Systems and Workflow Management
+
 <img src="https://img.shields.io/badge/-Linux_Systems-FCC624?style=flat&logo=linux" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Snakemake-4B8BBE?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nextflow-005571?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Software_Development-8FBC8F?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Environments_Managing-708090?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Scripting-2496ED?style=flat&logo=docker" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Perl-8B008B?style=flat" height="30">&nbsp;
+
+#### Tools and Technologies
+
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Git_&_Version_Control-F05032?style=flat&logo=git" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RMarkdown-276DC3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-API_Integration_(REST)-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Regular_Expressions-2E8B57?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-708090?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-vim-019733?style=flat&logo=vim" height="30">&nbsp;
+
+#### Development Environments & Editors
+
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Poetry-60A5FA?style=flat&logo=python&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
+
+#### Development
+
+<img src="https://img.shields.io/badge/-Software_Development-8FBC8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
 
 
-<!-- COMPUTING SKILLS -->
-### 🖥️ Computing
+#### 🖥️ Computing
+
+##### Cloud & Virtualization
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-6CA6CD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cloud_Computing-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Virtualization_(VirtualBox,_VMWare)-00CED1?style=flat" height="30">&nbsp;
+
+##### HPC & Infrastructure
 
 <img src="https://img.shields.io/badge/-HPC-4682B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Sys_Administration-5F9EA0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cloud_Computing-20B2AA?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cluster_and_Server_Design-48D1CC?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Hardware_Knowledge-87CEFA?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Virtualization_(VirtualBox,_VMWare)-00CED1?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Backup_and_Disaster_Recovery-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Shell_Scripting_for_Maintenance-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Security_&_Permissions_Management-1E90FF?style=flat" height="30">&nbsp;
+
+##### CI/CD, Job Scheduling & Performance Tuning
+
+<img src="https://img.shields.io/badge/-Shell_Scripting_for_Maintenance-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-CI/CD_(GitHub_Actions,_GitLab_CI)-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-6CA6CD?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Data_Storage_and_Archiving-87CEEB?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Big_Data_Pipelines-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Load_Balancing_&_Parallel_Processing-1E90E8?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Job_Scheduling_(SLURM,_PBS)-4682B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pipeline_Profiling_&_Optimization-5F9EA0?style=flat" height="30">&nbsp;
+
+#### Databases
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite" height="30">&nbsp;
+
+#### Data Analytics
+
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Data_Storage_and_Archiving-87CEEB?style=flat" height="30">&nbsp;
+
+
+#### Data Analytics 
+
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="30">
+
+<img src="https://img.shields.io/badge/-tidyverse-635CA1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-dplyr-1E90FF?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-ggplot2-0099C9?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-tidyr-00CED1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-readr-4682B4?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-forcats-4169E1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-lubridate-5F9EA0?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-stringr-4B0082?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-data.table-FFD700?style=flat&logo=r&logoColor=black" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-plotly-F44747?style=flat&logo=plotly&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-shiny-FF69B4?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-caret-FF8C00?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-randomForest-228B22?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-survival-DC143C?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-ggpubr-8A2BE2?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
+
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="20">&nbsp; 
+<img src="https://img.shields.io/badge/-Seaborn-3D3D3D?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Statsmodels-888888?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Altair-FF4C4C?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-LightGBM-9ACD32?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+
+<img src="https://img.shields.io/badge/-SQL-0064A5?style=flat&logo=sqlite&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Power_BI-FFBC00?style=flat&logo=microsoft-powerbi&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" height="30">&nbsp;
+
+
 
 <!-- BIOINFORMATICS -->
 ### 🧬 Bioinformatics
