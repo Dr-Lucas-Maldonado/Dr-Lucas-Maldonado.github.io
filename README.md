@@ -506,6 +506,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Genome_Annotation-00FA9A?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Genome_Browsers-20B2AA?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Variant_Calling-8B0000?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Variants_analysis-9932CC?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Haplotype_Analysis-CD5C5C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-eQTL_Analysis-DC143C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RNA--Seq_Analysis-BA55D3?style=flat" height="30">&nbsp;
@@ -535,7 +536,6 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 #### 💡 Applications & Translational Bioinformatics
 
 <img src="https://img.shields.io/badge/-Precision_Medicine-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Genetic_Variants-9932CC?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Metabolic_Engineering-66CDAA?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Biomarker_Discovery-A0522D?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Clinical_Genomics-BC8F8F?style=flat" height="30">&nbsp;
