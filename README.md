@@ -436,7 +436,17 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 #### Data Analytics 
 
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-0064A5?style=flat&logo=sqlite&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Power_BI-FFBC00?style=flat&logo=microsoft-powerbi&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" height="30">&nbsp;
+
+<details>
+  <summary><strong>Click for further details</strong></summary>
 
 <img src="https://img.shields.io/badge/-tidyverse-635CA1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-dplyr-1E90FF?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
@@ -453,9 +463,6 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-randomForest-228B22?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-survival-DC143C?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-ggpubr-8A2BE2?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
-
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="20">&nbsp;
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20">&nbsp;
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="20">&nbsp; 
@@ -468,17 +475,88 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=python&logoColor=white" height="20">&nbsp;
 <img src="https://img.shields.io/badge/-LightGBM-9ACD32?style=flat&logo=python&logoColor=white" height="20">&nbsp;
 
-<img src="https://img.shields.io/badge/-SQL-0064A5?style=flat&logo=sqlite&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Power_BI-FFBC00?style=flat&logo=microsoft-powerbi&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" height="30">&nbsp;
+</details>
+
+### 🧬 BIOINFORMATICS
+
+#### 🧬 Core Areas and Omics Disciplines
+<img src="https://img.shields.io/badge/-Genomics-FFA500?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Transcriptomics-F4A460?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Proteomics-DA70D6?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolomics-DB7093?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-ChIP_Seq/ATAC_Seq-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Epigenomics-BC8F8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Single_Cell-FFB6C1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Spatial_RNASeq-DB7093?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Multiomics_Analysis-D8BFD8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metagenomics-6495ED?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Comparative_Genomics-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Ancient_DNA-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Lipidomics-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Glycomics-BC8F8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Structural_Bioinformatics-00CED1?style=flat" height="30">&nbsp;
+
+
+#### 🔬 Bioinformatics Technologies
+
+<img src="https://img.shields.io/badge/-NGS-FF8C00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-De_novo_Assembly-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CRISPR--Cas-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Database_Management-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genome_Annotation-00FA9A?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genome_Browsers-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Variant_Calling-8B0000?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Haplotype_Analysis-CD5C5C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-eQTL_Analysis-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-RNA--Seq_Analysis-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Gene_Fusion_Detection-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CNV_Analysis-8A2BE2?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolic_Pathway_Analysis-32CD32?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Long_Read_Technologies-BC8F8F?style=flat" height="30">&nbsp;
+
+
+#### 📊 Analytical Methods
+<img src="https://img.shields.io/badge/-Statistical_Analysis-8A2BE2?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-3CB371?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Data_Visualization-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Systems_Biology-9ACD32?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Phylogenetics-4169E1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Clustering_Analysis-9370DB?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Dimensionality_Reduction-DAA520?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-GWAS/Burden_Tests-8A2BE2?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Statistical_Modeling-6A5ACD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Read_Mapping-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sequence_Alignment-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Functional_Enrichment-228B22?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-De_Novo_and_Reference_Based_Assembly-DAA520?style=flat" height="30">&nbsp;
 
 
 
-<!-- BIOINFORMATICS -->
-### 🧬 Bioinformatics
+#### 💡 Applications & Translational Bioinformatics
+
+<img src="https://img.shields.io/badge/-Precision_Medicine-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Variants-9932CC?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolic_Engineering-66CDAA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Biomarker_Discovery-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Clinical_Genomics-BC8F8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pharmacogenomics-FFD700?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Host_Pathogen_Interactions-2F4F4F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Microbiome_Research-556B2F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CRISPR--Cas_Design-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Biodiversity_Assessment-778899?style=flat" height="30">&nbsp;
+
+
+#### 🧱 Infrastructure
+<img src="https://img.shields.io/badge/-Database_Design-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Bioinformatics_Pipelines-008B8B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Data_Curation-778899?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-FAIR_Principles-708090?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Ontology_Annotation-A9A9A9?style=flat" height="30">&nbsp;
+
+
+
+##
+
 <img src="https://img.shields.io/badge/-NGS-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Genomics-FFA500?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Transcriptomics-F4A460?style=flat" height="30">&nbsp;
