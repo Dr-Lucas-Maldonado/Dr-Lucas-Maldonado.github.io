@@ -675,9 +675,10 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Pathogen_Surveillance-008080?style=flat" height="30">&nbsp;
 
 > ##### 🧱 Structural Bioinformatics Applications
-<img src="https://img.shields.io/badge/-Protein-Protein_Interaction_Prediction-4682B4?style=flat" height="30">&nbsp;
+
+<img src="https://img.shields.io/badge/-Protein_Protein_Interaction_Prediction-4682B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Drug_Discovery_through_Structural_Bioinformatics-FFD700?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Protein_Structure-Based_Drug_Design-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Protein_Structure_Based_Drug_Design-DC143C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Molecular_Dynamics_Simulations_in_Drug_Design-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Structural_Variants_and_Disease_Association-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Antibody_Engineering-BA55D3?style=flat" height="30">&nbsp;
