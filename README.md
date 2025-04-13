@@ -479,7 +479,8 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 ### 🧬 BIOINFORMATICS SKILLS
 
-#### 🧬 Core Areas and Omics Disciplines
+#### 🧬 CORE AREAS AND OMICS DISCIPLINES
+
 <img src="https://img.shields.io/badge/-Genomics-FFA500?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Transcriptomics-F4A460?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Single_Cell-FFB6C1?style=flat" height="30">&nbsp;
@@ -497,7 +498,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Structural_Bioinformatics-00CED1?style=flat" height="30">&nbsp;
 
 
-#### 🔬 Bioinformatics Technologies
+#### 🔬 BIOINFORMATICS TECHNOLOGIES
 
 <img src="https://img.shields.io/badge/-NGS-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-De_novo_Assembly-00BFFF?style=flat" height="30">&nbsp;
@@ -523,13 +524,9 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Pattern_Analysis-FF8C00?style=flat" height="30">&nbsp;
 
 
+#### 📊 ANALYTICAL METHODS
 
-
-
-
-> #### 📊 Analytical Methods
-
-#### 🔬 **Bioinformatics Methods**
+> #### 🔬 **Bioinformatics Methods**
 
 <img src="https://img.shields.io/badge/-Statistical_Analysis-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Machine_Learning-3CB371?style=flat" height="30">&nbsp;
@@ -539,7 +536,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Clustering_Analysis-9370DB?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Dimensionality_Reduction-DAA520?style=flat" height="30">&nbsp;
 
-#### 🧬 **Genomic Data Analysis**
+> #### 🧬 **Genomic Data Analysis**
 
 <img src="https://img.shields.io/badge/-GWAS/Burden_Tests-6A5ACD?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Statistical_Modeling-6A5ACD?style=flat" height="30">&nbsp;
@@ -550,7 +547,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Copy_Number_Variation_(CNV)_Detection-6A5ACD?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Mutational_Signature_Analysis-6A5ACD?style=flat" height="30">&nbsp;
 
-#### 📊 **Transcriptomics Data Analysis**
+> #### 📊 **Transcriptomics Data Analysis**
 
 <img src="https://img.shields.io/badge/-Time--series_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pseudotime_Inference-BA55D3?style=flat" height="30">&nbsp;
@@ -565,14 +562,14 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
 
 
-#### 🌱 **Diversity and Profiling**
+> #### 🌱 **Diversity and Profiling**
 
 <img src="https://img.shields.io/badge/-Alpha_and_Beta_Diversity_Metrics-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Shannon_Index,_Bray–Curtis_dissimilarity,_etc.-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Taxonomic_&_Functional_Profiling-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Ordination_Methods-9ACD32?style=flat" height="30">&nbsp;
 
-#### ⚙️ **Statistical Advanced Methods and Modeling**
+> #### ⚙️ **Statistical Advanced Methods and Modeling**
 
 <img src="https://img.shields.io/badge/-Multi--omics_Factor_Analysis_(MOFA)-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Canonical_Correlation_Analysis_(CCA)-40E0D0?style=flat" height="30">&nbsp;
@@ -586,14 +583,15 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Multivariate_Analysis-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Hidden_Markov_Models_(HMMs)-40E0D0?style=flat" height="30">&nbsp;
 
-#### 🧬 **Structural Bioinformatics**
+> #### 🧬 **Structural Bioinformatics**
 
 <img src="https://img.shields.io/badge/-Protein--modelling-DC143C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Protein--ligand_prediction-DC143C?style=flat" height="30">&nbsp;
 
-#### 💡 Applications & Translational Bioinformatics
+#### 💡 APPLICATIONS & TRANSLATIONAL BIOINFORMATICS
 
-##### 🧬 Multi-Omics & Translational Applications
+> ##### 🧬 Multi-Omics & Translational Applications
+
 <img src="https://img.shields.io/badge/-Precision_Medicine-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Personalized_Therapies-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Genetic_Variant_Interpretation-40E0D0?style=flat" height="30">&nbsp;
@@ -610,57 +608,55 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Ancient_DNA-1E90FF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-CRISPR--Cas_Design-20B2AA?style=flat" height="30">&nbsp;
 
-##### 🧫 Transcriptomics & Single-Cell Applications
+> ##### 🧫 Transcriptomics & Single-Cell Applications
 
-🟣 Cellular & Tissue Profiling
+<!-- Cellular & Tissue Profiling -->
 
 <img src="https://img.shields.io/badge/-Cell_Type_Identification_in_Tissues-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Immune_Cell_Profiling_in_Single_Cell_Data-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Tumor_Heterogeneity_Assessment-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Spatial_Transcriptomics_for_Tumor_Microenvironments-8A2BE2?style=flat" height="30">&nbsp;
 
-🌺 Gene Expression Analysis
+<!-- Gene Expression Analysis -->
 
 <img src="https://img.shields.io/badge/-Gene_Expression_Profiling-3CB371?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-3CB371?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Time_Series_Transcriptomics_for_Disease_Models-3CB371?style=flat" height="30">&nbsp;
 
-🎯 Disease & Clinical Applications
+<!--Disease & Clinical Applications -->
 
 <img src="https://img.shields.io/badge/-Transcriptomic_Biomarker_Discovery-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Differential_Transcript_Usage_in_Disease-FF8C00?style=flat" height="30"> &nbsp;
 <img src="https://img.shields.io/badge/-Transcriptomics_in_Precision_Oncology-FF8C00?style=flat" height="30">
 <img src="https://img.shields.io/badge/-Drug_Response_Prediction_via_Transcriptomics-FF8C00?style=flat" height="30"> &nbsp;
 
-🔄 Developmental & Dynamic Analysis
+<!-- Developmental & Dynamic Analysis -->
 
 <img src="https://img.shields.io/badge/-Pseudotime_Analysis_in_Development-8B0000?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cell_State_Transition_Tracking-8B0000?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Lineage_Reconstruction_in_Single_Cell_Data-8B0000?style=flat" height="30"> &nbsp;
 
-🔬 Systems Biology & Integration
+<!--Systems Biology & Integration -->
 
 <img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pathway_Level_Transcriptomic_Signature_Analysis-00BFFF?style=flat" height="30">&nbsp; 
 
 
-
-
-#### 🌱 Agricultural & Environmental Bioinformatics
+> #### 🌱 Agricultural & Environmental Bioinformatics
 
 <img src="https://img.shields.io/badge/-Agrigenomics-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Environmental_Bioinformatics-6B8E23?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Biodiversity_Assessment-228B22?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Metagenomics_for_Ecosystem_Health-556B2F?style=flat" height="30">&nbsp;
 
-#### 🦠 Microbiome & Metagenomics Research
+> #### 🦠 Microbiome & Metagenomics Research
 
 <img src="https://img.shields.io/badge/-Microbiome_Research-2E8B57?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nutrigenomics-48D1CC?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Forensic_Bioinformatics-9932CC?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Microbiome_Therapeutics-00CED1?style=flat" height="30">&nbsp;
 
-#### 🦠 Host-Pathogen Interactions (Clinical Applications)
+> #### 🦠 Host-Pathogen Interactions (Clinical Applications)
 
 <img src="https://img.shields.io/badge/-Infectious_Disease_Genomics-1E90FF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Host_Pathogen_Interactions-2F4F4F?style=flat" height="30">&nbsp;
@@ -678,7 +674,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Pathogen_Evolution_and_Transmission-4B0082?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pathogen_Surveillance-008080?style=flat" height="30">&nbsp;
 
-##### 🧱 Structural Bioinformatics Applications
+> ##### 🧱 Structural Bioinformatics Applications
 <img src="https://img.shields.io/badge/-Protein-Protein_Interaction_Prediction-4682B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Drug_Discovery_through_Structural_Bioinformatics-FFD700?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Protein_Structure-Based_Drug_Design-DC143C?style=flat" height="30">&nbsp;
@@ -689,7 +685,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Drug_Repurposing-7B68EE?style=flat" height="30">&nbsp;
 
 
-#### 🧱 Infrastructure
+#### 🧱 INFRASTRUCTURE
 <img src="https://img.shields.io/badge/-Database_Design-5F9EA0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Bioinformatics_Pipelines-008B8B?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Data_Curation-778899?style=flat" height="30">&nbsp;
