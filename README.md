@@ -615,7 +615,7 @@ ACACACACACA
 <img src="https://img.shields.io/badge/-Clinical_Genomics-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cancer_Genomics-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Disease_Prediction_&_Prognosis-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Omics-based_Diagnostics-40E0D0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Omics_based_Diagnostics-40E0D0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Biomarker_Discovery-A0522D?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pharmacogenomics-FFD700?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Gene_Therapy_Strategies-FF69B4?style=flat" height="30">&nbsp;
