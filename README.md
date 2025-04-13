@@ -562,9 +562,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Spatial_Transcriptomics_Deconvolution-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Gene_Expression_Profiling-DA70D6?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-3CB371?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Time-Series_Transcriptomics_for_Disease_Models-FFD700?style=flat" height="30">&nbsp;
-
-<img src="https://img.shields.io/badge/-Single_Cell_Multi-Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
 
 
 #### 🌱 **Diversity and Profiling**
@@ -642,8 +640,8 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 🔬 Systems Biology & Integration
 
-<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">
-<img src="https://img.shields.io/badge/-Pathway_Level_Transcriptomic_Signature_Analysis-00BFFF?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathway_Level_Transcriptomic_Signature_Analysis-00BFFF?style=flat" height="30">&nbsp; 
 
 
 
