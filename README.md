@@ -524,6 +524,9 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 
 #### 📊 Analytical Methods
+
+#### 🔬 **Bioinformatics Methods**
+
 <img src="https://img.shields.io/badge/-Statistical_Analysis-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Machine_Learning-3CB371?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Data_Visualization-BDB76B?style=flat" height="30">&nbsp;
@@ -531,12 +534,18 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Phylogenetics-4169E1?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Clustering_Analysis-9370DB?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Dimensionality_Reduction-DAA520?style=flat" height="30">&nbsp;
+
+#### 🧬 **Genomic Data Analysis**
+
 <img src="https://img.shields.io/badge/-GWAS/Burden_Tests-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Statistical_Modeling-6A5ACD?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Read_Mapping-1E90FF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Sequence_Alignment-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Functional_Enrichment-228B22?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-De_Novo_and_Reference_Based_Assembly-DAA520?style=flat" height="30">&nbsp;
+
+#### 📊 **Transcriptomics & Genomic Variation**
+
 <img src="https://img.shields.io/badge/-Time--series_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pseudotime_Inference-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Differential_Transcript_Usage_(DTU)-BA55D3?style=flat" height="30">&nbsp;
@@ -547,10 +556,16 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-Cell_Clustering-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Trajectory_Inference-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Spatial_Transcriptomics_Deconvolution-BA55D3?style=flat" height="30">&nbsp;
+
+#### 🌱 **Diversity and Profiling**
+
 <img src="https://img.shields.io/badge/-Alpha_and_Beta_Diversity_Metrics-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Shannon_Index,_Bray–Curtis_dissimilarity,_etc.-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Taxonomic_&_Functional_Profiling-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Ordination_Methods-BA55D3?style=flat" height="30">&nbsp;
+
+#### ⚙️ **Advanced Methods and Modeling**
+
 <img src="https://img.shields.io/badge/-Multi--omics_Factor_Analysis_(MOFA)-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Canonical_Correlation_Analysis_(CCA)-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Similarity_Network_Fusion_(SNF)-BA55D3?style=flat" height="30">&nbsp;
@@ -562,6 +577,9 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <img src="https://img.shields.io/badge/-False_Discovery_Rate_Control-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Multivariate_Analysis-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Hidden_Markov_Models_(HMMs)-BA55D3?style=flat" height="30">&nbsp;
+
+#### 🧬 **Structural Bioinformatics**
+
 <img src="https://img.shields.io/badge/-Protein--modelling-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Protein--ligand_prediction-BA55D3?style=flat" height="30">&nbsp;
 
