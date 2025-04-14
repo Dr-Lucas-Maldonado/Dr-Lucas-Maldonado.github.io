@@ -108,7 +108,7 @@ I have experience managing and leading multidisciplinary teams dedicated to deve
 <img src="https://img.shields.io/badge/-Azimuth-4EAA25?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-RWD_RWE-FF6F00?style=flat" height="30">&nbsp;
 
-To see the complete list of skills I have [Jump to Full Skills](https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/main/README.md#-full-skills)
+To see the complete list of skills I have [Jump to Full Skills](https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/README.md#-full-skills)
 
 ---
 
