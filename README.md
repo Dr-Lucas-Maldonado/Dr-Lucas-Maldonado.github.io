@@ -35,23 +35,23 @@ The following is a summary of my core competencies:
 
 ## Key specialization
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="40%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="30%" align="right"/>
 
 
   <img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0078D4&size=18&center=false&vCenter=true&lines=scRNA-seq,+CITE-seq+ATAC-seq;Spatial+Transcriptomics">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0078D4&size=18&center=false&vCenter=true&lines=Spatial+Transcriptomics;Cell+Classification"><br>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="20%" align="right"/>
   <img src="https://img.shields.io/badge/-Bulk%20RNA--seq-8A2BE2?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Expression+profile"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Gene+Enrichment;Graph+networks"><br><br>
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
-  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/network.gif" width="40%" align="right"/>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/network.gif" width="30%" align="rigth"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Genomics">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Transcriptomics"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Proteomics"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Epigenomics">
-  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="40%" align="right"/>
   <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Precision+medicine"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Variants+Prioritization"><br>
