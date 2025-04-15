@@ -35,7 +35,7 @@ The following is a summary of my core competencies:
 
 ## Key specialization
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="45%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/SC.gif" width="40%" align="right"/>
 
 
   <img src="https://img.shields.io/badge/-Single--Cell%20Transcriptomics-0078D4?style=flat" height="26"><br>
@@ -46,11 +46,12 @@ The following is a summary of my core competencies:
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Differential+expression+analysis">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=8A2BE2&size=20&center=false&vCenter=true&lines=Gene+Enrichment;Graph+networks"><br><br>
   <img src="https://img.shields.io/badge/-Multi--Omics%20Integration-FF4500?style=flat" height="26"><br>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/network.gif" width="40%" align="right"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Genomics">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Transcriptomics"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Proteomics"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF4500&size=18&center=false&vCenter=true&lines=Epigenomics">
-  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="45%" align="right"/>
+  <img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/UMAP_Physical_small.gif" width="40%" align="right"/>
   <img src="https://img.shields.io/badge/-Variant%20Analysis%20&%20Functional%20Genomics-228B22?style=flat" height="26"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Precision+medicine"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=228B22&size=18&center=false&vCenter=true&lines=Variants+Prioritization"><br>
@@ -719,3 +720,5 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 <img src="https://img.shields.io/badge/-Experiments_Design-FF1493?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Evolutionary_Biology-DA70D6?style=flat" height="30"> &nbsp;
+
+---
