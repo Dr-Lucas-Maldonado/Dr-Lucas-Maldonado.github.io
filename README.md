@@ -63,9 +63,12 @@ The following is a summary of my core competencies:
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF1493&size=18&center=false&vCenter=true&lines=Cluster+administration"><br>
 </div>
 
+
 ##  <img src = "https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/innvaionLeaderhip.gif" width = 32px> Leadership & Innovation
 
+
 I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions. Key contributions include:
+
 ### Key Contributions
 
 - 🧠 Establishing a cutting-edge bioinformatics infrastructure (HPC) to support high-throughput sequencing data analysis, including large-scale datasets from single-cell RNA-seq, genomics, and proteomics.
