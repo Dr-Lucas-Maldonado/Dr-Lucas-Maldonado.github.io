@@ -473,7 +473,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 
 ### 🧬 BIOINFORMATICS SKILLS
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/wroking.gif" width="30%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/bioinformatician4.gif" width="30%" align="right"/>
 
 #### 🧬 CORE AREAS AND OMICS DISCIPLINES
 
@@ -684,7 +684,7 @@ Cristina Dejean. **Ancient Human Mitogenome of the Beagle Channel (Tierra del Fu
 <!-- WET LAB -->
 ### 🧪 WET LAB
 
-<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/scientist.gif" width="30%" align="right"/>
+<img src="https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/scientist_2b.gif" width="40%" align="right"/>
 
 #### 🧬 MOLECULAR BIOLOGY AND GENOMICS
 
