@@ -25,43 +25,43 @@
 #### PROGRAMMING LANGUAGES
 
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">&nbsp;
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-BASH-333333?style=flat&logo=gnu-bash" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash" height="30">&nbsp;
 
 #### SYSTEM AND WORKFLOW MANAGEMENT
 
-<img src="https://img.shields.io/badge/-Linux_Systems-FCC624?style=flat&logo=linux" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Snakemake-4B8BBE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Linux_Systems-005571?style=flat&logo=linux" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-005571?style=flat&logo=docker" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Snakemake-005571?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nextflow-005571?style=flat" height="30">&nbsp;
 
 #### TOOLS AND TECHNOLOGIES
 
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/VIM-109989.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Git_&_Version_Control-F05032?style=flat&logo=git" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-RMarkdown-276DC3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Regular_Expressions-2E8B57?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-708090?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Git_&_Version_Control-109989?style=flat&logo=git" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter_Notebooks-109989?style=flat&logo=jupyter" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-RMarkdown-109989?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Regular_Expressions-109989?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-109989?style=flat" height="30">&nbsp;
 
 #### DEVELOPMENT ENVIRONMENT & EDITORS
 
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-44A833.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/conda-44A833.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Poetry-60A5FA?style=flat&logo=python&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Poetry-44A833?style=flat&logo=python&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/RStudio-44A833?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-44A833?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
 
 #### DEVELOPMENT
 
-<img src="https://img.shields.io/badge/-Software_Development-8FBC8F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Software_Development-092E20?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-R_Shiny-276DC3?style=flat&logo=r" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Flask-092E20?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-R_Shiny-092E20?style=flat&logo=r" height="30">&nbsp;
 
 
 #### 🖥️ COMPUTING
@@ -69,34 +69,34 @@
 > #### Cloud & Virtualization
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-6CA6CD?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cloud_Computing-20B2AA?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Virtualization_(VirtualBox,_VMWare)-00CED1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-232F3E?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cloud_Computing-232F3E?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Virtualization_(VirtualBox,_VMWare)-232F3E?style=flat" height="30">&nbsp;
 
 > #### HPC & Infrastructure
 
-<img src="https://img.shields.io/badge/-HPC-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Sys_Administration-5F9EA0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cluster_and_Server_Design-48D1CC?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-HPC-87CEFA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sys_Administration-87CEFA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cluster_and_Server_Design-87CEFA?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Hardware_Knowledge-87CEFA?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Backup_and_Disaster_Recovery-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Security_&_Permissions_Management-1E90FF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Backup_and_Disaster_Recovery-87CEFA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Security_&_Permissions_Management-87CEFA?style=flat" height="30">&nbsp;
 
 > #### CI/CD, Job Scheduling & Performance Tuning
 
-<img src="https://img.shields.io/badge/-Shell_Scripting_for_Maintenance-00BFFF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-CI/CD_(GitHub_Actions,_GitLab_CI)-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Big_Data_Pipelines-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Shell_Scripting_for_Maintenance-1E90E8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CI/CD_(GitHub_Actions,_GitLab_CI)-1E90E8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Big_Data_Pipelines-1E90E8?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Load_Balancing_&_Parallel_Processing-1E90E8?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Job_Scheduling_(SLURM,_PBS)-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pipeline_Profiling_&_Optimization-5F9EA0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Job_Scheduling_(SLURM,_PBS)-1E90E8?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pipeline_Profiling_&_Optimization-1E90E8?style=flat" height="30">&nbsp;
 
 > #### Databases
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height="30">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-316192?style=flat&logo=mysql&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQlite-316192?style=flat&logo=sqlite&logoColor=A8B9CC" height="30">&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-316192?style=flat&logo=sqlite" height="30">&nbsp;
 
 #### DATA ANALYTICS
 
