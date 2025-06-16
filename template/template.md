@@ -100,13 +100,13 @@
 
 #### DATA ANALYTICS
 
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-0064A5?style=flat&logo=sqlite&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Power_BI-FFBC00?style=flat&logo=microsoft-powerbi&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-R-F37626?style=flat&logo=r&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Python-F37626?style=flat&logo=python&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-F37626?style=flat&logo=sqlite&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Excel-F37626?style=flat&logo=microsoft-excel&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-F37626?style=flat&logo=tableau&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Power_BI-F37626?style=flat&logo=microsoft-powerbi&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-F37626?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" height="30">&nbsp;
 
 <details>
@@ -114,30 +114,30 @@
 
 <img src="https://img.shields.io/badge/-tidyverse-635CA1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-dplyr-1E90FF?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
-<img src="https://img.shields.io/badge/-ggplot2-0099C9?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-tidyr-00CED1?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-readr-4682B4?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
+<img src="https://img.shields.io/badge/-ggplot2-0099C9?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-tidyr-00CED1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-readr-4682B4?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-forcats-4169E1?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
-<img src="https://img.shields.io/badge/-lubridate-5F9EA0?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-stringr-4B0082?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-data.table-FFD700?style=flat&logo=r&logoColor=black" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-plotly-F44747?style=flat&logo=plotly&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-shiny-FF69B4?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
+<img src="https://img.shields.io/badge/-lubridate-5F9EA0?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-stringr-4B0082?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-data.table-FFD700?style=flat&logo=r&logoColor=black" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-plotly-F44747?style=flat&logo=plotly&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-shiny-FF69B4?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
 <img src="https://img.shields.io/badge/-caret-FF8C00?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
-<img src="https://img.shields.io/badge/-randomForest-228B22?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-survival-DC143C?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-ggpubr-8A2BE2?style=flat&logo=r&logoColor=white" height="25"> &nbsp;
-<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="25">&nbsp; 
-<img src="https://img.shields.io/badge/-Seaborn-3D3D3D?style=flat&logo=python&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Statsmodels-888888?style=flat&logo=python&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Altair-FF4C4C?style=flat&logo=python&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=python&logoColor=white" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-LightGBM-9ACD32?style=flat&logo=python&logoColor=white" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-randomForest-228B22?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-survival-DC143C?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-ggpubr-8A2BE2?style=flat&logo=r&logoColor=white" height="20"> &nbsp;
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="20">&nbsp; 
+<img src="https://img.shields.io/badge/-Seaborn-3D3D3D?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Statsmodels-888888?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Altair-FF4C4C?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=python&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/-LightGBM-9ACD32?style=flat&logo=python&logoColor=white" height="20">&nbsp;
 
 </details>
 
