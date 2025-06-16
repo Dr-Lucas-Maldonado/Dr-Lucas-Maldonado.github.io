@@ -223,9 +223,9 @@
 <img src="https://img.shields.io/badge/-Cell_Clustering-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Trajectory_Inference-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Spatial_Transcriptomics_Deconvolution-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Gene_Expression_Profiling-DA70D6?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-3CB371?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Gene_Expression_Profiling-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-BA55D3?style=flat" height="30">&nbsp;
 
 > #### 🌱 **Diversity and Profiling**
 
@@ -236,17 +236,17 @@
 
 > #### ⚙️ **Statistical Advanced Methods and Modeling**
 
-<img src="https://img.shields.io/badge/-Multi--omics_Factor_Analysis_(MOFA)-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Canonical_Correlation_Analysis_(CCA)-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Similarity_Network_Fusion_(SNF)-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Feature_Selection_/_Importance_Ranking-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Predictive_Modeling-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Autoencoders_/_Deep_Learning_Models-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Zero--Inflated_Models-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Bayesian_Hierarchical_Models-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-False_Discovery_Rate_Control-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Multivariate_Analysis-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Hidden_Markov_Models_(HMMs)-40E0D0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Multi--omics_Factor_Analysis_(MOFA)-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Canonical_Correlation_Analysis_(CCA)-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Similarity_Network_Fusion_(SNF)-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Feature_Selection_/_Importance_Ranking-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Predictive_Modeling-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Autoencoders_/_Deep_Learning_Models-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Zero--Inflated_Models-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Bayesian_Hierarchical_Models-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-False_Discovery_Rate_Control-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Multivariate_Analysis-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Hidden_Markov_Models_(HMMs)-20B2AA?style=flat" height="30">&nbsp;
 
 > #### 🧬 **Structural Bioinformatics**
 
@@ -257,21 +257,21 @@
 
 > ##### 🧬 Multi-Omics & Translational Applications
 
-<img src="https://img.shields.io/badge/-Precision_Medicine-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Personalized_Therapies-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Genetic_Variant_Interpretation-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Clinical_Genomics-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cancer_Genomics-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Disease_Prediction_&_Prognosis-40E0D0?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Omics_based_Diagnostics-40E0D0?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Precision_Medicine-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Personalized_Therapies-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Variant_Interpretation-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Clinical_Genomics-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Cancer_Genomics-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Disease_Prediction_&_Prognosis-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Omics_based_Diagnostics-A0522D?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Biomarker_Discovery-A0522D?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pharmacogenomics-FFD700?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Gene_Therapy_Strategies-FF69B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Epidemiological_Genomics-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Biodiversity_Assessment-228B22?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Metabolic_Engineering-66CDAA?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Ancient_DNA-1E90FF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-CRISPR--Cas_Design-20B2AA?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pharmacogenomics-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Gene_Therapy_Strategies-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Epidemiological_Genomics-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Biodiversity_Assessment-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolic_Engineering-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Ancient_DNA-A0522D?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-CRISPR--Cas_Design-A0522D?style=flat" height="30">&nbsp;
 
 > #### 🧫 Transcriptomics & Single-Cell Applications
 
