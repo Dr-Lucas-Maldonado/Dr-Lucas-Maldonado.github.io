@@ -4,18 +4,18 @@
 <!-- MANAGEMENT SKILLS -->
 ### 👨‍💼 Management
 <img src="https://img.shields.io/badge/-Leadership-1CA9C9?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Communication-66D1D1?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Teamwork-33BDBD?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Strategic_Thinking-A1E2E2?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Agile_Methodologies-2CBFBF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Mentoring-4FB6B6?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Team_Building-9BDADA?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Feedback_and_Coaching-7AD6E3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Interpersonal_Skills-32D6D6?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Creativity_and_Innovation-3B9BB3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Adaptability-1FB1E6?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Problem_Solving-2088D4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Project_Management-1E80D4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Communication-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Teamwork-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Strategic_Thinking-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Agile_Methodologies-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Mentoring-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Team_Building-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Feedback_and_Coaching-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Interpersonal_Skills-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Creativity_and_Innovation-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Adaptability-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Problem_Solving-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Project_Management-1CA9C9?style=flat" height="30">&nbsp;
 
 
 ### 💻 PROGRAMMING SKILLS
