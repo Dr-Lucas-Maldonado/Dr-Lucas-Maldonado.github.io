@@ -157,7 +157,7 @@
 <img src="https://img.shields.io/badge/-Epigenomics-BC8F8F?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Multiomics_Analysis-D8BFD8?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Metagenomics-6495ED?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Comparative_Genomics-4682B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Comparative_Genomics-5F9EA0?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Ancient_DNA-1E90FF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Lipidomics-FF69B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Glycomics-BC8F8F?style=flat" height="30">&nbsp;
@@ -179,7 +179,7 @@
 <img src="https://img.shields.io/badge/-RNA--Seq_Analysis-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Gene_Fusion_Detection-DC143C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-CNV_Analysis-8A2BE2?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Metabolic_Pathway_Analysis-32CD32?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metabolic_Pathway_Analysis-FFB6C1?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Long_Read_Technologies-BC8F8F?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Expression_Profile_Analysis-1E90FF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Differential_Expression_Analysis-FF6347?style=flat" height="30">&nbsp;
