@@ -194,13 +194,13 @@
 
 > #### 🔬 **Bioinformatics Methods**
 
-<img src="https://img.shields.io/badge/-Statistical_Analysis-8A2BE2?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Machine_Learning-3CB371?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Statistical_Analysis-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-BDB76B?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Data_Visualization-BDB76B?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Systems_Biology-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Phylogenetics-4169E1?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Clustering_Analysis-9370DB?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Dimensionality_Reduction-DAA520?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Systems_Biology-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Phylogenetics-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Clustering_Analysis-BDB76B?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Dimensionality_Reduction-BDB76B?style=flat" height="30">&nbsp;
 
 > #### 🧬 **Genomic Data Analysis**
 
@@ -309,45 +309,45 @@
 
 > #### 🌱 Agricultural & Environmental Bioinformatics
 
-<img src="https://img.shields.io/badge/-Agrigenomics-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Environmental_Bioinformatics-6B8E23?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Biodiversity_Assessment-228B22?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Metagenomics_for_Ecosystem_Health-556B2F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Agrigenomics-008080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Environmental_Bioinformatics-008080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Biodiversity_Assessment-008080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Metagenomics_for_Ecosystem_Health-008080?style=flat" height="30">&nbsp;
 
 > #### 🦠 Microbiome & Metagenomics Research
 
-<img src="https://img.shields.io/badge/-Microbiome_Research-2E8B57?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Nutrigenomics-48D1CC?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Forensic_Bioinformatics-9932CC?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Microbiome_Therapeutics-00CED1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Microbiome_Research-2F4F4F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Nutrigenomics-2F4F4F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Forensic_Bioinformatics-2F4F4F?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Microbiome_Therapeutics-2F4F4F?style=flat" height="30">&nbsp;
 
 > #### 🦠 Host-Pathogen Interactions (Clinical Applications)
 
-<img src="https://img.shields.io/badge/-Infectious_Disease_Genomics-1E90FF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Host_Pathogen_Interactions-2F4F4F?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Genomic_Analysis-8B0000?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Antibiotic_Resistance_Genomics-FFD700?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Variant_Analysis-00BFFF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Host_Immune_Response_Modeling-FF6347?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Typing_and_Identification-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Infectious_Disease_Epidemiology-B8860B?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Antimicrobial_Resistance_Profiling-2E8B57?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Infectious_Disease_Genomics-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Host_Pathogen_Interactions-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Genomic_Analysis-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Antibiotic_Resistance_Genomics-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Variant_Analysis-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Host_Immune_Response_Modeling-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Typing_and_Identification-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Infectious_Disease_Epidemiology-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Antimicrobial_Resistance_Profiling-DC143C?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Drug_Resistance_Mapping_&_Surveillance-DC143C?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Host_Interaction_Networks-D2691E?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Microbiome_Impact_on_Infectious_Diseases-BDB76B?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Virulence_Factor_Discovery-8A2BE2?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Evolution_and_Transmission-4B0082?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pathogen_Surveillance-008080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Host_Interaction_Networks-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Microbiome_Impact_on_Infectious_Diseases-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Virulence_Factor_Discovery-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Evolution_and_Transmission-DC143C?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Pathogen_Surveillance-DC143C?style=flat" height="30">&nbsp;
 
 > #### 🧱 Structural Bioinformatics Applications
 
-<img src="https://img.shields.io/badge/-Protein_Protein_Interaction_Prediction-4682B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Drug_Discovery_through_Structural_Bioinformatics-FFD700?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Protein_Structure_Based_Drug_Design-DC143C?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Molecular_Dynamics_Simulations_in_Drug_Design-00BFFF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Structural_Variants_and_Disease_Association-FF8C00?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Antibody_Engineering-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Structural_Genomics-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Protein_Protein_Interaction_Prediction-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Drug_Discovery_through_Structural_Bioinformatics-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Protein_Structure_Based_Drug_Design-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Molecular_Dynamics_Simulations_in_Drug_Design-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Structural_Variants_and_Disease_Association-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Antibody_Engineering-7B68EE?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Structural_Genomics-7B68EE?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Drug_Repurposing-7B68EE?style=flat" height="30">&nbsp;
 
 
