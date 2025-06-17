@@ -359,43 +359,43 @@
 #### 🧬 MOLECULAR BIOLOGY AND GENOMICS
 
 <img src="https://img.shields.io/badge/-Molecular_Biology-FF69B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Genetic_Engineering-DB7093?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-PCR-FF00FF?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-DNA/RNA_Purification-EE82EE?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Gene_Expression_Analysis-FFB6C1?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Genetic_Engineering-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-PCR-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-DNA/RNA_Purification-FF69B4?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Gene_Expression_Analysis-FF69B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-cDNA_Synthesis-FF69B4?style=flat" height="30">&nbsp;
 
 #### 🧫 MICROBIOLOGY AND CELL CULTURE
 
-<img src="https://img.shields.io/badge/-Microbiology-6A5ACD?style=flat" height="30">&nbsp;  
+<img src="https://img.shields.io/badge/-Microbiology-800080?style=flat" height="30">&nbsp;  
 <img src="https://img.shields.io/badge/-Cell_Biology-800080?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cell_Culture-9932CC?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Sterile_Techniques-BA55D3?style=flat" height="30">&nbsp; 
+<img src="https://img.shields.io/badge/-Cell_Culture-800080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sterile_Techniques-800080?style=flat" height="30">&nbsp; 
 
 #### 🧪 PROTEIN & BIOCHEMICAL TECHNIQUES
 
-<img src="https://img.shields.io/badge/-Proteins_Purification-8B008B?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-SDS--PAGE-4B0082?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Proteins_Purification-DDA0DD?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-SDS--PAGE-DDA0DD?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Western_Blot-DDA0DD?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Spectrophotometry-CDA4DE?style=flat" height="30">&nbsp; 
+<img src="https://img.shields.io/badge/-Spectrophotometry-DDA0DD?style=flat" height="30">&nbsp; 
 
 #### 🔬 ELECTROPHORESIS & QUANTIFICATION
 
 <img src="https://img.shields.io/badge/-Electrophoresis-C71585?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Quantitative_methods-FF69B4?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Gel_Documentation-DA70D6?style=flat" height="30">&nbsp; 
+<img src="https://img.shields.io/badge/-Quantitative_methods-C71585?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Gel_Documentation-C71585?style=flat" height="30">&nbsp; 
 
 #### 🧬 SEQUENCING TECHNOLOGIES
 
-<img src="https://img.shields.io/badge/-NGS_Technologies-FF7F50?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Illumina-F08080?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-NGS_Technologies-FF6347?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Illumina-FF6347?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nanopore-FF6347?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-PacBio-FF4500?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Sanger-DC143C?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-PacBio-FF6347?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sanger-FF6347?style=flat" height="30"> 
 
 #### 🔬 EXPERIMENTAL DESIGN & EVOLUTIONARY BIOLOGY
 
 <img src="https://img.shields.io/badge/-Experiments_Design-FF1493?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Evolutionary_Biology-DA70D6?style=flat" height="30"> &nbsp;
+<img src="https://img.shields.io/badge/-Evolutionary_Biology-FF1493?style=flat" height="30"> &nbsp;
 
 ---
