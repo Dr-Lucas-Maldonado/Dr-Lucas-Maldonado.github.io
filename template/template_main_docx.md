@@ -361,7 +361,7 @@
 
 #### 🧫 MICROBIOLOGY AND CELL CULTURE
 
-<img src="https://img.shields.io/badge/-Microbiology-800080?style=flat" height="30">&nbsp;  
+<img src="https://img.shields.io/badge/-Microbiology-800080?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cell_Biology-800080?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cell_Culture-800080?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Sterile_Techniques-800080?style=flat" height="30">&nbsp; 
