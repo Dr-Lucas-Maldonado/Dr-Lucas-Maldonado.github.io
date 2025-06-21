@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/-Teamwork-1CA9C9?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Strategic_Thinking-1CA9C9?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Agile_Methodologies-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Scrum-1CA9C9?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Kanban-1CA9C9?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Mentoring-1CA9C9?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Team_Building-1CA9C9?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Feedback_and_Coaching-1CA9C9?style=flat" height="30">&nbsp;
@@ -20,7 +22,7 @@
 
 ### 💻 PROGRAMMING SKILLS
 
-#### PROGRAMMING LANGUAGES
+#### PROGRAMMING LANGUAGES, TOOLS AND TECHNOLOGIES
 
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">&nbsp;
 <img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue&color=0B2C4A" height="30">&nbsp;
@@ -28,14 +30,10 @@
 <img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash" height="30">&nbsp;
 
-#### SYSTEM AND WORKFLOW MANAGEMENT
-
 <img src="https://img.shields.io/badge/-Linux_Systems-005571?style=flat&logo=linux" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-005571?style=flat&logo=docker" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Snakemake-005571?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nextflow-005571?style=flat" height="30">&nbsp;
-
-#### TOOLS AND TECHNOLOGIES
 
 <img src="https://img.shields.io/badge/VIM-109989.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
@@ -45,8 +43,6 @@
 <img src="https://img.shields.io/badge/-Regular_Expressions-109989?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-109989?style=flat" height="30">&nbsp;
 
-#### DEVELOPMENT ENVIRONMENT & EDITORS
-
 <img src="https://img.shields.io/badge/Jupyter-44A833.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/conda-44A833.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
@@ -54,17 +50,10 @@
 <img src="https://img.shields.io/badge/RStudio-44A833?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-44A833?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
 
-#### DEVELOPMENT
-
 <img src="https://img.shields.io/badge/-Software_Development-092E20?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Flask-092E20?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-R_Shiny-092E20?style=flat&logo=r" height="30">&nbsp;
-
-
-#### 🖥️ COMPUTING
-
-> #### Cloud & Virtualization
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-232F3E?style=flat" height="30">&nbsp;
