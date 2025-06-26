@@ -29,12 +29,10 @@
 <img src="https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash" height="30">&nbsp;
-
 <img src="https://img.shields.io/badge/-Linux_Systems-005571?style=flat&logo=linux" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-005571?style=flat&logo=docker" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Snakemake-005571?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Nextflow-005571?style=flat" height="30">&nbsp;
-
 <img src="https://img.shields.io/badge/VIM-109989.svg?&style=flat&logo=vim&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Git_&_Version_Control-109989?style=flat&logo=git" height="30">&nbsp;
@@ -42,19 +40,16 @@
 <img src="https://img.shields.io/badge/-RMarkdown-109989?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Regular_Expressions-109989?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown_&_LaTeX_for_Docs-109989?style=flat" height="30">&nbsp;
-
 <img src="https://img.shields.io/badge/Jupyter-44A833.svg?&style=flat&logo=Jupyter&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/conda-44A833.svg?&style=flat&logo=anaconda&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Conda/Virtualenv-44A833?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Poetry-44A833?style=flat&logo=python&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/RStudio-44A833?style=flat&logo=RStudio&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-44A833?style=flat&logo=visual%20studio%20code&logoColor=white" height="30">&nbsp;
-
 <img src="https://img.shields.io/badge/-Software_Development-092E20?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Flask-092E20?style=flat&logo=flask&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-R_Shiny-092E20?style=flat&logo=r" height="30">&nbsp;
-
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-AWS,_GCP,_Azure-232F3E?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cloud_Computing-232F3E?style=flat" height="30">&nbsp;
@@ -129,7 +124,6 @@
 </details>
 
 ### 🧬 BIOINFORMATICS SKILLS
-
 #### 🧬 CORE AREAS AND OMICS DISCIPLINES
 
 <img src="https://img.shields.io/badge/-Genomics-FFA500?style=flat" height="30">&nbsp;
@@ -147,7 +141,6 @@
 <img src="https://img.shields.io/badge/-Lipidomics-FF69B4?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Glycomics-BC8F8F?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Structural_Bioinformatics-00CED1?style=flat" height="30">&nbsp;
-
 
 #### 🔬 BIOINFORMATICS TECHNOLOGIES
 
@@ -173,7 +166,6 @@
 <img src="https://img.shields.io/badge/-ncRNA_and_microRNA_Analysis-BA55D3?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-microRNA_Target_Prediction-9370DB?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pattern_Analysis-FF8C00?style=flat" height="30">&nbsp;
-
 
 #### 📊 ANALYTICAL METHODS
 
@@ -218,6 +210,75 @@
 <img src="https://img.shields.io/badge/-Shannon_Index,_Bray–Curtis_dissimilarity,_etc.-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Taxonomic_&_Functional_Profiling-9ACD32?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Ordination_Methods-9ACD32?style=flat" height="30">&nbsp;
+
+<details>
+  <summary><strong>Click for further details</strong></summary>
+
+  1. Taxonomic Profiling
+
+<img src="https://img.shields.io/badge/-Kraken2-008080?style=flat&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-MetaPhlAn-4B0082?style=flat&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-Centrifuge-4682B4?style=flat&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-mOTUs-228B22?style=flat&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-GTDB_Tk-8B0000?style=flat&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-MMseqs2-4169E1?style=flat&logo=python&logoColor=white" height="20">
+
+2. Functional Profiling
+
+<img src="https://img.shields.io/badge/-HUMAnN3-0099C9?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MetaCyc-FF8C00?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-eggNOG_mapper-5F9EA0?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-KEGG_Mapper-DC143C?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-COG-8A2BE2?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-DRAM-4B0082?style=flat&logo=python&logoColor=white" height="20">  
+
+3. Alpha & Beta Diversity Analysis
+
+<img src="https://img.shields.io/badge/-QIIME2-635CA1?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-phyloseq-1E90FF?style=flat&logo=r&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-vegan-00CED1?style=flat&logo=r&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MicrobiomeAnalyst-FFD700?style=flat&logo=r&logoColor=black" height="20">  
+<img src="https://img.shields.io/badge/-ANCOM_BC-FF69B4?style=flat&logo=r&logoColor=white" height="20">  
+
+4. Strain-Level Profiling & Variant Detection
+
+<img src="https://img.shields.io/badge/-StrainPhlAn-228B22?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MIDAS-8B0000?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-Sourmash-4169E1?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-metaSNV-0099C9?style=flat&logo=python&logoColor=white" height="20">  
+
+5. Assembly & Binning
+
+<img src="https://img.shields.io/badge/-MEGAHIT-FF8C00?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-metaSPAdes-5F9EA0?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MaxBin2-DC143C?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MetaBAT2-8A2BE2?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-dRep-4B0082?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-CheckM-635CA1?style=flat&logo=python&logoColor=white" height="20">  
+
+6. Visualization & Statistical Analysis
+
+<img src="https://img.shields.io/badge/-ggplot2-1E90FF?style=flat&logo=r&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-PICRUSt2-00CED1?style=flat&logo=r&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-LEfSe-FFD700?style=flat&logo=r&logoColor=black" height="20">  
+<img src="https://img.shields.io/badge/-STAMP-FF69B4?style=flat&logo=r&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-Krona-228B22?style=flat&logo=python&logoColor=white" height="20">  
+
+7. Integrated Pipelines
+
+<img src="https://img.shields.io/badge/-QIIME2-8B0000?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-MGnify-4169E1?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-SqueezeMeta-0099C9?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-ATLAS-FF8C00?style=flat&logo=python&logoColor=white" height="20">  
+
+8. Reference Databases
+
+<img src="https://img.shields.io/badge/-NCBI_RefSeq-5F9EA0?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-GTDB-DC143C?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-UniProt-8A2BE2?style=flat&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/-IMG_M-4B0082?style=flat&logo=python&logoColor=white" height="20">  
+</details>
+
 
 > #### ⚙️ **Statistical Advanced Methods and Modeling**
 
