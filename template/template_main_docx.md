@@ -192,24 +192,45 @@
 
 > #### 📊 **Transcriptomics Data Analysis**
 
-<img src="https://img.shields.io/badge/-Time--series_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Pseudotime_Inference-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Differential_Transcript_Usage_(DTU)-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Base_and_Peak_Calling-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Allele--specific_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Cell_Clustering-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Trajectory_Inference-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Spatial_Transcriptomics_Deconvolution-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Gene_Expression_Profiling-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-BA55D3?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-BA55D3?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Bulk_RNA--Seq_Analysis-BA55D3?style=flat" height="30"> ;
+<img src="https://img.shields.io/badge/-Single--Cell_&_Spatial_Transcriptomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Quality_Control_&_Preprocessing-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Transcript_Quantification-BA55D3?style=flat" height="30">
+<img src="https://img.shields.io/badge/-Gene_Expression_Profiling-BA55D3?style=flat" height="30">
+<img src="https://img.shields.io/badge/-Differential_Gene_Expression_(DGE)-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Functional_Enrichment-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Alternative_Splicing_&_Isoform_Analysis-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Cell_Type_Identification_&_Clustering-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Trajectory_Inference-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-pseudotime,_cell_fate-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Biomarker_Discovery-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Epitranscriptomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-RNA_Modification_Profiling-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Long--Read_Transcriptomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Full--Length_Isoform_Detection-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Fusion_Gene_&_Novel_Transcript_Discovery-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Small_RNA_&_Non--Coding_RNA-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Multi--Omics_Integration-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-RNA_+_Chromatin_(ATAC--seq)-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-RNA_+_Proteomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Cross--Species_Comparative_Transcriptomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Dynamic_Transcriptomics-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Time--Series_Analysis-BA55D3?style=flat" height="30"> 
+<img src="https://img.shields.io/badge/-Perturbation_Modeling-BA55D3?style=flat" height="30">
 
+&nbsp;
 > #### 🌱 **Diversity and Profiling**
 
-<img src="https://img.shields.io/badge/-Alpha_and_Beta_Diversity_Metrics-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Shannon_Index,_Bray–Curtis_dissimilarity,_etc.-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Taxonomic_&_Functional_Profiling-9ACD32?style=flat" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Ordination_Methods-9ACD32?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Alpha_and_Beta_Diversity_Analysis-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Shannon_Index,_Bray–Curtis_dissimilarity-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Functional_Profiling-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Ordination_Methods-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Taxonomic_Profiling-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Strain_Level_Profiling_&_Variant_Detection-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Assembly_&_Binning-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Visualization_&_Statistical_Analysis-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Integrated_Pipelines-009010?style=flat" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Reference_Databases-009010?style=flat" height="30">&nbsp;
 
 <details>
   <summary><strong>Click for further details</strong></summary>
