@@ -348,28 +348,16 @@
 <img src="https://img.shields.io/badge/-Immune_Cell_Profiling_in_Single_Cell_Data-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Tumor_Heterogeneity_Assessment-8A2BE2?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Spatial_Transcriptomics_for_Tumor_Microenvironments-8A2BE2?style=flat" height="30">&nbsp;
-
-<!-- Gene Expression Analysis -->
-
 <img src="https://img.shields.io/badge/-Gene_Expression_Profiling-3CB371?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Single_Cell_Gene_Expression_Analysis-3CB371?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Time_Series_Transcriptomics_for_Disease_Models-3CB371?style=flat" height="30">&nbsp;
-
-<!--Disease & Clinical Applications -->
-
 <img src="https://img.shields.io/badge/-Transcriptomic_Biomarker_Discovery-FF8C00?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Differential_Transcript_Usage_in_Disease-FF8C00?style=flat" height="30"> &nbsp;
 <img src="https://img.shields.io/badge/-Transcriptomics_in_Precision_Oncology-FF8C00?style=flat" height="30">
 <img src="https://img.shields.io/badge/-Drug_Response_Prediction_via_Transcriptomics-FF8C00?style=flat" height="30"> &nbsp;
-
-<!-- Developmental & Dynamic Analysis -->
-
 <img src="https://img.shields.io/badge/-Pseudotime_Analysis_in_Development-8B0000?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Cell_State_Transition_Tracking-8B0000?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Lineage_Reconstruction_in_Single_Cell_Data-8B0000?style=flat" height="30"> &nbsp;
-
-<!--Systems Biology & Integration -->
-
 <img src="https://img.shields.io/badge/-Single_Cell_Multi_Omics_Integration-00BFFF?style=flat" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Pathway_Level_Transcriptomic_Signature_Analysis-00BFFF?style=flat" height="30">&nbsp; 
 
