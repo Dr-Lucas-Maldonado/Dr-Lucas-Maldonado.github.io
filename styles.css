@@ -8,7 +8,7 @@ section {
     scroll-margin-top: 80px;
 }
 .hero-section {
-    background-image: url('interactive_graph/customDNA.gif');
+    background-image: url('interactive_graph/customDNA_main.gif');
     background-size: cover;
     background-position: center;
     background-color: #16537e; /* Fallback if GIF fails */
