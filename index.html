@@ -3,11 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dr. Lucas Maldonado, Bioinformatics Scientist specializing in NGS, transcriptomics, and precision medicine. Available for consulting and collaboration.">
+    <meta name="keywords" content="bioinformatics, NGS, transcriptomics, precision medicine, metagenomics, machine learning, hire bioinformatics expert">
     <title>Dr. Lucas Maldonado - Bioinformatics Scientist</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-    <h1>Dr. Lucas Maldonado, PhD</h1>
-    <p>Bioinformatics Scientist specializing in NGS and multi-omics.</p>
-    <p><a href="mailto:lucas.l.maldonado@gmail.com">Contact Me</a></p>
+<body class="bg-gray-100 font-sans">
+    <!-- Navigation -->
+    <nav class="bg-blue-900 text-white p-4 fixed w-full top-0 z-10">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Dr. Lucas Maldonado, PhD</h1>
+            <ul class="flex space-x-4">
+                <li><a href="#home" class="hover:underline">Home</a></li>
+                <li><a href="#about" class="hover:underline">About</a></li>
+                <li><a href="#experience" class="hover:underline">Experience</a></li>
+                <li><a href="#specializations" class="hover:underline">Specializations</a></li>
+                <li><a href="#contact" class="hover:underline">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="bg-blue-800 text-white py-20 text-center pt-32">
+        <div class="container mx-auto">
+            <h2 class="text-4xl font-bold mb-4">Dr. Lucas Maldonado</h2>
+            <p class="text-xl">Bioinformatics Scientist | NGS & Multi-Omics Specialist</p>
+            <p class="mt-2">15+ years advancing genomics, transcriptomics, and precision medicine</p>
+            <a href="#contact" class="mt-4 inline-block bg-yellow-500 text-black px-6 py-2 rounded hover:bg-yellow-600">Get in Touch</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">About Me</h2>
+            <p class="text-lg mb-4">I am a Professor and Bioinformatics Scientist with over 15 years of experience applying Next-Generation Sequencing (NGS) in medicine, biotechnology, agriculture, and biodiversity. My expertise includes transcriptomics, genomics, metagenomics, and pipeline development, delivering innovative, data-driven solutions.</p>
+            <p class="text-lg">I have led multidisciplinary teams, built high-performance computing (HPC) infrastructure, and published 19 high-impact articles, contributing to human health and biotechnological innovation.</p>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="bg-gray-200 py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">Experience</h2>
+            <div class="space-y-6">
+                <div>
+                    <h3 class="text-xl font-semibold">Bioinformatics Manager & Leader, Stamm Vegh Corporation (2021–Present)</h3>
+                    <p>Designed advanced bioinformatics pipelines, established a sequencing facility, and led a specialized division for NGS projects.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">University Professor, UADE University (2020–Present)</h3>
+                    <p>Organize postgraduate courses and workshops in bioinformatics, mentoring students and professionals.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">Independent Bioinformatics Consultant (2015–Present)</h3>
+                    <p>Advise institutions on NGS experiments, optimizing protocols and interpreting omics data.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">Post-Doctorate, CONICET & University of Edinburgh (2017–2021)</h3>
+                    <p>Led genomics projects on infectious diseases and biodiversity, publishing in peer-reviewed journals.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Specializations Section -->
+    <section id="specializations" class="py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">Specializations</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <a href="single-cell-transcriptomics.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Single-Cell & Transcriptomics</h3>
+                    <p>Bulk and single-cell RNA-seq, biomarker discovery, and spatial transcriptomics.</p>
+                </a>
+                <a href="precision-medicine-oncology.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Precision Medicine & Oncology</h3>
+                    <p>Variant discovery and clinical bioinformatics for hereditary diseases and cancer.</p>
+                </a>
+                <a href="metagenomics-microbiome.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Metagenomics & Microbiome</h3>
+                    <p>Taxonomic and functional profiling of microbiota and ecosystems.</p>
+                </a>
+                <a href="biotechnology-drug-development.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Biotechnology & Drug Development</h3>
+                    <p>Innovative solutions for agricultural biotech and therapeutics.</p>
+                </a>
+                <a href="machine-learning-computational-biology.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Machine Learning & Computational Biology</h3>
+                    <p>Statistical modeling and network biology for complex datasets.</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="bg-blue-900 text-white py-16">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-3xl font-bold mb-6">Contact Me</h2>
+            <div name="contact" method="POST" data-netlify="true" class="max-w-md mx-auto">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="mb-4">
+                    <input type="text" name="name" placeholder="Your Name" class="w-full p-2 rounded text-black" required>
+                </div>
+                <div class="mb-4">
+                    <input type="email" name="email" placeholder="Your Email" class="w-full p-2 rounded text-black" required>
+                </div>
+                <div class="mb-4">
+                    <textarea name="message" placeholder="Your Message" class="w-full p-2 rounded text-black" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="bg-yellow-500 text-black px-6 py-2 rounded hover:bg-yellow-600">Send</button>
+            </div>
+            <p class="mt-4">Email: <a href="mailto:lucas.l.maldonado@gmail.com" class="underline">lucas.l.maldonado@gmail.com</a></p>
+            <p>Phone: +54 221 610 1355</p>
+            <p>Address: Soler 5836, CABA, Buenos Aires, Argentina</p>
+            <p>LinkedIn: <a href="http://www.linkedin.com/in/lucas-maldonado-phd-2aab0247" class="underline">Profile</a></p>
+            <p>GitHub: <a href="https://github.com/Dr-Lucas-Maldonado" class="underline">Profile</a></p>
+        </div>
+    </section>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
