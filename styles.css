@@ -11,7 +11,7 @@ section {
     background-image: url('interactive_graph/customDNA_main.gif');
     background-size: cover;
     background-position: center;
-    background-color: #16537e; /* Fallback if GIF fails */
+    background-color: white; /* Fallback if GIF fails */
     position: relative;
 }
 .hero-section::before {
