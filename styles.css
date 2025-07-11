@@ -1,4 +1,7 @@
 .hero-section {
+    background-image: url('https://github.com/Dr-Lucas-Maldonado/Dr-Lucas-Maldonado.github.io/blob/main/interactive_graph/customDNA.gif');
+    background-size: cover;
+    background-position: center;
     background-color: #1e40af;
     position: relative;
 }
