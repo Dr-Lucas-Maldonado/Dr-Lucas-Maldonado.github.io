@@ -1,0 +1,44 @@
+[[redirects]]
+  from = "/profile/experience"
+  to = "/profile/experience.html"
+  status = 200
+[[redirects]]
+  from = "/profile/education"
+  to = "/profile/education.html"
+  status = 200
+[[redirects]]
+  from = "/profile/publications"
+  to = "/profile/publications.html"
+  status = 200
+[[redirects]]
+  from = "/profile/languages"
+  to = "/profile/languages.html"
+  status = 200
+[[redirects]]
+  from = "/profile/achievements"
+  to = "/profile/achievements.html"
+  status = 200
+[[redirects]]
+  from = "/profile/strengths"
+  to = "/profile/strengths.html"
+  status = 200
+[[redirects]]
+  from = "/specializations/single-cell-transcriptomics"
+  to = "/specializations/single-cell-transcriptomics.html"
+  status = 200
+[[redirects]]
+  from = "/specializations/precision-medicine-oncology"
+  to = "/specializations/precision-medicine-oncology.html"
+  status = 200
+[[redirects]]
+  from = "/specializations/metagenomics-microbiome"
+  to = "/specializations/metagenomics-microbiome.html"
+  status = 200
+[[redirects]]
+  from = "/specializations/biotechnology-drug-development"
+  to = "/specializations/biotechnology-drug-development.html"
+  status = 200
+[[redirects]]
+  from = "/specializations/machine-learning-computational-biology"
+  to = "/specializations/machine-learning-computational-biology.html"
+  status = 200
