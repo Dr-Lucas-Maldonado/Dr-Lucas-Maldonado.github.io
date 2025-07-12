@@ -1,0 +1,79 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dr. Lucas Maldonado's expertise in machine learning and computational biology.">
+    <title>Machine Learning & Computational Biology - Dr. Lucas Maldonado</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-100 font-sans">
+    <!-- Navigation -->
+    <nav class="bg-blue-900 text-white p-4 fixed w-full top-0 z-10">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Dr. Lucas Maldonado, PhD</h1>
+            <ul class="flex space-x-4">
+                <li><a href="index.html#home" class="hover:underline">Home</a></li>
+                <li><a href="index.html#about" class="hover:underline">About</a></li>
+                <li><a href="index.html#profile" class="hover:underline">Profile</a></li>
+                <li><a href="index.html#specializations" class="hover:underline">Specializations</a></li>
+                <li><a href="index.html#contact" class="hover:underline">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Machine Learning & Computational Biology Section -->
+    <section class="py-20 pt-32">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">Machine Learning & Computational Biology</h2>
+            <div class="bg-white p-6 rounded-lg shadow">
+                <p class="text-lg mb-4">Applied machine learning (Scikit-learn, TensorFlow) to model complex biological datasets, including genomic and proteomic profiles.</p>
+                <p class="text-lg mb-4">Developed network biology analyses using WGCNA, Cytoscape, and NetworkX to uncover gene interactions and pathways.</p>
+                <p class="text-lg mb-4">Proficient in statistical modeling for biomarker discovery and predictive analytics in precision medicine.</p>
+                <p class="text-lg mb-4">Created scalable computational pipelines integrating machine learning with multi-omics data for research and clinical applications.</p>
+                <a href="index.html#specializations" class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Back to Specializations</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
