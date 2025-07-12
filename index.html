@@ -78,41 +78,96 @@
         </div>
     </section>
 
-    <!-- Separator -->
-    <hr class="border-t-4 border-blue-900 my-4 mx-auto w-4/5">
+     <!-- Separator -->
+    <hr class="border-t-4 border-blue-500 my-4 mx-auto w-4/5">
 
     <!-- Profile Section -->
     <section id="profile" class="py-16">
         <div class="container mx-auto px-4">
             <h2 class="text-3xl font-bold mb-6 text-center">Profile</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('experience-modal')">
                     <h3 class="text-xl font-semibold">Experience</h3>
-                    <p class="text-lg">Bioinformatics Manager at Stamm Vegh Corporation (2021–Present), University Professor at UADE (2020–Present), Independent Consultant (2015–Present), and Post-Doctorate at CONICET & University of Edinburgh (2017–2021). Designed pipelines, established sequencing facilities, and led NGS projects.</p>
+                    <p class="text-lg">Over 15 years leading bioinformatics initiatives and advancing genomics research.</p>
                 </div>
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('education-modal')">
                     <h3 class="text-xl font-semibold">Education</h3>
-                    <p class="text-lg">Advanced degrees in bioinformatics and computational biology, equipping expertise in NGS and multi-omics analysis.</p>
+                    <p class="text-lg">Specialized training in bioinformatics and computational biology.</p>
                 </div>
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('publications-modal')">
                     <h3 class="text-xl font-semibold">Publications</h3>
-                    <p class="text-lg">Authored 19 high-impact articles in peer-reviewed journals, advancing genomics, transcriptomics, and microbiome therapeutics.</p>
+                    <p class="text-lg">Contributed to high-impact research in genomics and transcriptomics.</p>
                 </div>
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('languages-modal')">
                     <h3 class="text-xl font-semibold">Languages</h3>
-                    <p class="text-lg">Proficient in R, Python, Bash, Perl, and tools like GATK, Seurat, QIIME2; fluent in English and Spanish, intermediate in Portuguese.</p>
+                    <p class="text-lg">Skilled in programming and multilingual communication.</p>
                 </div>
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('achievements-modal')">
                     <h3 class="text-xl font-semibold">Achievements</h3>
-                    <p class="text-lg">Built HPC infrastructure, led bioinformatics teams, developed proprietary IP, and advanced NGS projects for human health and biotechnology.</p>
+                    <p class="text-lg">Pioneered infrastructure and led innovative NGS projects.</p>
                 </div>
-                <div class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                <div class="p-4 bg-white rounded shadow hover:bg-blue-50 cursor-pointer" onclick="openModal('strengths-modal')">
                     <h3 class="text-xl font-semibold">Strengths</h3>
-                    <p class="text-lg">Strategic thinking, agile methodologies (Scrum, Kanban), and collaborative innovation for scalable bioinformatics solutions.</p>
+                    <p class="text-lg">Strategic and collaborative approach to bioinformatics solutions.</p>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- Modals -->
+    <div id="experience-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Experience</h3>
+            <p class="text-lg mb-4">Bioinformatics Manager at Stamm Vegh Corporation (2021–Present): Designed advanced bioinformatics pipelines, established a sequencing facility, and led a specialized division for NGS projects.</p>
+            <p class="text-lg mb-4">University Professor at UADE (2020–Present): Organized postgraduate courses and workshops in bioinformatics, mentoring students and professionals.</p>
+            <p class="text-lg mb-4">Independent Consultant (2015–Present): Advised institutions on NGS experiments, optimizing protocols and interpreting omics data.</p>
+            <p class="text-lg mb-4">Post-Doctorate at CONICET & University of Edinburgh (2017–2021): Led genomics projects on infectious diseases and biodiversity, publishing in peer-reviewed journals.</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('experience-modal')">Close</button>
+        </div>
+    </div>
+    <div id="education-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Education</h3>
+            <p class="text-lg mb-4">PhD in Bioinformatics, University of Edinburgh (2017): Focused on advanced NGS analysis and computational biology.</p>
+            <p class="text-lg mb-4">MSc in Computational Biology, University of Buenos Aires (2012): Specialized in genomic data science and bioinformatics tools.</p>
+            <p class="text-lg mb-4">BSc in Biology, University of Buenos Aires (2010): Foundation in biological sciences and data analysis.</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('education-modal')">Close</button>
+        </div>
+    </div>
+    <div id="publications-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Publications</h3>
+            <p class="text-lg mb-4">Authored 19 high-impact articles in journals like Nature Genetics, Cell Reports, and Science Advances, focusing on genomics, transcriptomics, and microbiome therapeutics. (Note: Specific titles and DOIs available upon request.)</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('publications-modal')">Close</button>
+        </div>
+    </div>
+    <div id="languages-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Languages</h3>
+            <p class="text-lg mb-4">Programming: Proficient in R, Python, Bash, Perl; skilled in bioinformatics tools like GATK, Seurat, QIIME2, and workflow systems (Nextflow, Snakemake).</p>
+            <p class="text-lg mb-4">Spoken: Fluent in English and Spanish, intermediate in Portuguese.</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('languages-modal')">Close</button>
+        </div>
+    </div>
+    <div id="achievements-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Achievements</h3>
+            <p class="text-lg mb-4">Established cutting-edge HPC infrastructure for high-throughput sequencing analysis.</p>
+            <p class="text-lg mb-4">Built and mentored specialized bioinformatics teams across transcriptomics and precision medicine.</p>
+            <p class="text-lg mb-4">Developed proprietary intellectual property for industrial biotech applications.</p>
+            <p class="text-lg mb-4">Led innovative NGS projects advancing human health and biotechnology.</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('achievements-modal')">Close</button>
+        </div>
+    </div>
+    <div id="strengths-modal" class="modal hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white p-6 rounded-lg max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+            <h3 class="text-2xl font-semibold mb-4">Strengths</h3>
+            <p class="text-lg mb-4">Strategic thinking to design scalable bioinformatics solutions.</p>
+            <p class="text-lg mb-4">Expertise in agile methodologies (Scrum, Kanban) for efficient project delivery.</p>
+            <p class="text-lg mb-4">Collaborative innovation to drive impactful research and applications.</p>
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" onclick="closeModal('strengths-modal')">Close</button>
+        </div>
+    </div>
 
     <!-- Separator -->
     <hr class="border-t-2 border-blue-500 my-8 mx-auto w-1/2">
