@@ -42,3 +42,7 @@
   from = "/specializations/machine-learning-computational-biology"
   to = "/specializations/machine-learning-computational-biology.html"
   status = 200
+[[redirects]]
+  from = "/documents/resume"
+  to = "/documents/resume.pdf"
+  status = 200
