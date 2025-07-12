@@ -1,40 +1,171 @@
-body {
-    font-family: Arial, sans-serif;
-}
-nav a:hover {
-    color: #f0c14b;
-}
-section {
-    scroll-margin-top: 80px;
-}
-.hero-section {
-    background-image: url('interactive_graph/main_profile_img.gif');
-    background-size: contain; /* Prevent over-stretching */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: white; /* Fallback */
-    position: relative;
-    image-rendering: -webkit-optimize-contrast; /* Improve scaling quality */
-    image-rendering: crisp-edges;
-}
-.hero-section::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.3); /* Slightly darker for readability */
-    z-index: 1;
-}
-.hero-section .container {
-    position: relative;
-    z-index: 2;
-}
-.dna-separator {
-    height: 20px;
-    background-image: url('interactive_graph/main_profile_img_optimized.gif');
-    background-size: 50px 20px;
-    background-repeat: repeat-x;
-    opacity: 0.7;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dr. Lucas Maldonado, Bioinformatics Scientist specializing in NGS, transcriptomics, and precision medicine. Available for consulting and collaboration.">
+    <meta name="keywords" content="bioinformatics, NGS, transcriptomics, precision medicine, metagenomics, machine learning, hire bioinformatics expert">
+    <title>Dr. Lucas Maldonado - Bioinformatics Scientist</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-100 font-sans">
+    <!-- Navigation -->
+    <nav class="bg-blue-900 text-white p-4 fixed w-full top-0 z-10">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Dr. Lucas Maldonado, PhD</h1>
+            <ul class="flex space-x-4">
+                <li><a href="#home" class="hover:underline">Home</a></li>
+                <li><a href="#about" class="hover:underline">About</a></li>
+                <li><a href="#experience" class="hover:underline">Experience</a></li>
+                <li><a href="#specializations" class="hover:underline">Specializations</a></li>
+                <li><a href="#contact" class="hover:underline">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section text-black py-20 text-center pt-32">
+        <div class="container mx-auto">
+            <h2 class="text-4xl font-bold mb-4">Dr. Lucas Maldonado</h2>
+            <p class="text-xl">Bioinformatics Scientist | NGS & Multi-Omics Specialist</p>
+            <p class="mt-2">15+ years advancing genomics, transcriptomics, and precision medicine</p>
+            <div class="mt-4 space-x-4">
+                <a href="#contact" class="inline-block bg-yellow-500 text-blue-500 px-6 py-2 rounded hover:bg-yellow-600">Get in Touch</a>
+                <a href="resume.pdf" class="inline-block bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600">Download Resume</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Separator -->
+    <hr class="border-t-2 border-blue-500 my-8 mx-auto w-1/2">
+
+    <!-- About Section -->
+    <section id="about" class="py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">About Me</h2>
+            <h3 class="text-2xl font-semibold mb-4">Overview</h3>
+            <p class="text-lg mb-4">I am a Professor and Bioinformatics Scientist with 15+ years of experience applying Next-Generation Sequencing (NGS) across medicine, biotechnology, pharmaceuticals, agriculture, and biodiversity, bringing a profound understanding of the field that facilitates innovation and enables seamless integration of bioinformatics techniques.</p>
+            <p class="text-lg mb-4">I am an expert in bioinformatics technologies for analyzing multiplatform NGS outputs (both short- and long-read data), applying advanced analytical techniques across diverse life science domains.</p>
+            <p class="text-lg mb-4">My domain expertise spans precision medicine and oncology, rare disease genomics, microbiome therapeutics, and agricultural biotechnology, with strong knowledge of key biological databases and resources, real-world data (RWD) and evidence (RWE) frameworks.</p>
+            <p class="text-lg mb-4">My extensive wet lab and in silico expertise, combined with leadership experience, allows me to deliver high-value contributions in any professional setting.</p>
+            
+            <h3 class="text-2xl font-semibold mb-4">Leadership & Contributions</h3>
+            <p class="text-lg mb-4">During my career, I have played pivotal roles that combine leadership, hands-on bioinformatics analysis, and wet lab work, with experience spanning both academic and private sectors. My work has focused on developing innovative bioinformatics solutions while building and leading teams, creating advanced computational pipelines, designing NGS wet labs, and implementing HPC infrastructure.</p>
+            <p class="text-lg mb-4">I have spearheaded numerous projects advancing our understanding of complex biological systems, contributing to human health and biotechnological innovation, with outcomes including high-impact publications and proprietary intellectual property for industrial applications.</p>
+            <p class="text-lg mb-4">I have experience managing and leading multidisciplinary teams dedicated to developing advanced computational pipelines for genomic, transcriptomic, and proteomic analyses, as well as creating tailored bioinformatics software solutions. Key contributions include:</p>
+            <ul class="list-disc pl-6 text-lg mb-4">
+                <li>Establishing a cutting-edge bioinformatics infrastructure (HPC) to support high-throughput sequencing data analysis, including large-scale datasets from single-cell RNA-seq, genomics, and proteomics.</li>
+                <li>Building and mentoring specialized bioinformatics teams across diverse domains, including transcriptomics, multi-omics, and NGS-based precision medicine.</li>
+                <li>Designing and implementing scalable sequencing analysis strategies for research, clinical, and biotechnological applications.</li>
+            </ul>
+            <p class="text-lg mb-4">Beyond leadership roles, I remain actively involved in developing tools and software to streamline multi-omics analysis, enabling reproducible, high-performance processing of complex biological datasets. My work bridges fundamental research with practical applications, driven by a focus on scalable, robust solutions that integrate:</p>
+            <ul class="list-disc pl-6 text-lg mb-4">
+                <li>Strategic thinking and meticulous attention to detail</li>
+                <li>Agile methodologies for impactful results (Scrum - Kanban)</li>
+                <li>Responsibility and enthusiasm for collaborative innovation</li>
+            </ul>
+            
+            <h3 class="text-2xl font-semibold mb-4">Technical Skills</h3>
+            <p class="text-lg mb-4">Resume of Technical & Computational Skills</p>
+            <ul class="list-disc pl-6 text-lg mb-4">
+                <li>Proficient in programming and scripting with R, Python, Bash, and Perl, with extensive experience working in HPC and cloud environments. Skilled in workflow management systems (Nextflow, Snakemake, CWL), version control (Git, GitHub/GitLab), and containerization technologies (Docker, Singularity, Conda).</li>
+                <li>Genomic Data Science expertise includes: Variant analysis: Germline/somatic mutation detection (GATK). Structural variation: CNV/SV calling. Clinical bioinformatics: Survival analysis, risk stratification. Genome assembly: Reference-based alignment (BWA, STAR, minimap2), De novo assembly (SPAdes, Flye, Canu). Metagenomics and diversity profiling: Microbiome analysis (QIIME2, MetaPhlAn), taxonomic/functional profiling (Kraken2, HUMAnN2, Kaiju, PICRUSt2).</li>
+                <li>Transcriptomics Data Science proficiency includes: bulk and single-cell RNA-seq analysis using Cell Ranger, Seurat, Monocle3, Scanpy, DESeq2, EdgeR, limma, and the scverse ecosystem; biomarker discovery and trajectory analysis; spatial transcriptomics (Visium, Xenium); and epigenomics (ChIP-seq, ATAC-seq).</li>
+                <li>Proteomics experience covers mass spectrometry data analysis using MaxQuant, FragPipe, and DIA-NN for protein profiling and differential abundance estimation.</li>
+                <li>Advanced analytical capabilities include: statistical modeling and machine learning (Scikit-learn, TensorFlow); network biology (WGCNA, Cytoscape, NetworkX).</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Separator -->
+    <hr class="border-t-2 border-blue-500 my-8 mx-auto w-1/2">
+
+    <!-- Experience Section -->
+    <section id="experience" class="bg-gray-200 py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">Experience</h2>
+            <div class="space-y-6">
+                <div>
+                    <h3 class="text-xl font-semibold">Bioinformatics Manager & Leader, Stamm Vegh Corporation (2021–Present)</h3>
+                    <p>Designed advanced bioinformatics pipelines, established a sequencing facility, and led a specialized division for NGS projects.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">University Professor, UADE University (2020–Present)</h3>
+                    <p>Organize postgraduate courses and workshops in bioinformatics, mentoring students and professionals.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">Independent Bioinformatics Consultant (2015–Present)</h3>
+                    <p>Advise institutions on NGS experiments, optimizing protocols and interpreting omics data.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold">Post-Doctorate, CONICET & University of Edinburgh (2017–2021)</h3>
+                    <p>Led genomics projects on infectious diseases and biodiversity, publishing in peer-reviewed journals.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Separator -->
+    <hr class="border-t-2 border-blue-500 my-8 mx-auto w-1/2">
+
+    <!-- Specializations Section -->
+    <section id="specializations" class="py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold mb-6 text-center">Specializations</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <a href="single-cell-transcriptomics.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Single-Cell & Transcriptomics</h3>
+                    <p>Bulk and single-cell RNA-seq, biomarker discovery, and spatial transcriptomics.</p>
+                </a>
+                <a href="precision-medicine-oncology.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Precision Medicine & Oncology</h3>
+                    <p>Variant discovery and clinical bioinformatics for hereditary diseases and cancer.</p>
+                </a>
+                <a href="metagenomics-microbiome.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Metagenomics & Microbiome</h3>
+                    <p>Taxonomic and functional profiling of microbiota and ecosystems.</p>
+                </a>
+                <a href="biotechnology-drug-development.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Biotechnology & Drug Development</h3>
+                    <p>Innovative solutions for agricultural biotech and therapeutics.</p>
+                </a>
+                <a href="machine-learning-computational-biology.html" class="p-4 bg-white rounded shadow hover:bg-blue-50">
+                    <h3 class="text-xl font-semibold">Machine Learning & Computational Biology</h3>
+                    <p>Statistical modeling and network biology for complex datasets.</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- DNA Separator -->
+    <div class="dna-separator my-8"></div>
+
+    <!-- Contact Section -->
+    <section id="contact" class="bg-blue-900 text-white py-16">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-3xl font-bold mb-6">Contact Me</h2>
+            <div name="contact" method="POST" data-netlify="true" class="max-w-md mx-auto">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="mb-4">
+                    <input type="text" name="name" placeholder="Your Name" class="w-full p-2 rounded text-black" required>
+                </div>
+                <div class="mb-4">
+                    <input type="email" name="email" placeholder="Your Email" class="w-full p-2 rounded text-black" required>
+                </div>
+                <div class="mb-4">
+                    <textarea name="message" placeholder="Your Message" class="w-full p-2 rounded text-black" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="bg-yellow-500 text-black px-6 py-2 rounded hover:bg-yellow-600">Send</button>
+            </div>
+            <p class="mt-4">Email: <a href="mailto:lucas.l.maldonado@gmail.com" class="underline">lucas.l.maldonado@gmail.com</a></p>
+            <p>Phone: +54 221 610 1355</p>
+            <p>Address: Soler 5836, CABA, Buenos Aires, Argentina</p>
+            <p>LinkedIn: <a href="http://www.linkedin.com/in/lucas-maldonado-phd-2aab0247" class="underline">Profile</a></p>
+            <p>GitHub: <a href="https://github.com/Dr-Lucas-Maldonado" class="underline">Profile</a></p>
+        </div>
+    </section>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
