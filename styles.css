@@ -33,7 +33,7 @@ section {
 }
 .dna-separator {
     height: 20px;
-    background-image: url('interactive_graph/main_profile_img_optimized.gif');
+    background-image: url('interactive_graph/main_profile_img.gif');
     background-size: 50px 20px;
     background-repeat: repeat-x;
     opacity: 0.7;
