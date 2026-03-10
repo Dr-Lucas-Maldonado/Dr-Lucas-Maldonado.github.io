@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Dr. Lucas L. Maldonado, PhD — Bioinformatics Scientist</title>
+<meta name="description" content="Senior Bioinformatics Scientist and Manager with 15+ years in NGS, multi-omics, and genomics strategy."/>
+<meta property="og:title" content="Dr. Lucas L. Maldonado, PhD"/>
+<meta property="og:description" content="Head of Bioinformatics & Translational Genomics. 15+ years · 19 publications · WIPO Patent."/>
+<meta property="og:type" content="website"/>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#060a08;--bg2:#080d0a;--surface:#0d1510;--surface2:#111a13;--surface3:#162019;
+  --border:#1e2e20;--border2:#253226;--border3:#2d3d2f;
+  --accent:#3ecf6b;--accent2:#6ddfaa;--a3:rgba(62,207,107,.15);--a4:rgba(62,207,107,.07);
+  --gold:#c9a84c;--gold2:rgba(201,168,76,.12);
+  --text:#ddeade;--text2:#9ab89c;--text3:#5c7a5e;--text4:#3a513c;
+  --serif:'Cormorant Garamond',serif;--mono:'JetBrains Mono',monospace;--sans:'Inter',sans-serif;
+  --r:6px;--r2:10px;--t:.22s;--ease:cubic-bezier(.4,0,.2,1);
+}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:15px;line-height:1.6;overflow-x:hidden}
+::-webkit-scrollbar{width:3px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border3);border-radius:2px}
+#bgCanvas{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.3}
+
+/* NAV */
+nav{position:fixed;top:0;left:0;right:0;z-index:200;height:58px;display:flex;align-items:center;justify-content:space-between;padding:0 3rem;background:rgba(6,10,8,.85);backdrop-filter:blur(16px);border-bottom:1px solid var(--border)}
+.nav-brand{font-family:var(--mono);font-size:13px;color:var(--accent);letter-spacing:.06em;text-decoration:none;display:flex;align-items:center;gap:8px}
+.nav-dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:blink 2.5s ease infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.nav-menu{display:flex;align-items:center;gap:2.5rem;list-style:none}
+.nav-menu a{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:var(--text3);text-decoration:none;text-transform:uppercase;transition:color var(--t) var(--ease)}
+.nav-menu a:hover,.nav-menu a.active{color:var(--accent)}
+.nav-btn{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;padding:7px 18px;border:1px solid var(--border3);border-radius:var(--r);color:var(--accent)!important;background:var(--a4);text-decoration:none;transition:all var(--t) var(--ease)}
+.nav-btn:hover{background:var(--a3)!important;border-color:var(--accent)!important}
+.ham{display:none;flex-direction:column;gap:4px;background:none;border:none;cursor:pointer;padding:4px}
+.ham span{display:block;width:22px;height:1.5px;background:var(--text2);transition:all var(--t) var(--ease)}
+
+/* HERO */
+.hero{min-height:100vh;padding:120px 3rem 80px;display:grid;grid-template-columns:1fr 370px;gap:5rem;align-items:center;position:relative;z-index:1}
+.hero-glow{position:absolute;top:-150px;right:-80px;width:650px;height:650px;background:radial-gradient(circle,rgba(62,207,107,.05),transparent 65%);pointer-events:none}
+.hero-glow2{position:absolute;bottom:-100px;left:-60px;width:400px;height:400px;background:radial-gradient(circle,rgba(201,168,76,.04),transparent 65%);pointer-events:none}
+.chip{display:inline-flex;align-items:center;gap:7px;padding:5px 13px;border-radius:20px;background:var(--a4);border:1px solid var(--border3);font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:var(--accent2);text-transform:uppercase;margin-bottom:1.6rem}
+.chip-dot{width:5px;height:5px;border-radius:50%;background:var(--accent);animation:blink 2s ease infinite}
+.hero-name{font-family:var(--serif);font-size:clamp(3rem,5.5vw,4.8rem);line-height:1.05;letter-spacing:-.01em;color:var(--text)}
+.hero-name em{font-style:italic;color:var(--accent2)}
+.hero-role{font-family:var(--mono);font-size:12px;letter-spacing:.08em;color:var(--text3);margin-top:.5rem}
+.hero-summary{margin-top:1.6rem;font-size:15.5px;line-height:1.8;color:var(--text2);max-width:580px}
+.hero-summary strong{color:var(--text);font-weight:600}
+.stats-row{display:flex;gap:0;margin-top:2.2rem;border:1px solid var(--border);border-radius:var(--r2);overflow:hidden}
+.stat{flex:1;padding:16px 18px;border-right:1px solid var(--border);background:var(--surface);transition:background var(--t)}
+.stat:last-child{border-right:none}
+.stat:hover{background:var(--surface2)}
+.stat-n{font-family:var(--serif);font-size:2.2rem;color:var(--accent);line-height:1}
+.stat-l{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--text3);text-transform:uppercase;margin-top:3px}
+.hero-ctas{display:flex;gap:10px;margin-top:2rem}
+.bp{display:inline-flex;align-items:center;gap:7px;padding:10px 22px;background:var(--accent);color:#060a08;font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:500;border-radius:var(--r);text-decoration:none;transition:all var(--t) var(--ease)}
+.bp:hover{background:var(--accent2);transform:translateY(-1px)}
+.bs{display:inline-flex;align-items:center;gap:7px;padding:10px 22px;background:transparent;color:var(--text2);font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--border3);border-radius:var(--r);text-decoration:none;transition:all var(--t) var(--ease)}
+.bs:hover{border-color:var(--accent);color:var(--accent)}
+
+/* JSON CARD */
+.jcard{background:var(--surface);border:1px solid var(--border2);border-radius:var(--r2);overflow:hidden;box-shadow:0 24px 64px rgba(0,0,0,.5)}
+.jc-head{padding:12px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:7px}
+.jc-dot{width:10px;height:10px;border-radius:50%}
+.jc-title{font-family:var(--mono);font-size:11px;color:var(--text4);margin-left:auto}
+.jc-body{padding:20px}
+.cl{font-family:var(--mono);font-size:12px;line-height:1.95;color:var(--text3)}
+.cl .k{color:#7ee8a2}.cl .s{color:#fcd97a}.cl .n{color:#93c5fd}.cl .v{color:#f0abfc}.cl .c{color:var(--text4)}
+.jc-links{margin-top:14px;padding-top:14px;border-top:1px solid var(--border);display:flex;flex-direction:column;gap:5px}
+.jc-link{display:flex;align-items:center;gap:9px;padding:6px 8px;font-family:var(--mono);font-size:11px;color:var(--text2);text-decoration:none;border-radius:var(--r);transition:all var(--t) var(--ease)}
+.jc-link:hover{background:var(--a4);color:var(--accent)}
+.jc-link svg{flex-shrink:0;opacity:.5}
+
+/* SECTION */
+section{position:relative;z-index:1;padding:80px 3rem;border-bottom:1px solid var(--border)}
+.sh{display:flex;align-items:baseline;gap:1rem;margin-bottom:3rem}
+.sn{font-family:var(--mono);font-size:11px;letter-spacing:.1em;color:var(--accent);text-transform:uppercase}
+.st{font-family:var(--serif);font-size:clamp(1.9rem,3vw,2.8rem);color:var(--text);line-height:1.1}
+.sl{flex:1;height:1px;background:linear-gradient(90deg,var(--border2),transparent)}
+.ssub{font-size:13px;color:var(--text3);margin-top:.25rem;font-style:italic;font-family:var(--serif)}
+
+/* PROFILE CARDS */
+.pgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.pc{background:var(--surface);border:1px solid var(--border);border-radius:var(--r2);padding:26px;cursor:pointer;transition:all var(--t) var(--ease);position:relative;overflow:hidden}
+.pc::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--accent2));opacity:0;transition:opacity var(--t) var(--ease)}
+.pc:hover,.pc.open{border-color:var(--border3);background:var(--surface2)}
+.pc:hover::before,.pc.open::before{opacity:1}
+.pc-ico{font-size:1.6rem;margin-bottom:12px}
+.pc-ttl{font-family:var(--serif);font-size:1.2rem;color:var(--text);margin-bottom:6px}
+.pc-prev{font-size:13px;color:var(--text3);line-height:1.5}
+.pc-arr{position:absolute;top:20px;right:20px;font-family:var(--mono);font-size:15px;color:var(--text4);transition:all var(--t) var(--ease)}
+.pc:hover .pc-arr,.pc.open .pc-arr{color:var(--accent);transform:rotate(90deg)}
+.pc-exp{display:none;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}
+.pc.open .pc-exp{display:block}
+.pc-exp p{font-size:13.5px;color:var(--text2);line-height:1.7;margin-bottom:10px}
+.pc-exp ul{list-style:none;display:flex;flex-direction:column;gap:7px;margin-top:4px}
+.pc-exp ul li{font-size:13px;color:var(--text2);line-height:1.5;display:flex;gap:8px}
+.pc-exp ul li::before{content:'›';color:var(--accent);flex-shrink:0;font-family:var(--mono)}
+.pc-exp a{color:var(--accent2);text-decoration:none}
+.pc-exp a:hover{text-decoration:underline}
+
+/* EXPERIENCE */
+.expc{display:flex;flex-direction:column}
+.expe{display:grid;grid-template-columns:210px 1fr;border-top:1px solid var(--border);transition:background var(--t) var(--ease)}
+.expe:hover{background:rgba(62,207,107,.02)}
+.expl{padding:28px 24px 28px 0}
+.exp-per{font-family:var(--mono);font-size:10.5px;color:var(--text3);letter-spacing:.06em}
+.exp-co{font-family:var(--mono);font-size:12px;color:var(--accent2);margin-top:5px;line-height:1.4}
+.exp-tp{display:inline-block;margin-top:8px;padding:2px 8px;border:1px solid var(--border2);border-radius:20px;font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--text4)}
+.expr{padding:28px 0 28px 32px;border-left:1px solid var(--border)}
+.exp-role{font-family:var(--serif);font-size:1.3rem;color:var(--text);line-height:1.2;margin-bottom:14px}
+.exp-ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+.exp-ul li{display:flex;gap:10px;font-size:14px;color:var(--text2);line-height:1.6}
+.exp-ul li::before{content:'→';font-family:var(--mono);color:var(--text4);flex-shrink:0;margin-top:1px;font-size:12px}
+.etags{display:flex;flex-wrap:wrap;gap:5px;margin-top:14px}
+.et{font-family:var(--mono);font-size:10px;color:var(--text4);padding:2px 8px;background:var(--surface3);border:1px solid var(--border);border-radius:3px}
+
+/* SKILLS */
+.skl{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.sg{background:var(--surface);border:1px solid var(--border);border-radius:var(--r2);padding:24px;transition:border-color var(--t)}
+.sg:hover{border-color:var(--border3)}
+.sg-h{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+.sg-i{font-size:1.2rem}
+.sg-t{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent2)}
+.stags{display:flex;flex-wrap:wrap;gap:6px}
+.stag{font-family:var(--mono);font-size:11px;color:var(--text3);padding:4px 10px;background:var(--bg);border:1px solid var(--border);border-radius:var(--r);transition:all var(--t) var(--ease)}
+.stag:hover{border-color:var(--border3);color:var(--text2)}
+.stag.hl{border-color:var(--border3);color:var(--accent2)}
+.sbars{display:flex;flex-direction:column;gap:12px}
+.sb-row{}.sb-lbl{display:flex;justify-content:space-between;margin-bottom:5px}
+.sb-name{font-family:var(--mono);font-size:11px;color:var(--text2)}
+.sb-pct{font-family:var(--mono);font-size:10px;color:var(--text4)}
+.sb-track{height:3px;background:var(--border);border-radius:2px;overflow:hidden}
+.sb-fill{height:100%;border-radius:2px;background:linear-gradient(90deg,var(--accent),var(--accent2));width:0;transition:width 1.2s cubic-bezier(.4,0,.2,1)}
+
+/* SPECIALIZATIONS */
+.spgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.spc{background:var(--surface);border:1px solid var(--border);border-radius:var(--r2);padding:26px;transition:all var(--t) var(--ease);position:relative;overflow:hidden}
+.spc::after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 70% 30%,rgba(62,207,107,.06),transparent 60%);opacity:0;transition:opacity var(--t)}
+.spc:hover{border-color:var(--border3);transform:translateY(-2px)}
+.spc:hover::after{opacity:1}
+.spc-i{font-size:1.8rem;margin-bottom:14px}
+.spc-t{font-family:var(--serif);font-size:1.15rem;color:var(--text);margin-bottom:8px}
+.spc-d{font-size:13px;color:var(--text3);line-height:1.6}
+.spc-tools{display:flex;flex-wrap:wrap;gap:4px;margin-top:12px}
+.spt{font-family:var(--mono);font-size:9.5px;color:var(--text4);padding:2px 7px;border:1px solid var(--border);border-radius:20px}
+
+/* PUBLICATIONS */
+.pmr{display:flex;align-items:center;gap:12px;margin-bottom:1.5rem;flex-wrap:wrap}
+.ppl{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border:1px solid var(--border3);border-radius:var(--r);font-family:var(--mono);font-size:10.5px;color:var(--accent2);text-decoration:none;transition:all var(--t) var(--ease);background:var(--a4)}
+.ppl:hover{background:var(--a3);border-color:var(--accent)}
+.pfilt{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:1.5rem}
+.pf{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;padding:5px 13px;border:1px solid var(--border);border-radius:20px;background:transparent;color:var(--text3);cursor:pointer;transition:all var(--t) var(--ease)}
+.pf:hover,.pf.on{border-color:var(--accent);color:var(--accent);background:var(--a4)}
+.plist{display:flex;flex-direction:column}
+.pr{display:grid;grid-template-columns:36px 1fr auto;gap:14px;padding:16px 0;border-bottom:1px solid var(--border);align-items:start;transition:all var(--t) var(--ease)}
+.pr:hover{background:var(--a4);padding-left:10px;padding-right:10px;margin:0 -10px;border-radius:var(--r)}
+.pn{font-family:var(--mono);font-size:10.5px;color:var(--text4);padding-top:2px}
+.pt{font-size:14px;color:var(--text);line-height:1.5;font-weight:500}
+.pt em{font-style:italic}
+.pm{font-family:var(--mono);font-size:10.5px;color:var(--text3);margin-top:4px}
+.pm strong{color:var(--text2)}
+.pa{font-family:var(--mono);font-size:10px;color:var(--accent);text-decoration:none;padding:3px 9px;border:1px solid var(--border3);border-radius:var(--r);white-space:nowrap;transition:all var(--t) var(--ease)}
+.pa:hover{background:var(--a4)}
+.patent-box{margin-top:1.5rem;padding:18px 20px;background:var(--gold2);border:1px solid rgba(201,168,76,.25);border-radius:var(--r2);display:flex;align-items:center;gap:14px}
+.patent-lbl{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-bottom:3px}
+.patent-val{font-size:13.5px;color:var(--text2)}
+.patent-a{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--gold);text-decoration:none;padding:4px 12px;border:1px solid rgba(201,168,76,.3);border-radius:var(--r);white-space:nowrap;transition:all var(--t) var(--ease);background:var(--gold2)}
+.patent-a:hover{background:rgba(201,168,76,.2)}
+
+/* EDUCATION */
+.egrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:14px}
+.ecard{background:var(--surface);border:1px solid var(--border);border-radius:var(--r2);padding:22px;transition:border-color var(--t)}
+.ecard:hover{border-color:var(--border3)}
+.edeg{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.etitle{font-size:14px;color:var(--text);font-weight:600;line-height:1.4;margin-bottom:5px}
+.einst{font-family:var(--mono);font-size:11px;color:var(--text3)}
+.eyr{font-family:var(--mono);font-size:10px;color:var(--text4);margin-top:4px}
+
+/* ACHIEVEMENTS */
+.agrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.acard{background:var(--surface);border:1px solid var(--border);border-radius:var(--r2);padding:24px;transition:all var(--t) var(--ease)}
+.acard:hover{border-color:var(--border3);background:var(--surface2)}
+.aic{font-size:1.4rem;margin-bottom:10px}
+.att{font-family:var(--serif);font-size:1.1rem;color:var(--text);margin-bottom:8px}
+.add{font-size:13.5px;color:var(--text3);line-height:1.6}
+
+/* CONTACT */
+#contact{background:var(--bg2)}
+.cwrap{display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:start}
+.ct-tag{font-family:var(--serif);font-size:2.2rem;color:var(--text);line-height:1.2;margin-bottom:1rem}
+.ct-tag em{font-style:italic;color:var(--accent2)}
+.ct-desc{font-size:15px;color:var(--text2);line-height:1.75;margin-bottom:2rem}
+.citems{display:flex;flex-direction:column;gap:8px}
+.ci{display:flex;align-items:center;gap:12px;padding:10px 12px;border-radius:var(--r);text-decoration:none;border:1px solid transparent;transition:all var(--t) var(--ease)}
+.ci:hover{background:var(--surface);border-color:var(--border)}
+.ci-ico{width:36px;height:36px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--r);display:flex;align-items:center;justify-content:center;font-size:14px;flex-shrink:0;transition:all var(--t) var(--ease)}
+.ci:hover .ci-ico{border-color:var(--accent);background:var(--a4)}
+.ci-l{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--text4)}
+.ci-v{font-size:13px;color:var(--text2);transition:color var(--t)}
+.ci:hover .ci-v{color:var(--accent2)}
+.fg{margin-bottom:14px}
+.fl{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--text3);margin-bottom:6px}
+.fi,.fa{width:100%;background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:10px 14px;color:var(--text);font-family:var(--sans);font-size:14px;transition:all var(--t) var(--ease);outline:none;resize:vertical}
+.fi:focus,.fa:focus{border-color:var(--accent);background:var(--surface2)}
+.fa{min-height:110px}
+.fsub{width:100%;padding:12px;background:var(--accent);color:var(--bg);font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:500;border:none;border-radius:var(--r);cursor:pointer;transition:all var(--t) var(--ease)}
+.fsub:hover{background:var(--accent2)}
+.fok{display:none;padding:14px;background:var(--a4);border:1px solid var(--border3);border-radius:var(--r);font-family:var(--mono);font-size:11px;color:var(--accent2);text-align:center;margin-top:10px}
+
+/* FOOTER */
+footer{position:relative;z-index:1;padding:1.8rem 3rem;display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--border)}
+.fc{font-family:var(--mono);font-size:10.5px;color:var(--text4)}
+.flinks{display:flex;gap:1.8rem}
+.fl2{font-family:var(--mono);font-size:10.5px;color:var(--text3);text-decoration:none;transition:color var(--t)}
+.fl2:hover{color:var(--accent)}
+
+/* REVEAL */
+.rv{opacity:0;transform:translateY(22px);transition:opacity .55s var(--ease),transform .55s var(--ease)}
+.rv.in{opacity:1;transform:translateY(0)}
+
+/* RESPONSIVE */
+@media(max-width:1100px){
+  .hero{grid-template-columns:1fr;padding:100px 2rem 60px}
+  .jcard-wrap{display:none}
+  .pgrid{grid-template-columns:repeat(2,1fr)}
+  .spgrid{grid-template-columns:repeat(2,1fr)}
+  .skl{grid-template-columns:1fr}
+  section{padding:60px 2rem}
+}
+@media(max-width:768px){
+  nav{padding:0 1.2rem}
+  .nav-menu{display:none}
+  .ham{display:flex}
+  .hero{padding:88px 1.2rem 50px}
+  .expe{grid-template-columns:1fr}
+  .expl{padding:20px 0 0}
+  .expr{padding:12px 0 24px;border-left:none}
+  .pgrid,.spgrid,.egrid,.agrid{grid-template-columns:1fr}
+  .cwrap{grid-template-columns:1fr;gap:2.5rem}
+  footer{flex-direction:column;gap:1rem;text-align:center}
+  .stats-row{flex-wrap:wrap}
+  .stat{flex:0 0 50%}
+  section{padding:48px 1.2rem}
+}
+</style>
+</head>
+<body>
+<canvas id="bgCanvas"></canvas>
+
+<!-- NAV -->
+<nav>
+  <a href="#home" class="nav-brand"><span class="nav-dot"></span>LLM · phd</a>
+  <ul class="nav-menu" id="navmenu">
+    <li><a href="#profile">Profile</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#specializations">Specializations</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#contact" class="nav-btn">Contact</a></li>
+  </ul>
+  <button class="ham" id="ham" aria-label="Menu"><span></span><span></span><span></span></button>
+</nav>
+
+<!-- HERO -->
+<section id="home" class="hero">
+  <div class="hero-glow"></div><div class="hero-glow2"></div>
+  <div>
+    <div class="chip"><span class="chip-dot"></span>Open to senior &amp; strategic opportunities</div>
+    <h1 class="hero-name">Dr. Lucas L.<br/><em>Maldonado</em>, PhD</h1>
+    <p class="hero-role">// Head of Bioinformatics &amp; Translational Genomics</p>
+    <p class="hero-summary">Senior Bioinformatics Scientist and Manager with <strong>15+ years</strong> delivering NGS and multi-omics solutions across genomics, single-cell biology, biotechnology, and applied life sciences. Founded and led bioinformatics capabilities operating at <strong>production scale</strong> — from HPC infrastructure to client-ready analytical systems.</p>
+    <div class="stats-row rv">
+      <div class="stat"><div class="stat-n">15+</div><div class="stat-l">Years</div></div>
+      <div class="stat"><div class="stat-n">19+</div><div class="stat-l">Publications</div></div>
+      <div class="stat"><div class="stat-n">8+</div><div class="stat-l">Parallel Projects</div></div>
+      <div class="stat"><div class="stat-n">1</div><div class="stat-l">WIPO Patent</div></div>
+    </div>
+    <div class="hero-ctas rv">
+      <a href="documents/resume.pdf" class="bp" download>
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download CV
+      </a>
+      <a href="#contact" class="bs">Get in Touch →</a>
+    </div>
+  </div>
+  <div class="jcard-wrap rv">
+    <div class="jcard">
+      <div class="jc-head">
+        <span class="jc-dot" style="background:#ff5f57"></span>
+        <span class="jc-dot" style="background:#febc2e"></span>
+        <span class="jc-dot" style="background:#28c840"></span>
+        <span class="jc-title">profile.json</span>
+      </div>
+      <div class="jc-body">
+        <div class="cl"><span class="c">// Dr. Lucas L. Maldonado · Buenos Aires</span></div>
+        <div class="cl">{</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"role"</span>: <span class="s">"Head of Bioinformatics"</span>,</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"experience_years"</span>: <span class="v">15</span>,</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"domains"</span>: [</div>
+        <div class="cl">&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"NGS &amp; Multi-Omics"</span>,</div>
+        <div class="cl">&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"Single-Cell Biology"</span>,</div>
+        <div class="cl">&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"Precision Medicine"</span>,</div>
+        <div class="cl">&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"Metagenomics"</span></div>
+        <div class="cl">&nbsp;&nbsp;],</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"publications"</span>: <span class="v">19</span>,</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"patent"</span>: <span class="s">"WO2024059658"</span>,</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"languages"</span>: [<span class="s">"ES"</span>,<span class="s">"EN"</span>,<span class="s">"PT"</span>],</div>
+        <div class="cl">&nbsp;&nbsp;<span class="k">"available"</span>: <span class="n">true</span></div>
+        <div class="cl">}</div>
+        <div class="jc-links">
+          <a href="mailto:lucas.l.maldonado@gmail.com" class="jc-link"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>lucas.l.maldonado@gmail.com</a>
+          <a href="http://www.linkedin.com/in/lucas-maldonado-phd-2aab0247" target="_blank" class="jc-link"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>LinkedIn Profile</a>
+          <a href="https://github.com/Dr-Lucas-Maldonado" target="_blank" class="jc-link"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>GitHub</a>
+          <a href="https://wa.me/+542216101355" target="_blank" class="jc-link"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6.1 6.1l.95-.95a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>WhatsApp · +54 221 610 1355</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROFILE (expandable cards) -->
+<section id="profile">
+  <div class="sh rv">
+    <span class="sn">01</span>
+    <div><h2 class="st">Profile</h2><p class="ssub">Click any card to expand</p></div>
+    <span class="sl"></span>
+  </div>
+  <div class="pgrid">
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">💼</div>
+      <div class="pc-ttl">Experience</div>
+      <div class="pc-prev">15+ years leading NGS projects and bioinformatics initiatives across academic, clinical, and industrial environments.</div>
+      <div class="pc-exp">
+        <p>Leading Life Science and bioinformatics initiatives, NGS projects and advancing genomics R&D for over 15 years at public and private institutions.</p>
+        <ul>
+          <li>Founded and scaled a multidisciplinary bioinformatics division from zero to production scale.</li>
+          <li>Delivered 8+ concurrent projects spanning precision medicine, single-cell, metagenomics, and agricultural genomics simultaneously.</li>
+          <li>Designed NGS laboratories integrating long-read technologies (PacBio, Oxford Nanopore).</li>
+          <li>Managed teams across academic (UBA, CONICET, Edinburgh) and private sectors for over a decade.</li>
+          <li>Operated as scientific authority bridging bioinformatics, wet lab, software engineering, and external partners.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">🎓</div>
+      <div class="pc-ttl">Education</div>
+      <div class="pc-prev">PhD in Biological Sciences (Bioinformatics &amp; Genomics) · Postdocs at Edinburgh &amp; CONICET/UBA.</div>
+      <div class="pc-exp">
+        <ul>
+          <li><strong>PhD in Biological Sciences</strong> — Bioinformatics &amp; Genomics · University of Buenos Aires / CONICET · Major: Bioinformatics, Genomics, Infectious Diseases</li>
+          <li><strong>Postdoc</strong> — University of Edinburgh, UK (2017–2019) · Infectious disease genomics &amp; biodiversity</li>
+          <li><strong>Postdoc</strong> — CONICET / UBA, Argentina (2019–2021) · Multi-omics &amp; infectious disease</li>
+          <li><strong>MSc</strong> in Biotechnology &amp; Molecular Biology · National University of La Plata, Argentina</li>
+          <li><strong>BSc</strong> in Biotechnology &amp; Molecular Biology · National University of La Plata, Argentina</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">📄</div>
+      <div class="pc-ttl">Publications</div>
+      <div class="pc-prev">19 peer-reviewed articles in genomics, bioinformatics, and health data science. 1 WIPO Patent.</div>
+      <div class="pc-exp">
+        <p>Author of 19+ peer-reviewed papers published in international journals including <em>BMC Genomics, Scientific Reports, Frontiers in Genetics, PLoS NTDs, Int J Parasitol</em>, and more. Research spans parasite genomics, transcriptomics, microRNA, SARS-CoV-2, ancient DNA, and precision medicine.</p>
+        <ul>
+          <li>Collaborations with institutions in Argentina, UK, Brazil, Uruguay, and USA.</li>
+          <li>WIPO Patent — <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658" target="_blank">WO2024059658</a></li>
+          <li><a href="https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/" target="_blank">NCBI Profile ↗</a></li>
+          <li><a href="https://www.scopus.com/authid/detail.uri?authorId=56526515300" target="_blank">Scopus Profile ↗</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">🌍</div>
+      <div class="pc-ttl">Languages</div>
+      <div class="pc-prev">Fluent in Spanish (native), English (advanced), and Portuguese (proficient) for global collaboration.</div>
+      <div class="pc-exp">
+        <ul>
+          <li><strong>Spanish</strong> 🇦🇷 — Native / C2 · Primary language for all professional contexts in Argentina</li>
+          <li><strong>English</strong> 🇬🇧 — Advanced / C1 · Daily use for scientific writing, client communication, and international collaboration including postdoc at University of Edinburgh</li>
+          <li><strong>Portuguese</strong> 🇧🇷 — Proficient / B2 · Research collaborations with Brazilian institutions (FIOCRUZ, UFMG, LNCC)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">🏆</div>
+      <div class="pc-ttl">Achievements</div>
+      <div class="pc-prev">Pioneering infrastructure builds, trusted scientific advisor, internationally acclaimed research author.</div>
+      <div class="pc-exp">
+        <ul>
+          <li>Built 4 independent bioinformatics infrastructures across academic, diagnostic, and industrial environments — including HPC/cloud platforms and reproducible multi-omics pipelines.</li>
+          <li>Founded and scaled a multidisciplinary bioinformatics division delivering NGS, multi-omics analytics, and bioinformatics software at production scale.</li>
+          <li>Designed and implemented end-to-end NGS laboratories including long-read sequencing technologies.</li>
+          <li>19+ peer-reviewed publications establishing global scientific credibility and cross-sector partnerships.</li>
+          <li>Successfully managed 8+ concurrent projects across diverse domains without loss of quality or depth.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pc rv" onclick="toggleCard(this)">
+      <span class="pc-arr">›</span>
+      <div class="pc-ico">💡</div>
+      <div class="pc-ttl">Core Strengths</div>
+      <div class="pc-prev">Strategic leadership, end-to-end project ownership, deep domain expertise across wet-lab and in silico.</div>
+      <div class="pc-exp">
+        <ul>
+          <li><strong>Leadership &amp; Project Management</strong> — Proven experience leading cross-functional teams; 8+ parallel initiatives without loss of execution quality.</li>
+          <li><strong>Strategic Thinking &amp; R&amp;D</strong> — Aligning bioinformatics strategies with research goals; driving data-driven decisions in scientific &amp; business contexts.</li>
+          <li><strong>Deep Domain Expertise</strong> — Rare combination of bioinformatics, biology, wet lab, and software development capabilities.</li>
+          <li><strong>Interdisciplinary Expertise</strong> — Bridges academia, clinical, and industrial environments effectively.</li>
+          <li><strong>Resilient Under Pressure</strong> — Consistently delivers under demanding timelines with precision and responsibility (Agile: Scrum, Kanban).</li>
+          <li><strong>Trusted &amp; Empathetic Leadership</strong> — Effective communicator with scientific, operational, and non-technical stakeholders.</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience">
+  <div class="sh rv"><span class="sn">02</span><h2 class="st">Experience</h2><span class="sl"></span></div>
+  <div class="expc">
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">Aug 2021 – Present</div>
+        <div class="exp-co">Stamm Vegh<br/>Corporation</div>
+        <span class="exp-tp">Industry · Private</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">Bioinformatics Manager &amp; Head of Bioinformatics Division</div>
+        <ul class="exp-ul">
+          <li>Founded and scaled a multidisciplinary bioinformatics function — defining organizational structure, technical direction, and delivery models across NGS, multi-omics analytics, and bioinformatics software development, aligned with R&amp;D, innovation, and externally facing initiatives.</li>
+          <li>Planned, prioritized, and delivered a high-complexity portfolio of 8+ concurrent initiatives spanning precision medicine, cancer genetics, single-cell &amp; bulk transcriptomics, metagenomics, agricultural genomics, and applied life-science programs.</li>
+          <li>Owned end-to-end execution: pipeline architecture, algorithm &amp; platform development, HPC/cloud infrastructure, regulatory alignment, and client-ready outcomes ensuring reproducibility.</li>
+          <li>Designed and implemented the company's NGS laboratory including long-read technologies (PacBio &amp; Oxford Nanopore) — personally validating assays and translating wet-lab protocols into production-grade analytical pipelines.</li>
+          <li>Acted as scientific and technical authority at the interface of bioinformatics, software engineering, wet-lab operations, and external partners — surfacing non-obvious biological findings supporting strategic and client-facing decisions.</li>
+        </ul>
+        <div class="etags"><span class="et">NGS</span><span class="et">scRNA-seq</span><span class="et">PacBio</span><span class="et">ONT</span><span class="et">HPC</span><span class="et">AWS</span><span class="et">Precision Medicine</span><span class="et">Cancer Genomics</span><span class="et">Metagenomics</span></div>
+      </div>
+    </div>
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">Jul 2015 – Present</div>
+        <div class="exp-co">Independent<br/>Consultant</div>
+        <span class="exp-tp">Freelance · Advisory</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">Scientific R&amp;D Advisor — Bioinformatics &amp; NGS</div>
+        <ul class="exp-ul">
+          <li>Founded and operated an independent bioinformatics consultancy supporting healthcare, biotech, and academic organizations in genomics, NGS, and data analytics initiatives.</li>
+          <li>Designed and implemented scalable data pipelines for clinical, translational, and biotechnology applications — translating scientific questions into actionable analytical solutions directly with stakeholders.</li>
+          <li>Applied AI and machine learning to biological datasets; developed ontology-driven biological annotation and classification frameworks supporting AI model development and structured data curation.</li>
+          <li>Collaborated on interdisciplinary projects integrating bioinformatics, AI methods, and experimental design to address complex biological questions.</li>
+        </ul>
+        <div class="etags"><span class="et">Consulting</span><span class="et">ML / AI</span><span class="et">Multi-Omics</span><span class="et">Clinical Bioinformatics</span><span class="et">Data Pipelines</span></div>
+      </div>
+    </div>
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">Jul 2020 – Present</div>
+        <div class="exp-co">UADE University</div>
+        <span class="exp-tp">Academia</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">University Professor — Bioinformatics &amp; Data Analytics</div>
+        <ul class="exp-ul">
+          <li>Designed and led postgraduate training programs in bioinformatics and data analytics, integrating NGS, AI-driven analysis, and computational health systems.</li>
+          <li>Organized international postgraduate courses; designed workshops in bioinformatics focusing on Linux operating systems, NGS workflows, and reproducible research.</li>
+          <li>Mentored professionals in applied bioinformatics, data visualization, and analytics for healthcare and life sciences — bridging academic training with industry practice.</li>
+        </ul>
+        <div class="etags"><span class="et">Teaching</span><span class="et">Postgraduate</span><span class="et">Mentoring</span><span class="et">Linux</span><span class="et">NGS Training</span></div>
+      </div>
+    </div>
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">2019 – 2021</div>
+        <div class="exp-co">CONICET – UBA<br/>Argentina</div>
+        <span class="exp-tp">Academia · Postdoc</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">Postdoctoral Researcher — Bioinformatics &amp; Genomics</div>
+        <ul class="exp-ul">
+          <li>Led genomics and transcriptomics projects in infectious diseases, integrating multi-omics data to uncover disease mechanisms.</li>
+          <li>Published and presented findings through peer-reviewed journals and international conferences.</li>
+          <li>Collaborated with interdisciplinary teams to develop innovative computational approaches for biological data analysis.</li>
+        </ul>
+        <div class="etags"><span class="et">Infectious Disease</span><span class="et">Genomics</span><span class="et">Transcriptomics</span></div>
+      </div>
+    </div>
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">2017 – 2019</div>
+        <div class="exp-co">University of<br/>Edinburgh, UK</div>
+        <span class="exp-tp">Academia · Postdoc</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">Postdoctoral Researcher — Bioinformatics &amp; Genomics</div>
+        <ul class="exp-ul">
+          <li>Directed genomic diversity and infectious disease research using next-generation sequencing and computational pipelines.</li>
+          <li>Collaborated with international teams on large-scale genomics initiatives with global research partners.</li>
+          <li>Contributed to biodiversity sequencing projects; coordinated data analysis, visualization, and manuscript development across interdisciplinary groups.</li>
+        </ul>
+        <div class="etags"><span class="et">Edinburgh</span><span class="et">Biodiversity</span><span class="et">NGS</span><span class="et">International Collaboration</span></div>
+      </div>
+    </div>
+
+    <div class="expe rv">
+      <div class="expl">
+        <div class="exp-per">2009 – 2013</div>
+        <div class="exp-co">INTA &amp;<br/>Barenbrug Co.</div>
+        <span class="exp-tp">Industry · R&amp;D</span>
+      </div>
+      <div class="expr">
+        <div class="exp-role">R&amp;D Scientist — Agricultural Biotechnology</div>
+        <ul class="exp-ul">
+          <li>Conducted research on pest control strategies and agricultural biotechnology at Argentina's National Institute of Agricultural Technology (INTA).</li>
+          <li>Applied genetic engineering to modify organisms for crop yield improvement at Barenbrug–Palaversich Co.; conducted microbiology techniques for soybean inoculant improvement.</li>
+        </ul>
+        <div class="etags"><span class="et">Agricultural Genomics</span><span class="et">Genetic Engineering</span><span class="et">Biotechnology</span></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <div class="sh rv"><span class="sn">03</span><h2 class="st">Technical Skills</h2><span class="sl"></span></div>
+  <div class="skl">
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">💻</span><span class="sg-t">Programming &amp; Analytics</span></div><div class="stags"><span class="stag hl">R</span><span class="stag hl">Python</span><span class="stag hl">Bash</span><span class="stag">Perl</span><span class="stag">Scikit-learn</span><span class="stag">TensorFlow</span><span class="stag">WGCNA</span><span class="stag">NetworkX</span><span class="stag">Cytoscape</span><span class="stag">Tableau</span><span class="stag">Statistical Modeling</span><span class="stag">Machine Learning</span></div></div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">⚙️</span><span class="sg-t">Workflow &amp; Infrastructure</span></div><div class="stags"><span class="stag hl">Nextflow</span><span class="stag hl">Snakemake</span><span class="stag">CWL</span><span class="stag hl">Docker</span><span class="stag">Singularity</span><span class="stag">Conda</span><span class="stag hl">HPC</span><span class="stag">AWS</span><span class="stag">GCP</span><span class="stag">Git / GitHub / GitLab</span><span class="stag">CI/CD</span></div></div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">🧬</span><span class="sg-t">Genomics &amp; Variant Analysis</span></div><div class="stags"><span class="stag hl">GATK</span><span class="stag">BWA</span><span class="stag">STAR</span><span class="stag">minimap2</span><span class="stag">Germline/Somatic</span><span class="stag">CNV / SV</span><span class="stag">SPAdes</span><span class="stag">Flye</span><span class="stag">Canu</span><span class="stag hl">PacBio</span><span class="stag hl">Oxford Nanopore</span><span class="stag">de novo Assembly</span></div></div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">🔬</span><span class="sg-t">Single-Cell &amp; Transcriptomics</span></div><div class="stags"><span class="stag hl">Seurat</span><span class="stag hl">Scanpy</span><span class="stag">Cell Ranger</span><span class="stag">Monocle3</span><span class="stag">scverse</span><span class="stag hl">DESeq2</span><span class="stag">EdgeR</span><span class="stag">limma</span><span class="stag">Visium</span><span class="stag">Xenium</span><span class="stag">ATAC-seq</span><span class="stag">ChIP-seq</span><span class="stag">Spatial Transcriptomics</span></div></div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">🦠</span><span class="sg-t">Metagenomics &amp; Proteomics</span></div><div class="stags"><span class="stag hl">QIIME2</span><span class="stag">MetaPhlAn</span><span class="stag">Kraken2</span><span class="stag">HUMAnN2</span><span class="stag">Kaiju</span><span class="stag">PICRUSt2</span><span class="stag hl">MaxQuant</span><span class="stag">FragPipe</span><span class="stag">DIA-NN</span></div></div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">📊</span><span class="sg-t">Databases &amp; Resources</span></div><div class="stags"><span class="stag">HCA</span><span class="stag">CellxGene</span><span class="stag">GEO</span><span class="stag">Single Cell Portal</span><span class="stag">PanglaoDB</span><span class="stag">CellMarker</span><span class="stag">Azimuth</span><span class="stag">RWD / RWE</span><span class="stag">NCBI</span><span class="stag">Scopus</span></div></div>
+  </div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px">
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">📈</span><span class="sg-t">Core Language Proficiency</span></div>
+      <div class="sbars">
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">R</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="95"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Python</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="90"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Bash / Shell</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="92"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Nextflow / Snakemake</span><span class="sb-pct">Advanced</span></div><div class="sb-track"><div class="sb-fill" data-w="85"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Perl</span><span class="sb-pct">Proficient</span></div><div class="sb-track"><div class="sb-fill" data-w="70"></div></div></div>
+      </div>
+    </div>
+    <div class="sg rv"><div class="sg-h"><span class="sg-i">🧠</span><span class="sg-t">Domain Depth</span></div>
+      <div class="sbars">
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Single-Cell Biology</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="97"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Genomics / Variant Analysis</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="93"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Metagenomics</span><span class="sb-pct">Expert</span></div><div class="sb-track"><div class="sb-fill" data-w="88"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">Proteomics</span><span class="sb-pct">Advanced</span></div><div class="sb-track"><div class="sb-fill" data-w="78"></div></div></div>
+        <div class="sb-row"><div class="sb-lbl"><span class="sb-name">ML / Computational Bio</span><span class="sb-pct">Advanced</span></div><div class="sb-track"><div class="sb-fill" data-w="80"></div></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SPECIALIZATIONS -->
+<section id="specializations">
+  <div class="sh rv"><span class="sn">04</span><h2 class="st">Specializations</h2><span class="sl"></span></div>
+  <div class="spgrid">
+    <div class="spc rv"><div class="spc-i">🔬</div><div class="spc-t">Single-Cell &amp; Transcriptomics</div><div class="spc-d">Bulk and single-cell RNA-seq, biomarker discovery, trajectory analysis, and spatial transcriptomics. Advanced integration using the scverse ecosystem for cell-type resolution analysis.</div><div class="spc-tools"><span class="spt">Cell Ranger</span><span class="spt">Seurat</span><span class="spt">Scanpy</span><span class="spt">Monocle3</span><span class="spt">Visium</span><span class="spt">ATAC-seq</span></div></div>
+    <div class="spc rv"><div class="spc-i">🏥</div><div class="spc-t">Precision Medicine &amp; Oncology</div><div class="spc-d">Variant discovery and clinical bioinformatics for hereditary diseases and cancer genomics. Survival analysis, risk stratification, and regulatory-aligned pipeline development.</div><div class="spc-tools"><span class="spt">GATK</span><span class="spt">CNV/SV</span><span class="spt">Germline/Somatic</span><span class="spt">Clinical QMS</span></div></div>
+    <div class="spc rv"><div class="spc-i">🦠</div><div class="spc-t">Metagenomics &amp; Microbiome</div><div class="spc-d">Taxonomic and functional profiling of microbiota and ecosystems. From sequencing through interpretation for therapeutic, diagnostic, and ecological applications.</div><div class="spc-tools"><span class="spt">QIIME2</span><span class="spt">Kraken2</span><span class="spt">HUMAnN2</span><span class="spt">MetaPhlAn</span><span class="spt">PICRUSt2</span></div></div>
+    <div class="spc rv"><div class="spc-i">💊</div><div class="spc-t">Biotechnology &amp; Drug Development</div><div class="spc-d">Innovative solutions spanning agricultural biotech and therapeutics. Integration of wet-lab and computational approaches for translational applications and industrial pipelines.</div><div class="spc-tools"><span class="spt">Proteomics</span><span class="spt">Epigenomics</span><span class="spt">RWD/RWE</span><span class="spt">Agricultural NGS</span></div></div>
+    <div class="spc rv"><div class="spc-i">🤖</div><div class="spc-t">Machine Learning &amp; Computational Biology</div><div class="spc-d">Statistical modeling, network biology, and applied ML for complex biological datasets. Ontology-driven annotation, AI model guidance, and decision-support systems.</div><div class="spc-tools"><span class="spt">Scikit-learn</span><span class="spt">TensorFlow</span><span class="spt">WGCNA</span><span class="spt">NetworkX</span></div></div>
+    <div class="spc rv"><div class="spc-i">🏗️</div><div class="spc-t">Bioinformatics Infrastructure</div><div class="spc-d">End-to-end design and deployment of HPC/cloud platforms, multi-omics pipelines, and QMS-aligned frameworks. Division founding, team scaling, and production-grade delivery.</div><div class="spc-tools"><span class="spt">HPC</span><span class="spt">AWS/GCP</span><span class="spt">Nextflow</span><span class="spt">Docker</span><span class="spt">CI/CD</span></div></div>
+  </div>
+</section>
+
+<!-- PUBLICATIONS -->
+<section id="publications">
+  <div class="sh rv"><span class="sn">05</span><h2 class="st">Publications</h2><span class="sl"></span></div>
+  <div class="pmr rv">
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/" target="_blank" class="ppl">NCBI Profile ↗</a>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=56526515300" target="_blank" class="ppl">Scopus ↗</a>
+  </div>
+  <div class="pfilt rv">
+    <button class="pf on" onclick="filterP('all',this)">All (19)</button>
+    <button class="pf" onclick="filterP('genomics',this)">Genomics</button>
+    <button class="pf" onclick="filterP('parasitology',this)">Parasitology</button>
+    <button class="pf" onclick="filterP('infectious',this)">Infectious Disease</button>
+    <button class="pf" onclick="filterP('ancient',this)">Ancient DNA</button>
+  </div>
+  <div class="plist" id="plist">
+    <div class="pr rv" data-cat="parasitology"><div class="pn">19</div><div><div class="pt">Genetic diversity of <em>Dioctophyme renale</em> in Southern South America</div><div class="pm">Arce LF, ..., <strong>Maldonado LL</strong>, et al. · <em>Parasitology</em> · 2024</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/39462818" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="parasitology"><div class="pn">18</div><div><div class="pt">A Comparative Analysis of the Protein Cargo of Extracellular Vesicles from Helminth Parasites</div><div class="pm">Ancarola ME, <strong>Maldonado LL</strong>, et al. · <em>Life (Basel)</em> · 2023</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/38137887" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="ancient"><div class="pn">17</div><div><div class="pt">Ancient mitochondrial genome diversity in South America: Contributions from Quebrada del Toro, Northwestern Argentina</div><div class="pm">Russo MG, ..., <strong>Maldonado L</strong>, et al. · <em>Am J Biol Anthropol</em> · 2023</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/37323114" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="ancient"><div class="pn">16</div><div><div class="pt">Ancient Human Mitogenome of the Beagle Channel (Tierra del Fuego): An Argentine Collaborative Project</div><div class="pm">Arencibia V, ..., <strong>Lucas Maldonado</strong>, et al. · <em>Latin American Antiquity</em> · 2024</div></div><a href="https://www.cambridge.org/core/journals/latin-american-antiquity/article/ancient-human-mitogenome-of-the-beagle-channel-tierra-del-fuego" target="_blank" class="pa">Journal ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">15</div><div><div class="pt">A novel <em>Tetrahymena thermophila</em> sterol C-22 desaturase belongs to the fatty acid hydroxylase/desaturase superfamily</div><div class="pm">Sanchez Granel ML, ..., <strong>Maldonado LL</strong>, et al. · <em>J Biol Chem</em> · 2022</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/35988640" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="parasitology"><div class="pn">14</div><div><div class="pt">Cestodes in the genomic era</div><div class="pm">Kamenetzky L, <strong>Maldonado LL</strong>, Cucher MA. · <em>Parasitol Res</em> · 2022</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/34665308" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="infectious"><div class="pn">13</div><div><div class="pt">Molecular features similarities between SARS-CoV-2, SARS, MERS and key human genes could favour the viral infections and trigger collateral effects</div><div class="pm"><strong>Maldonado LL</strong>, Bertelli AM, Kamenetzky L. · <em>Sci Rep</em> · 2021</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/33602998" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="infectious"><div class="pn">12</div><div><div class="pt">Fcγ Receptor IIa (FCGR2A) Polymorphism Is Associated With Severe Respiratory Syncytial Virus Disease in Argentinian Infants</div><div class="pm">Holgado MP, ..., <strong>Maldonado LL</strong>, et al. · <em>Front Cell Infect Microbiol</em> · 2020</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/33392111" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="parasitology"><div class="pn">11</div><div><div class="pt"><em>Dioctophyme renale</em> in a domestic cat (Felis catus): Renal location and nephrectomy</div><div class="pm">Butti MJ, ..., <strong>Maldonado LL</strong>, et al. · <em>Vet Parasitol</em> · 2019</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/31796187" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">10</div><div><div class="pt">Revisiting the Phylogenetic History of Helminths Through Genomics, the Case of the New <em>Echinococcus oligarthrus</em> Genome</div><div class="pm"><strong>Maldonado LL</strong>, Arrabal JP, Rosenzvit MC, Oliveira GC, Kamenetzky L. · <em>Front Genet</em> · 2019</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/31440275" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">9</div><div><div class="pt">Transcriptomic profile of two developmental stages of the cestode parasite <em>Mesocestoides corti</em></div><div class="pm">Basika T, ..., <strong>Maldonado L</strong>, et al. · <em>Mol Biochem Parasitol</em> · 2019</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/30797776" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">8</div><div><div class="pt">Whole genome analysis of codon usage in <em>Echinococcus</em></div><div class="pm"><strong>Maldonado LL</strong>, Stegmayer G, Milone DH, et al. · <em>Mol Biochem Parasitol</em> · 2018</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/30081061" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="parasitology"><div class="pn">7</div><div><div class="pt">Unique pharmacological properties of serotoninergic G-protein coupled receptors from cestodes</div><div class="pm">Camicia F, ..., <strong>Maldonado L</strong>, et al. · <em>PLoS Negl Trop Dis</em> · 2018</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/29425245" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">6</div><div><div class="pt">Genome-wide identification of microRNA targets in the neglected disease pathogens of the genus <em>Echinococcus</em></div><div class="pm">Macchiaroli N, <strong>Maldonado LL</strong>, et al. · <em>Mol Biochem Parasitol</em> · 2017</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/28385564" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">5</div><div><div class="pt">The <em>Echinococcus canadensis</em> (G7) genome: a key knowledge of parasitic platyhelminth human diseases</div><div class="pm"><strong>Maldonado LL</strong>, Assis J, Araújo FM, et al. · <em>BMC Genomics</em> · 2017</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/28241794" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">4</div><div><div class="pt">MicroRNA discovery in the human parasite <em>Echinococcus multilocularis</em> from genome-wide data</div><div class="pm">Kamenetzky L, Stegmayer G, <strong>Maldonado L</strong>, et al. · <em>Genomics</em> · 2016</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/27107656" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="parasitology"><div class="pn">3</div><div><div class="pt">Cystic echinococcosis in South America: systematic review of <em>Echinococcus granulosus sensu lato</em></div><div class="pm">Cucher MA, ..., <strong>Maldonado L</strong>, et al. · <em>Trop Med Int Health</em> · 2016</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/26610060" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">2</div><div><div class="pt">High-throughput characterization of <em>Echinococcus</em> spp. metacestode miRNomes</div><div class="pm">Cucher M, ..., <strong>Maldonado L</strong>, et al. · <em>Int J Parasitol</em> · 2015</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/25659494" target="_blank" class="pa">PubMed ↗</a></div>
+    <div class="pr rv" data-cat="genomics"><div class="pn">1</div><div><div class="pt">microRNA profiling in the zoonotic parasite <em>Echinococcus canadensis</em> using a high-throughput approach</div><div class="pm">Macchiaroli N, ..., <strong>Maldonado L</strong>, et al. · <em>Parasit Vectors</em> · 2015</div></div><a href="https://www.ncbi.nlm.nih.gov/pubmed/25656283" target="_blank" class="pa">PubMed ↗</a></div>
+  </div>
+  <div class="patent-box rv">
+    <div style="font-size:1.3rem">🏛️</div>
+    <div><div class="patent-lbl">WIPO Patent</div><div class="patent-val">WO2024059658 — International Patent Application</div></div>
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658" target="_blank" class="patent-a">View Patent ↗</a>
+  </div>
+</section>
+
+<!-- EDUCATION & ACHIEVEMENTS -->
+<section id="education">
+  <div class="sh rv"><span class="sn">06</span><h2 class="st">Education &amp; Achievements</h2><span class="sl"></span></div>
+  <div class="egrid">
+    <div class="ecard rv"><div class="edeg">PhD</div><div class="etitle">Biological Sciences — Bioinformatics &amp; Genomics</div><div class="einst">University of Buenos Aires / CONICET · Argentina</div><div class="eyr">Major: Bioinformatics, Genomics, Infectious Diseases</div></div>
+    <div class="ecard rv"><div class="edeg">MSc</div><div class="etitle">Biotechnology &amp; Molecular Biology</div><div class="einst">National University of La Plata · Argentina</div></div>
+    <div class="ecard rv"><div class="edeg">BSc</div><div class="etitle">Biotechnology &amp; Molecular Biology</div><div class="einst">National University of La Plata · Argentina</div></div>
+  </div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:3rem">
+    <div class="ecard rv" style="border-color:var(--border3)"><div class="edeg" style="color:var(--accent2)">Postdoc</div><div class="etitle">Bioinformatics &amp; Genomics — Infectious Diseases</div><div class="einst">University of Edinburgh · UK</div><div class="eyr">2017 – 2019</div></div>
+    <div class="ecard rv" style="border-color:var(--border3)"><div class="edeg" style="color:var(--accent2)">Postdoc</div><div class="etitle">Bioinformatics &amp; Genomics</div><div class="einst">CONICET – University of Buenos Aires · Argentina</div><div class="eyr">2019 – 2021</div></div>
+  </div>
+  <div class="sh rv" style="margin-top:0;margin-bottom:1.5rem">
+    <span class="sn" style="color:var(--gold)">★</span>
+    <h3 style="font-family:var(--serif);font-size:1.6rem;color:var(--text)">Key Achievements</h3>
+    <span class="sl"></span>
+  </div>
+  <div class="agrid">
+    <div class="acard rv"><div class="aic">🏗️</div><div class="att">Four Bioinformatics Infrastructures Built from Zero</div><div class="add">Built and delivered four independent bioinformatics infrastructures across academic, diagnostic, and industrial environments — including HPC/cloud platforms, analytical software stacks, and reproducible multi-omics pipelines supporting production-scale genomics and applied research.</div></div>
+    <div class="acard rv"><div class="aic">🚀</div><div class="att">Pioneering Leadership at STAMM Corporation</div><div class="add">Founded the Bioinformatics Division from scratch — driving pipeline implementation, NGS lab design including long-read sequencing (PacBio &amp; ONT), team growth, and production-grade delivery across 8+ concurrent scientific domains simultaneously.</div></div>
+    <div class="acard rv"><div class="aic">🌍</div><div class="att">Internationally Acclaimed Research Author</div><div class="add">Published 19 groundbreaking scientific articles in high-impact journals including BMC Genomics, Scientific Reports, Frontiers in Genetics, and PLoS NTDs — plus one WIPO Patent (WO2024059658) advancing genomics, infectious disease, and bioinformatics globally.</div></div>
+    <div class="acard rv"><div class="aic">🤝</div><div class="att">Trusted Scientific Advisor Across Sectors</div><div class="add">Provided invaluable expertise to public and private institutions shaping NGS experiments and bioinformatics pipelines, while maintaining an extensive freelance advisory portfolio spanning healthcare, biotech, and academia since 2015 across three continents.</div></div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="sh rv"><span class="sn">07</span><h2 class="st">Contact</h2><span class="sl"></span></div>
+  <div class="cwrap">
+    <div class="rv">
+      <div class="ct-tag">Let's work on something <em>impactful</em> together.</div>
+      <p class="ct-desc">Open to senior bioinformatics leadership roles, scientific advisory positions, strategic consulting, and collaborative R&amp;D partnerships in genomics, multi-omics, and applied life sciences.</p>
+      <div class="citems">
+        <a href="mailto:lucas.l.maldonado@gmail.com" class="ci"><div class="ci-ico">✉️</div><div><div class="ci-l">Email</div><div class="ci-v">lucas.l.maldonado@gmail.com</div></div></a>
+        <a href="tel:+542216101355" class="ci"><div class="ci-ico">📞</div><div><div class="ci-l">Phone</div><div class="ci-v">+54 221 610 1355</div></div></a>
+        <a href="https://wa.me/+542216101355?text=Hello,%20I'm%20contacting%20you%20regarding%20your%20bioinformatics%20services" target="_blank" class="ci"><div class="ci-ico">💬</div><div><div class="ci-l">WhatsApp</div><div class="ci-v">Chat on WhatsApp</div></div></a>
+        <a href="http://www.linkedin.com/in/lucas-maldonado-phd-2aab0247" target="_blank" class="ci"><div class="ci-ico">💼</div><div><div class="ci-l">LinkedIn</div><div class="ci-v">lucas-maldonado-phd-2aab0247</div></div></a>
+        <a href="https://github.com/Dr-Lucas-Maldonado" target="_blank" class="ci"><div class="ci-ico">🐙</div><div><div class="ci-l">GitHub</div><div class="ci-v">Dr-Lucas-Maldonado</div></div></a>
+        <div class="ci"><div class="ci-ico">📍</div><div><div class="ci-l">Location</div><div class="ci-v">Ciudad Autónoma de Buenos Aires, Argentina</div></div></div>
+      </div>
+    </div>
+    <div class="rv">
+      <div class="fg"><label class="fl">Your Name</label><input type="text" class="fi" id="fn" placeholder="Dr. Jane Smith"/></div>
+      <div class="fg"><label class="fl">Email Address</label><input type="email" class="fi" id="fe" placeholder="jane@company.com"/></div>
+      <div class="fg"><label class="fl">Organization</label><input type="text" class="fi" id="fo" placeholder="Your company or institution"/></div>
+      <div class="fg"><label class="fl">Message</label><textarea class="fa" id="fm" placeholder="Describe your project, role, or collaboration..."></textarea></div>
+      <button class="fsub" onclick="doSend()">Send Message →</button>
+      <div class="fok" id="fok">✓ Opening your email client… I'll respond within 24 hours.</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span class="fc">© 2025 Dr. Lucas L. Maldonado, PhD · Buenos Aires, Argentina</span>
+  <div class="flinks">
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/lucas%20luciano.maldonado.1/bibliography/public/" target="_blank" class="fl2">Publications</a>
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024059658" target="_blank" class="fl2">Patent</a>
+    <a href="http://www.linkedin.com/in/lucas-maldonado-phd-2aab0247" target="_blank" class="fl2">LinkedIn</a>
+    <a href="https://github.com/Dr-Lucas-Maldonado" target="_blank" class="fl2">GitHub</a>
+  </div>
+</footer>
+
+<script>
+// PARTICLE CANVAS
+(function(){
+  const c=document.getElementById('bgCanvas'),ctx=c.getContext('2d');
+  let W,H,pts=[];
+  function resize(){W=c.width=window.innerWidth;H=c.height=window.innerHeight}
+  function P(){this.x=Math.random()*W;this.y=Math.random()*H;this.vx=(Math.random()-.5)*.28;this.vy=(Math.random()-.5)*.28;this.r=Math.random()*1.1+.3;this.a=Math.random()*.35+.08;this.g=Math.random()>.75}
+  P.prototype.tick=function(){this.x+=this.vx;this.y+=this.vy;if(this.x<0||this.x>W||this.y<0||this.y>H){this.x=Math.random()*W;this.y=Math.random()*H}};
+  function init(){resize();pts=Array.from({length:110},()=>new P())}
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    for(let i=0;i<pts.length;i++){
+      for(let j=i+1;j<pts.length;j++){
+        const dx=pts[i].x-pts[j].x,dy=pts[i].y-pts[j].y,d=Math.hypot(dx,dy);
+        if(d<110){ctx.beginPath();ctx.strokeStyle=`rgba(62,207,107,${(1-d/110)*.07})`;ctx.lineWidth=.5;ctx.moveTo(pts[i].x,pts[i].y);ctx.lineTo(pts[j].x,pts[j].y);ctx.stroke()}
+      }
+    }
+    pts.forEach(p=>{
+      p.tick();
+      ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+      ctx.globalAlpha=p.a;ctx.fillStyle=p.g?'#3ecf6b':'#1e2e20';ctx.fill();ctx.globalAlpha=1;
+    });
+    requestAnimationFrame(draw);
+  }
+  window.addEventListener('resize',resize);
+  init();draw();
+})();
+
+// SCROLL REVEAL
+const rvels=document.querySelectorAll('.rv');
+const rvo=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');rvo.unobserve(e.target)}})},{threshold:.07,rootMargin:'0px 0px -30px 0px'});
+rvels.forEach(el=>rvo.observe(el));
+
+// SKILL BARS
+const baro=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.querySelectorAll('.sb-fill').forEach(b=>{setTimeout(()=>{b.style.width=b.dataset.w+'%'},200)});baro.unobserve(e.target)}})},{threshold:.3});
+document.querySelectorAll('.sbars').forEach(el=>baro.observe(el));
+
+// EXPANDABLE CARDS
+function toggleCard(c){const o=c.classList.contains('open');document.querySelectorAll('.pc').forEach(x=>x.classList.remove('open'));if(!o)c.classList.add('open')}
+
+// PUB FILTER
+function filterP(cat,btn){document.querySelectorAll('.pf').forEach(b=>b.classList.remove('on'));btn.classList.add('on');document.querySelectorAll('.pr').forEach(r=>{r.style.display=(cat==='all'||r.dataset.cat===cat)?'grid':'none'})}
+
+// NAV ACTIVE
+const secs=document.querySelectorAll('section[id]');
+const nls=document.querySelectorAll('.nav-menu a');
+window.addEventListener('scroll',()=>{let cur='';secs.forEach(s=>{if(window.scrollY>=s.offsetTop-80)cur=s.id});nls.forEach(a=>{a.classList.toggle('active',a.getAttribute('href')==='#'+cur)})},{passive:true});
+
+// FORM
+function doSend(){
+  const n=document.getElementById('fn').value.trim(),e=document.getElementById('fe').value.trim(),m=document.getElementById('fm').value.trim();
+  if(!n||!e||!m){alert('Please fill in name, email, and message.');return}
+  window.location.href='mailto:lucas.l.maldonado@gmail.com?subject=Portfolio Contact from '+encodeURIComponent(n)+'&body='+encodeURIComponent('From: '+n+'\nEmail: '+e+'\nOrg: '+document.getElementById('fo').value+'\n\n'+m);
+  document.getElementById('fok').style.display='block';
+}
+
+// MOBILE NAV
+document.getElementById('ham').addEventListener('click',function(){
+  const m=document.getElementById('navmenu'),open=m.style.display==='flex';
+  m.style.cssText=open?'display:none':'display:flex;flex-direction:column;position:fixed;top:58px;left:0;right:0;background:rgba(6,10,8,.97);border-bottom:1px solid #1e2e20;padding:1.5rem 2rem;gap:1.2rem;z-index:199';
+  if(!open)m.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{m.style.display='none'},{once:true}));
+});
+</script>
+</body>
+</html>
